@@ -7,7 +7,7 @@ title: Guillermo Copello
 superuser: true
 
 # Role/position
-role: Profesor adjunto
+role: Investigador Principal
 
 # Organizations/Affiliations
 organizations:
