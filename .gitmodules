@@ -1,0 +1,3 @@
+[submodule "astra-bib"]
+	path = astra-bib
+	url = https://github.com/astra-uu-se/astra-bib.git
