@@ -14,7 +14,7 @@ baseurl = "www.ginapsgroup.com"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "&copy; [@Biotovar] (https://twitter.com/BioTovar)"
+copyright = "&copy; 2021 - {currentYear} @Biotovar"
 
 ############################
 ## Advanced options below ##

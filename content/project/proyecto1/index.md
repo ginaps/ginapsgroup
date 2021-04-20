@@ -1,5 +1,5 @@
 ---
-Biosorbentes híbridos nanoestructurados: Desarrollo y aplicación en muestras reales
+title: Biosorbentes híbridos nanoestructurados: Desarrollo y aplicación en muestras reales
 summary: Aplicaciones de quitina para problemas ambientales.
 tags:
 - Quitina
@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Materiales en base quitina
   focal_point: Smart
 
 links:
