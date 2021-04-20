@@ -1,6 +1,6 @@
 ---
 title: : Biosorbentes híbridos nanoestructurados: Desarrollo y aplicación en muestras reales
-#summary: Aplicaciones.
+summary: Aplicaciones de quitina para problemas ambientales.
 tags:
 - Quitina
 date: "2016-04-27T00:00:00Z"
@@ -27,7 +27,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#slides: example
 ---
 
 La problemática que aborda el presente proyecto es la del control de
