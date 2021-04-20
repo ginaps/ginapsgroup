@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+Biosorbentes híbridos nanoestructurados: Desarrollo y aplicación en muestras reales
+summary: Aplicaciones de quitina para problemas ambientales.
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
@@ -16,7 +16,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/ginapsgroup
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -30,12 +30,45 @@ url_video: ""
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
-
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
-
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+La problemática que aborda el presente proyecto es la del control de
+efluentes industriales y la remediación de recursos naturales
+contaminados. Frente a esto, se estudiará la factibilidad del uso de
+biosorbentes nanoestructurados de bajo costo. De esta manera, se
+analizarán respuestas factibles de implementar por productores
+industriales o agentes gubernamentales encargados de la preservación
+del medio ambiente. Esta problemática es de actual relevancia no solo
+en nuestro país sino también a nivel mundial, debido a la toma de
+consciencia de la conservación de los recursos y la existencia de
+normas que establecen los estándares que deben cumplir las aguas
+residuales que generan las industrias. Es por esto que es necesario
+brindarles alternativas tecnológicas costo-efectivas para el
+tratamiento de efluentes. Cabe aclarar que no son solo los
+contaminantes generados por las industrias los constituyen un desafío
+para la remediación medioambiental; la presencia natural de sustancias
+tóxicas para los humanos disminuye la calidad del agua en muchas partes
+del país, como es el caso del Arsénico en Tucumán, Santa Fe y Buenos
+Aires entre otras provincias.El objetivo del plan de trabajo surge de
+la evolución de los resultados obtenidos por el proyecto global en el
+cual se enmarca este plan de trabajo. El objetivo global radica en
+estudiar el desarrollo de materiales híbridos nanoestructurados para su
+uso como biosorbentes. Éstos están formados por el biopolímero quitina
+como base del material y se estudian las ventajas y desventajas de su
+combinación con nanohojas de óxido de grafeno (GO) u óxido de grafeno
+reducido (rGO). La proporción entre las nanohojas y la matriz de
+polisacárido permite el control de la resistencia mecánica. Al mismo
+tiempo, el agregado de GO significa un incremento de la superficie
+específica, un aporte de nuevos grupos funcionales y, en caso de buscar
+selectividad hacia un grupo de iones o moléculas en particular, brinda
+la posibilidad de ser derivatizado con nuevos grupos funcionales. La
+experiencia preliminar muestra que la combinación de quitina con GO
+forma un material novedoso del cual queda mucho por estudiar no sólo en
+cuanto a sus propiedades físicas y químicas sino también en cuanto a su
+performance como biosorbente. En particular, resta por analizar dicho
+material frente a muestras reales provenientes de problemáticas
+específicas, tanto locales como internacionales. Por esto se propone
+como objetivo el estudio del comportamiento de materiales híbridos
+nanoestructurados a base de quitina y GO o rGO para su uso como
+biosorbentes de iones contaminatantes. A su vez se evaluará un modelo
+de derivatización de los grupos reactivos del GO para brindar
+respuestas a sistemas que requieran de sorbentes selectivos.
