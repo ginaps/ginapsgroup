@@ -17,7 +17,7 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
   - Investigador principal
-  - Investigadores en formación
+  - Investigador en formación
   - Estudiante de grado
   - Administrativo
   - Visitante
