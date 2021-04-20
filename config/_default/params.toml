@@ -84,19 +84,19 @@ show_related = {post = true, project = true, publication = true, talk = true}
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
-phone = "888 888 88 88"
+email = "ginapslab@gmail.com"
+phone = "+54-11-5287-4336 / 4335"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
+address = {street = "Junin 956", city = "Buenos Aires", region = "AR", postcode = "1199", country = "Argentina", country_code = "ARG"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "-34.597628", longitude = "-58.397808"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Reception on Floor 2"
+directions = "Entrar por el edificio FFyB-UBA y suba al piso 3"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
