@@ -47,7 +47,7 @@ social:
   link: https://orcid.org/0000-0002-9986-660X
 - icon: google-scholar
   icon_pack: ai
-  link:https://scholar.google.com.ar/citations?view_op=list_works&hl=es&user=I3-URvYAAAAJ
+  link: https://scholar.google.com.ar/citations?view_op=list_works&hl=es&user=I3-URvYAAAAJ
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Emilia-Villanueva
