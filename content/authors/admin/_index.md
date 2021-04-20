@@ -58,7 +58,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Investigador principal
 ---
 
 Este grupo es liderado por el Dr. Guillermo Copello, profesor adjunto de la catedra de Quimica Analitica Instrumental de la Facultad de Farmacia y Bioquimica en la Universidad de Buenos Aires. Ademas, es investigador en el Instituto de Química y Metabolismo del Fármaco, IQUIMEFA (Consejo Nacional de Investigaciones Científicas y Técnicas - Universidad de Buenos Aires).
