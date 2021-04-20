@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Grupo de Investigación en Nanotecnología, Polímeros y Sustentabilidad (GINaPs).
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,16 +10,16 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Universidad de Buenos Aires
+  url: "http://www.ffyb.uba.ar/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Un grupo de trabajo interdisciplinario.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+Intereses:
+- Quitina
+- Keratina
+- Nanoparticulas
 
 education:
   courses:
@@ -40,16 +40,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'mailto:ginapsgroup@gmail.com'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/GinapsGroup
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=-bBhN5gAAAAJ&hl=es
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,6 +65,4 @@ user_groups:
 - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Este grupo es liderado por el Dr. Guillermo Copello, profesor adjunto de la catedra de Quimica Analitica Instrumental de la Facultad de Farmacia y Bioquimica en la Universidad de Buenos Aires. Ademas, es investigador en el Instituto de Química y Metabolismo del Fármaco, IQUIMEFA (Consejo Nacional de Investigaciones Científicas y Técnicas - Universidad de Buenos Aires).
