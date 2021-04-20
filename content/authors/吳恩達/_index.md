@@ -66,7 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Investigador en formacion
+- Investigador en formación
 ---
 
 Gabriel Tovar es un quimico dedicado a la ciencia de materiales en el GINAPS. Sus intereses de investigacion son materiales nanoestructurados para aplicaciones ambientales y biotecnologicas, refinamiento de estructuras por XRD, estudios de quimica supramolecular, y la programacion cientifica en Python.
