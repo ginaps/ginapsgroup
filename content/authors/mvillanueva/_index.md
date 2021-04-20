@@ -14,46 +14,44 @@ role: Investigador en formación
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad de Buenos Aires
+- name: Universidad Nacional de Luján. CONICET
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mis investigaciones son sobre biomateriales nanoestructurados para aplicaciones ambientales y biotecnologicas.
+bio: Trabajo en el desarrollo de materiales nanoestructurados, su caracterización y el estudio de sus posibles aplicaciones.
 
 interests:
-- Quitina
-- Nanomateriales magneticos
-- Python
+- Fotocatálisis
+- Nanomateriales
+- Polimeros
 
 education:
   courses:
-  - course: Candidato doctoral
+  - course: Doctora de la Universidad de BUenos Aires
     institution: Universidad de Buenos Aires
-    year: 2022
-  - course: Licenciado en Quimica
-    institution: Universidad Politecnica Territorial de Falcon
+    year: 2015
+  - course: Especialista en esterilización
+    institution: Universidad de Buenos Aires
     year: 2017
-  - course: Licenciado en Ciencias Ambientales
-    institution: Universidad Nacional Experimental Francisco de Miranda 
-    year: 2017
+  - course: Farmacéutica
+    institution: Universidad de Buenos Aires
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:gabrieltovarj@gmail.com'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/biotovar
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-9986-660X
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com.ar/citations?user=9KojSIwAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gabrieltovarj
+  link:https://scholar.google.com.ar/citations?view_op=list_works&hl=es&user=I3-URvYAAAAJ
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Emilia-Villanueva
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,4 +67,5 @@ user_groups:
 - Investigador en formación
 ---
 
-Dedicada a la ciencia de materiales en el GINAPS. Sus intereses de investigacion son materiales nanoestructurados para aplicaciones ambientales y biotecnologicas, refinamiento de estructuras por XRD, estudios de quimica supramolecular, y la programacion cientifica en Python.
+25 publicaciones. H-index (Google scholar): 8. Premio Facultad de Farmacia y Bioquímica a la mejor tesis año 2015 y beca L´Oreal-Unesco “Por las Mujeres en la Ciencia” año 2016. Investigadora Asistente de CONICET – Jefe de Trabajos Prácticos ordinario con dedicación exclusiva en el Departamento de Ciencias Básicas de la UNLu. Integrante del grupo de Investigación en Nanotecnología, Polímeros y Sustentabilidad (GINaPS) del Instituto de Química y Metabolismo del Fármaco (IQUIMEFA).
+Especialista en síntesis de recubrimientos y materiales para disminuir la colonización bacteriana y remediación ambiental. Síntesis de materiales híbridos y nanopartículas metálicas y de sílice. Uso de diferentes técnicas analíticas y de caracterización de materiales. Síntesis de polímeros y oligómeros, aplicación de los mismos en remediación de agua. Desarrollo de nanomateriales. Materiales híbridos a partir de biopolímeros como almidón, gluten, caseína, queratina y quitina y nanopartículas de titanio, óxido de Zinc, grafeno, etc para remediación ambiental (fotocatálisis) y uso biomédico. Esterilización y descontaminación de áreas.
