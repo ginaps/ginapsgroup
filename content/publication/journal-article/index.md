@@ -1,16 +1,16 @@
 ---
-title: "An example journal article"
+title: "Supramolecular effect of acetate on chitin gelling medium: Structural properties and protein interaction"
 authors:
 - admin
-- Robert Ford
+- Gabriel Tovar
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2021-01-01T00:00:00Z"
+doi: "10.1016/j.ijbiomac.2020.12.144"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,13 +19,14 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*International Journal of Biological Macromolecules"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In this work, the influence of Sodium Acetate Trihydrate (SAT) on the gelling stage of a chitin hydrogel was studied. Characterization techniques, such as FTIR, Raman, solid-state NMR, Dielectric Spectroscopy, Small-angle X-ray scattering (SAXS), Wide-angle X-ray scattering (WAXS), and X-ray diffraction (XRD) were used to study the effect of SAT on the micro and nanostructure of the material in the wet, dry and freeze-dried states. It was demonstrated that the amount of SAT in the gelling solution can induce a variation in the supramolecular interaction among the polysaccharide chains, which leads to a change in the structural characteristics. In addition, it was observed that the polymer-water interactions are also altered by this structural ordering. Also, the affinity interaction with lysozyme was evaluated and an influence on the adsorption capacity was evidenced with the use of SAT. This could be an advance for biotechnological, biomedical, and food applications.
+
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: The spinning medium induced a particular structural organization on chitin.
 
 tags:
 - Source Themes
@@ -34,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -69,4 +70,4 @@ slides:
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+#Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
