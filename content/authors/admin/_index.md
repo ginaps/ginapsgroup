@@ -1,12 +1,13 @@
 ---
 # Display name
-title: Grupo de Investigación en Nanotecnología, Polímeros y Sustentabilidad (GINaPs).
+title: Guillermo Copello
+#Grupo de Investigación en Nanotecnología, Polímeros y Sustentabilidad (GINaPs).
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Profesor adjunto
 
 # Organizations/Affiliations
 organizations:
@@ -23,15 +24,10 @@ Intereses:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD
+    institution: Universidad de Buenos Aires
+    year: 2007
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
