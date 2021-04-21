@@ -28,11 +28,12 @@ publication: '*Talanta*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85032856402&doi=10.1016%2fj.talanta.2017.09.082&partnerID=40&md5=c531a2b3a9c5444e957a52806910585d
 doi: 10.1016/j.talanta.2017.09.082
 publication_types: ["2"]
+
 # Summary. An optional shortened abstract.
 summary: 
 
 tags:
-- Source Themes
+- GINAPS
 
 # links:
 # - name: ""
