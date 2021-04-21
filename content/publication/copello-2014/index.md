@@ -9,8 +9,7 @@ authors:
 - J.A. González
 - S. López Egües
 - L.E. Diaz
-publication_types:
-- ["2"]
+publication_types: ["2"]
 abstract: In this work the use of tetraethoxysilane (TEOS) for cross-linking of chitosan
   hydrogel beads was studied at the level of 1 mmol TEOS per gram of chitosan. They
   were compared with glutaraldehyde and epichlorohydrin cross-linked beads. The hydrogels
