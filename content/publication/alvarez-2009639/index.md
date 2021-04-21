@@ -2,7 +2,6 @@
 title: Effect of various parameters on viability and growth of bacteria immobilized
   in sol-gel-derived silica matrices
 
-draft: true
 publishDate: '2021-04-21T19:26:33.081591Z'
 authors:
 - G.S. Alvarez
