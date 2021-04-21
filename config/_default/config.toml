@@ -86,6 +86,15 @@ disableAliases = true  # Disable aliases when `redirects` is added to the `outpu
     name = "categories"
     weight = 70.0
 
+##scholar
+[scholar]
+    style= "apa"
+    bibliography= "refs.bib"
+    replace_strings= "true"
+    query= "@*"
+
+
+
 # Install Wowchemy
 [module]
   [[module.imports]]
