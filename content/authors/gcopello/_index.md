@@ -71,7 +71,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Investigador principal
+- Investigadores
 ---
 
 Guillermo Copello es Investigador Independiente de CONICET - Profesor Adjunto dedicación exclusiva de la Universidad de Buenos Aires. Investigador principal del grupo de Investigación en Nanotecnología, Polímeros y Sustentabilidad (GINaPS) del Instituto de Química y Metabolismo del Fármaco (IQUIMEFA). Especialista en polímeros

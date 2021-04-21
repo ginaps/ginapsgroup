@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Investigador en formación
+role: Investigadora
 
 # Organizations/Affiliations
 organizations:
@@ -53,7 +53,7 @@ social:
   link: https://www.researchgate.net/profile/Emilia-Villanueva
 
 user_groups:
-- Investigador en formación
+- Investigadores
 ---
 
 25 publicaciones. H-index (Google scholar): 8. Premio Facultad de Farmacia y Bioquímica a la mejor tesis año 2015 y beca L´Oreal-Unesco “Por las Mujeres en la Ciencia” año 2016. Investigadora Asistente de CONICET – Jefe de Trabajos Prácticos ordinario con dedicación exclusiva en el Departamento de Ciencias Básicas de la UNLu. Integrante del grupo de Investigación en Nanotecnología, Polímeros y Sustentabilidad (GINaPS) del Instituto de Química y Metabolismo del Fármaco (IQUIMEFA).
