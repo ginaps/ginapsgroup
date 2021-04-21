@@ -89,7 +89,7 @@ disableAliases = true  # Disable aliases when `redirects` is added to the `outpu
 ##scholar
 [scholar]
     style= "apa"
-    bibliography= "refs.bib"
+    bibliography= "scopus.bib"
     replace_strings= "true"
     query= "@*"
 
