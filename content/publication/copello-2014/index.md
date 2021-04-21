@@ -30,7 +30,7 @@ publication: '*Journal of Applied Polymer Science*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84905923158&doi=10.1002%2fapp.41005&partnerID=40&md5=69fd3e899af04f9350ffe8d973436aad
 doi: 10.1002/app.41005
 
-​---
+
 # Summary. An optional shortened abstract.
 summary: 
 
@@ -70,8 +70,6 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides:
-
-​---
 
 ---
 
