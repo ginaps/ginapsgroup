@@ -15,7 +15,8 @@ content:
     exclude_featured: true
     publication_type: ""
     tag: ""
-  offset: 5
+	year: "2021"
+  offset: 
   order: desc
   page_type: publication
 design:
