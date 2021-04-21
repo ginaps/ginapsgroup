@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Maria Luz Peralta
+title: María Luz Peralta Ramos
 
 # Username (this should match the folder name)
 authors:
@@ -21,20 +21,16 @@ organizations:
 bio: Mis investigaciones son sobre biomateriales nanoestructurados para aplicaciones ambientales y biotecnologicas.
 
 interests:
-- Quitina
-- Nanomateriales magneticos
-- Python
+- Queratina
+- Bcompósitos
+- Nanotecnología
 
 education:
-  courses:
   - course: Candidato doctoral
     institution: Universidad de Buenos Aires
-    year: 2022
-  - course: Licenciado en Quimica
-    institution: Universidad Politecnica Territorial de Falcon
-    year: 2017
-  - course: Licenciado en Ciencias Ambientales
-    institution: Universidad Nacional Experimental Francisco de Miranda 
+    year: 2023
+  - course: Farmacéutica
+    institution: Universidad de Buenos Aires
     year: 2017
 
 # Social/Academic Networking
@@ -45,20 +41,10 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:gabrieltovarj@gmail.com'
-- icon: twitter
+- icon: LinkedIn
   icon_pack: fab
-  link: https://twitter.com/biotovar
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com.ar/citations?user=9KojSIwAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gabrieltovarj
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  link: https://www.linkedin.com/in/mar%C3%ADa-luz-peralta-ramos-b5753457/
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -69,4 +55,4 @@ user_groups:
 - Investigador en formación
 ---
 
-dedicado a la ciencia de materiales en el GINAPS. Sus intereses de investigacion son materiales nanoestructurados para aplicaciones ambientales y biotecnologicas, refinamiento de estructuras por XRD, estudios de quimica supramolecular, y la programacion cientifica en Python.
+Farmacéutica egresada de la Facultad de Farmacia y Bioquímica de la UBA, dedicada a la ciencia de materiales en el GINAPS. Sus intereses de investigacion son materiales biocompósitos y nanomateriales para su utilización en la remediación ambiental. 

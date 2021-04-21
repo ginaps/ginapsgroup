@@ -18,18 +18,21 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mis investigaciones son sobre biomateriales nanoestructurados para aplicaciones ambientales y biotecnologicas.
+bio:  Me dedico a la creación y caracterización  de nuevos materiales biodegradables con aplicaciones comerciales. 
 
 interests:
-- Quitina
-- Nanomateriales magneticos
-- Python
+- Biodegradable
+- Nanocomposite
+- Electroanalysis
 
 education:
   courses:
   - course: Candidato doctoral
     institution: Universidad de Buenos Aires
-    year: 2022
+    year: 2024
+  - course: Bioquimica 
+    institution: Universidad de Buenos Aires
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -38,16 +41,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:gabrieltovarj@gmail.com'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/biotovar
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com.ar/citations?user=9KojSIwAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gabrieltovarj
+  link: 'mailto:ggonzagala@gmail.com'
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,4 +58,4 @@ user_groups:
 - Investigador en formación
 ---
 
-Gabriel Tovar es un quimico dedicado a la ciencia de materiales en el GINAPS. Sus intereses de investigacion son materiales nanoestructurados para aplicaciones ambientales y biotecnologicas, refinamiento de estructuras por XRD, estudios de quimica supramolecular, y la programacion cientifica en Python.
+Gonzalo Galaburri es bioquímico interesado en la generación de nuevos biomateriales para fomentar economías subdesarrolladas y la protección del medio ambiente. Principalmente enfocados en  usos biotecnológicos y ambientales. 
