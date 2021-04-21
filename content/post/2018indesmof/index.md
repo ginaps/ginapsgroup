@@ -1,6 +1,6 @@
 ---
 title: Estancia de investigación del PhD Gabriel Tovar en BCMaterials dentro del proyecto INDESMOF-RISE
-date: 2021-04-21
+date: 2019-04-01
 ---
 
 El objetivo principal del INDESMOF Marie Curie RISE  es establecer un consorcio de investigación nuevo y duradero para mejorar e intercambiar conocimientos interdisciplinarios e intersectoriales sobre el diseño, síntesis y caracterización de adsorbentes compuestos avanzados para la remediación ambiental de fuentes de agua contaminadas con metales pesados, capaz de proporcionan filtros de alta capacidad y alta selectividad para la industria.

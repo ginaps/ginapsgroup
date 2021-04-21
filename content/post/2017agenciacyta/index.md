@@ -1,5 +1,5 @@
 ---
-title: CIENTÍFICOS ARGENTINOS DESARROLLAN UN GEL INTELIGENTE QUE SE EXPANDE Y ENCOGE
+title: Científicos argentinos desarrollan un gel inteligente que se expande y encoge
 date: 2017-09-08
 ---
 
