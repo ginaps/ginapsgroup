@@ -22,11 +22,11 @@ bio: He participado en el desarrollo de biomateriales aplicados a la agroindustr
 y/o adsorción de contaminantes.
 
 interests:
-- Biopolimeros
-- Modificación química
-- Nanocomposites
-- Fotodegradación
-- Adsorción
+-  Biopolimeros
+-  Modificación química
+-  Nanocomposites
+-  Fotodegradación
+-  Adsorción
 
 education:
   courses:
