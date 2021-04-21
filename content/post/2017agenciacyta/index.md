@@ -1,8 +1,11 @@
+---
 title: CIENTÍFICOS ARGENTINOS DESARROLLAN UN GEL INTELIGENTE QUE SE EXPANDE Y ENCOGE
-
 date: 2017-09-08
+---
 
 El material se fabrica a base de queratina (una proteína extraída de cuernos de vaca) y podría servir para liberar medicamentos o absorber contaminantes.
+
+<!--more-->
 
 **(08/09/2017 – Agencia CyTA-Instituto Leloir)-.** Un tipo de gel inteligente, que se hincha o contrae según el pH o grado de acidez del líquido con el que interactúa, fue desarrollado por investigadores argentinos. Y podría tener aplicaciones en medicina y en higiene y sanidad ambiental.
 
