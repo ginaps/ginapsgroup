@@ -1,5 +1,5 @@
 ---
-title: Estancia de investigación del PhD Gabriel Tovar en BCMaterials dentro del proyecto INDESMOF-RISE
+title: Estancia de investigación de Gabriel Tovar en BCMaterials (España) dentro del proyecto INDESMOF-RISE
 date: 2019-04-01
 ---
 

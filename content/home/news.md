@@ -8,7 +8,7 @@ title: Ultimas noticias
 subtitle:
 
 content:
-  count: 4
+  count: 3
   filters:
     author: ""
     category: ""
