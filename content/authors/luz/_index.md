@@ -26,6 +26,7 @@ interests:
 - Nanotecnología
 
 education:
+  courses:
   - course: Candidato doctoral
     institution: Universidad de Buenos Aires
     year: 2023
