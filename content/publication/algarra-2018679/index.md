@@ -18,7 +18,7 @@ authors:
 - E. Rodríguez-Castellón
 - M. del Valle
 publication_types:
-- '2'
+- ["2"]
 abstract: A glassy carbon electrode (GCE) was surface-modified with carbon quantum
   dots (CQDs) and applied for the effective enhancement of the electrochemical signal
   for dopamine and uric acid determination. CQDs were prepared from graphite by a
