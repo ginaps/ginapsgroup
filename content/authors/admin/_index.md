@@ -50,9 +50,7 @@ user_groups:
 - admin
 ---
 
-Bienvenidos y gracias por visitar la página web del GINaPs (Grupo de Investigación en Nanotecnología, Polímeros y Sustentabilidad) en la Universidad de Buenos Aires (UBA) y el CONICET. Este grupo es liderado por el Dr. Guillermo Copello, profesor adjunto de la catedra de Quimica Analitica Instrumental de la Facultad de Farmacia y Bioquimica en la Universidad de Buenos Aires. Ademas, es investigador en el Instituto de Química y Metabolismo del Fármaco, IQUIMEFA (Consejo Nacional de Investigaciones Científicas y Técnicas - Universidad de Buenos Aires).
-
-Nuestro grupo se aboca a contribuir al conocimiento científico en el uso de polímeros naturales, de fuentes renovables y biodegradables, con la meta futura de reemplazar a los polímeros sintéticos de derivados del petróleo en la vida cotidiana. Para ello trabajamos con muchos polímeros naturales de diversas fuentes y estudiamos su desempeño en las aplicaciones más variadas. 
+Bienvenidos y gracias por visitar la página web del GINaPs (Grupo de Investigación en Nanotecnología, Polímeros y Sustentabilidad) en la Universidad de Buenos Aires (UBA) y el CONICET. Nuestro grupo se aboca a contribuir al conocimiento científico en el uso de polímeros naturales, de fuentes renovables y biodegradables, con la meta futura de reemplazar a los polímeros sintéticos de derivados del petróleo en la vida cotidiana. Para ello trabajamos con muchos polímeros naturales de diversas fuentes y estudiamos su desempeño en las aplicaciones más variadas. 
 
 Como la química de polímeros naturales todavía está en sus inicios si la comparamos con el conocimiento que se tiene de los polímeros derivados del petróleo, para muchas aplicaciones nos valemos de los últimos avances de la nanotecnología para alcanzar generar los materiales optimizados.
 
