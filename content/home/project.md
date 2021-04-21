@@ -28,9 +28,9 @@ content:
   - name: All
     tag: '*'
   - name: Quitina
-    tag: Quitina
-  - name: Keratina
-    tag: Keratina
+    tag: quitina
+  - name: Queratina
+    tag: queratina
   - name: Otros
     tag: Otros
 
