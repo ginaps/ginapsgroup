@@ -4,7 +4,7 @@ title: Gabriel Tovar
 
 # Username (this should match the folder name)
 authors:
-- gtovar
+- G.I. Tovar
 
 # Is this the primary user of the site?
 superuser: false
