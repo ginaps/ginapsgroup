@@ -1,7 +1,7 @@
 ---
 title: 'Integrated SPE-Self assembled MEPS platform for ultrasensitive determination
   of mononitrophenols in water: Experimental, computational and applicability studies'
-date: '2020-01-01'
+date: '2020-05-05'
 
 authors:
 - S.S. Saini

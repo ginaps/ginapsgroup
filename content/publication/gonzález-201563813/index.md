@@ -2,7 +2,7 @@
 title: 'Chitin based hybrid composites reinforced with graphene derivatives: A nanoscale
   study'
 
-publishDate: '2021-04-21T19:26:32.555784Z'
+publishDate: '2015-04-21T19:26:32.555784Z'
 authors:
 - J.A. González
 - M.E. Villanueva
