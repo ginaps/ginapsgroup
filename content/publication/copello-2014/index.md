@@ -2,7 +2,6 @@
 title: "TEOS as an improved alternative for chitosan beads cross-linking: A comparative
   adsorption study"
 date: "2014-01-01"
-draft: true
 publishDate: "2021-04-21T19:26:32.593846Z"
 authors:
 - Guillermo Copello
@@ -11,7 +10,7 @@ authors:
 - S. López Egües
 - L.E. Diaz
 publication_types:
-- "2"
+- ["2"]
 abstract: In this work the use of tetraethoxysilane (TEOS) for cross-linking of chitosan
   hydrogel beads was studied at the level of 1 mmol TEOS per gram of chitosan. They
   were compared with glutaraldehyde and epichlorohydrin cross-linked beads. The hydrogels
