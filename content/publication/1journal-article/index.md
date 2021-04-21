@@ -26,7 +26,7 @@ abstract: In this work, the influence of Sodium Acetate Trihydrate (SAT) on the 
 
 
 # Summary. An optional shortened abstract.
-summary: The spinning medium induced a particular structural organization on chitin.
+summary: 
 
 tags:
 - Source Themes
