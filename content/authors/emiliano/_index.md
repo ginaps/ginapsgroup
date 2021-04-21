@@ -35,7 +35,7 @@ education:
     year: 2025
 
 user_groups:
-- Colaboradores externos
+- Doctorandos
 ---
 
 Mi investigación actual se centra en la obtención y caracterización de quantum dots de carbono para su aplicación en el desarrollo de empaques activos, la remediación de aguas residuales y el procesamiento de alimentos.
