@@ -1,7 +1,7 @@
 ---
 title: P-doped carbon nano-powders for fingerprint imaging
 date: '2019-01-01'
-draft: true
+
 publishDate: '2021-04-21T19:27:54.379236Z'
 authors:
 - M. Algarra
