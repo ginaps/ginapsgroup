@@ -61,7 +61,7 @@ social:
 
 
 user_groups:
-- Investigador en formación
+- Doctorandos
 ---
 
 Gabriel Tovar es un quimico dedicado a la ciencia de materiales en el GINAPS. Sus intereses de investigacion son materiales nanoestructurados para aplicaciones ambientales y biotecnologicas, refinamiento de estructuras por XRD, estudios de quimica supramolecular, y la programacion cientifica en Python.

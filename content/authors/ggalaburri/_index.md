@@ -55,7 +55,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Investigador en formación
+- Doctorandos
 ---
 
 Gonzalo Galaburri es bioquímico interesado en la generación de nuevos biomateriales para fomentar economías subdesarrolladas y la protección del medio ambiente. Principalmente enfocados en  usos biotecnológicos y ambientales. 

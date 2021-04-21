@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Investigador en formación
+role: Posdoct-CONICET
 
 # Organizations/Affiliations
 organizations:
@@ -66,7 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Investigador en formación
+- Posdoctorandos
 ---
 
 Jefe de trabajos practicos con dedicación simple en la Facultad de Ingeniería de la UBA - integrante del Grupo de Investigación en Nanotacnología, Polímeros y Sustentabilidad (GINaPs) del IQUIMEFA. Como investigador, he participado en el desarrollo de biomateriales aplicados a la agroindustria (fertilizantes químicos y biológicos de liberación controlada), en compósitos nanoestructurados para fotodegradación y/o adsorción de contaminantes (ciencias de los materiales aplicadas a los recursos hídricos), en el desarrollo de biomateriales para el encapsulamiento de bacterias para la biodegradación de herbicidas persistentes en suelos de uso agrícola y en recubrimientos comestibles y biodegradables para la preservación de lechugas mínimamente procesadas.

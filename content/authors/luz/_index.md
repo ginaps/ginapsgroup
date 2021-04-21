@@ -53,7 +53,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Investigador en formación
+- Doctorandos
 ---
 
 Farmacéutica egresada de la Facultad de Farmacia y Bioquímica de la UBA, dedicada a la ciencia de materiales en el GINAPS. Sus intereses de investigacion son materiales biocompósitos y nanomateriales para su utilización en la remediación ambiental. 

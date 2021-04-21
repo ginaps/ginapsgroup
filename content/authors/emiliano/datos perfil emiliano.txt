@@ -1,0 +1,33 @@
+---
+# Nombre
+title: Emiliano Camilli
+
+# Username
+- ecamilli
+
+# Organizations/Affiliations
+organizations:
+- name: Universidad Nacional de Luján.
+  url: "www.unlu.edu.ar"
+
+# Short bio (maximo 20 palabras)
+bio: Trabajo en el desarrollo de materiales nanoestructurados, su caracterización y el estudio de sus posibles aplicaciones.
+intereses (5):
+- Fotocatálisis
+- Nanomateriales
+- Polimeros
+
+education:
+  - course: Ingeniero en Alimentos 
+    institution: Universidad Nacional de Luján.
+    year: 2014
+ - course: Candidato doctoral
+    institution: Universidad Nacional de Luján.
+    year: 2025
+
+
+social:
+
+
+Descripcion bio:
+Mi investigación actual se centra en la obtención y caracterización de quantum dots de carbono para su aplicación en el desarrollo de empaques activos, la remediación de aguas residuales y el procesamiento de alimentos.
