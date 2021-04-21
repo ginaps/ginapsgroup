@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jonas Perez
+title: Jonás José Pérez Bravo
 
 # Username (this should match the folder name)
 authors:
@@ -18,42 +18,43 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mis investigaciones son sobre biomateriales nanoestructurados para aplicaciones ambientales y biotecnologicas.
+bio: He participado en el desarrollo de biomateriales aplicados a la agroindustria, compósitos nanoestructurados para fotodegradación
+y/o adsorción de contaminantes.
 
 interests:
-- Quitina
-- Nanomateriales magneticos
-- Python
+- Biopolimeros
+- Modificación química
+- Nanocomposites
+- Fotodegradación
+- Adsorción
 
 education:
   courses:
-  - course: Candidato doctoral
+  - course: Doctorado en Ingeniería
     institution: Universidad de Buenos Aires
-    year: 2022
-  - course: Licenciado en Quimica
-    institution: Universidad Politecnica Territorial de Falcon
-    year: 2017
-  - course: Licenciado en Ciencias Ambientales
-    institution: Universidad Nacional Experimental Francisco de Miranda 
-    year: 2017
+    year: 2019
+  - course: Maestría en Ingeniería Química
+    institution: Universidad del Zulia
+    year: 2014
+  - course: Ingeniería Petroquímica
+    institution: Universidad Nacional Experimental Politécnica de la Fuerza Armada Nacional 
+    year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:gabrieltovarj@gmail.com'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/biotovar
+- icon: orcid
+  icon_pack: ai
+  link: http://orcid.org/0000-0002-5261-2944
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com.ar/citations?user=9KojSIwAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gabrieltovarj
+  link: https://scholar.google.com.ar/citations?user=hLh21kQAAAAJ&hl=es
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Jonas-Jose-Perez-Bravo
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,4 +70,4 @@ user_groups:
 - Investigador en formación
 ---
 
-dedicado a la ciencia de materiales en el GINAPS. Sus intereses de investigacion son materiales nanoestructurados para aplicaciones ambientales y biotecnologicas, refinamiento de estructuras por XRD, estudios de quimica supramolecular, y la programacion cientifica en Python.
+Jefe de trabajos practicos con dedicación simple en la Facultad de Ingeniería de la UBA - integrante del Grupo de Investigación en Nanotacnología, Polímeros y Sustentabilidad (GINaPs) del IQUIMEFA. Como investigador, he participado en el desarrollo de biomateriales aplicados a la agroindustria (fertilizantes químicos y biológicos de liberación controlada), en compósitos nanoestructurados para fotodegradación y/o adsorción de contaminantes (ciencias de los materiales aplicadas a los recursos hídricos), en el desarrollo de biomateriales para el encapsulamiento de bacterias para la biodegradación de herbicidas persistentes en suelos de uso agrícola y en recubrimientos comestibles y biodegradables para la preservación de lechugas mínimamente procesadas.
