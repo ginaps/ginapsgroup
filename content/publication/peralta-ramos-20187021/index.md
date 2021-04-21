@@ -2,8 +2,7 @@
 title: Influence of GO reinforcement on keratin based smart hydrogel and its application
   for emerging pollutants removal
 date: '2018-01-01'
-draft: true
-publishDate: '2021-04-21T19:26:31.872299Z'
+
 authors:
 - M.L. Peralta Ramos
 - G. Galaburri
@@ -34,5 +33,43 @@ featured: false
 publication: '*Journal of Environmental Chemical Engineering*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85056800658&doi=10.1016%2fj.jece.2018.11.011&partnerID=40&md5=189e31f2e83eab4056b3316a612bf9b9
 doi: 10.1016/j.jece.2018.11.011
+# Summary. An optional shortened abstract.
+summary: 
+
+tags:
+- GINAPS
+
+# links:
+# - name: ""
+#   url: ""
+url_pdf: ""
+url_code: ""
+url_dataset: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page"s folder. 
+image:
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project"s folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck"s filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides:
 ---
 

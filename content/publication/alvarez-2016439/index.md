@@ -2,7 +2,6 @@
 title: Innovative immobilization matrices
 date: '2016-01-01'
 
-publishDate: '2021-04-21T19:26:32.257598Z'
 authors:
 - G.S. Alvarez
 - M.I.A. Echazú

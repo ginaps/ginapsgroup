@@ -3,7 +3,6 @@ title: Targeted anti-inflammatory peptide delivery in injured endothelial cells 
   dermatan sulfate/chitosan nanomaterials
 date: '2020-01-01'
 
-publishDate: '2021-04-21T19:27:54.185354Z'
 authors:
 - A. Blachman
 - F. Funez

@@ -2,8 +2,7 @@
 title: 'Paclitaxel and curcumin co-loaded mixed micelles: Improving in vitro efficacy
   and reducing toxicity against Abraxane®'
 date: '2021-01-01'
-draft: true
-publishDate: '2021-04-21T19:27:53.957421Z'
+
 authors:
 - J. Riedel
 - M.N. Calienni
@@ -42,5 +41,43 @@ featured: false
 publication: '*Journal of Drug Delivery Science and Technology*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85099631731&doi=10.1016%2fj.jddst.2021.102343&partnerID=40&md5=4a1b3d2cfe034e7941a19026709dc2d4
 doi: 10.1016/j.jddst.2021.102343
+# Summary. An optional shortened abstract.
+summary: 
+
+tags:
+- GINAPS
+
+# links:
+# - name: ""
+#   url: ""
+url_pdf: ""
+url_code: ""
+url_dataset: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page"s folder. 
+image:
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project"s folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck"s filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides:
 ---
 

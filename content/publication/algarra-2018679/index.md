@@ -2,7 +2,6 @@
 title: Enhanced electrochemical response of carbon quantum dot modified electrodes
 date: '2018-01-01'
 
-publishDate: '2021-04-21T19:27:54.570606Z'
 authors:
 - M. Algarra
 - A. González-Calabuig

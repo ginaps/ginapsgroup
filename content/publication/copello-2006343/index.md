@@ -3,7 +3,6 @@ title: Antimicrobial activity on glass materials subject to disinfectant xerogel
 date: '2006-01-01'
 
 
-publishDate: '2021-04-21T19:26:33.307346Z'
 authors:
 - G.J. Copello
 - S. Teves

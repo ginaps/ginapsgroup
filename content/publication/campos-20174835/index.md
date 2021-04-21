@@ -2,7 +2,6 @@
 title: Thermo-responsive microgels based on encapsulated carbon quantum dots
 date: '2017-01-01'
 
-publishDate: '2021-04-21T19:27:54.751309Z'
 authors:
 - B.B. Campos
 - D. Mutavdžić

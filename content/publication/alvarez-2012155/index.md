@@ -2,7 +2,6 @@
 title: 'Whole cell biosensors: Updated design, construction and performance'
 date: '2012-01-01'
 
-publishDate: '2021-04-21T19:26:32.748540Z'
 authors:
 - G.S. Alvarez
 - G.J. Copello

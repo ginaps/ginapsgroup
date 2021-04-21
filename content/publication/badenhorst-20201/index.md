@@ -4,7 +4,6 @@ title: Assessment of graphitized coal ash char concentrates as a potential synth
 date: '2020-01-01'
 
 
-publishDate: '2021-04-21T19:27:54.028293Z'
 authors:
 - C. Badenhorst
 - C. Santos

@@ -4,7 +4,6 @@ title: 'Synthesis and characterisation of a silicon oxide film solid-phase extra
 date: '2011-01-01'
 
 
-publishDate: '2021-04-21T19:26:32.900706Z'
 authors:
 - G.J. Copello
 - R.M. Vivot

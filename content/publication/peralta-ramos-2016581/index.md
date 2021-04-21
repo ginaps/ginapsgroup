@@ -1,8 +1,7 @@
 ---
 title: Chitin hydrogel reinforced with TiO2 nanoparticles as an arsenic sorbent
 date: '2016-01-01'
-draft: true
-publishDate: '2021-04-21T19:26:32.295351Z'
+
 authors:
 - M.L. Peralta Ramos
 - J.A. González
@@ -31,5 +30,43 @@ featured: false
 publication: '*Chemical Engineering Journal*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84945285834&doi=10.1016%2fj.cej.2015.10.035&partnerID=40&md5=a6b6e337c529d9cee6f9bc726403cf30
 doi: 10.1016/j.cej.2015.10.035
+# Summary. An optional shortened abstract.
+summary: 
+
+tags:
+- GINAPS
+
+# links:
+# - name: ""
+#   url: ""
+url_pdf: ""
+url_code: ""
+url_dataset: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page"s folder. 
+image:
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project"s folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck"s filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides:
 ---
 

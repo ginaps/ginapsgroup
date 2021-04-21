@@ -2,8 +2,7 @@
 title: Plasmatic antioxidant capacity due to ascorbate using TEMPO scavenging and
   electron spin resonance
 date: '2005-01-01'
-draft: true
-publishDate: '2021-04-21T19:26:33.377949Z'
+
 authors:
 - L.L. Piehl
 - G.B. Facorro
@@ -37,5 +36,43 @@ featured: false
 publication: '*Clinica Chimica Acta*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-23644439951&doi=10.1016%2fj.cccn.2005.03.035&partnerID=40&md5=279a51f7dcde740617e1d7d7cf5c7ec7
 doi: 10.1016/j.cccn.2005.03.035
+# Summary. An optional shortened abstract.
+summary: 
+
+tags:
+- GINAPS
+
+# links:
+# - name: ""
+#   url: ""
+url_pdf: ""
+url_code: ""
+url_dataset: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page"s folder. 
+image:
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project"s folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck"s filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides:
 ---
 

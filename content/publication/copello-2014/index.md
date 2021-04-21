@@ -2,9 +2,10 @@
 title: "TEOS as an improved alternative for chitosan beads cross-linking: A comparative
   adsorption study"
 date: "2014-01-01"
-publishDate: "2021-04-21T19:26:32.593846Z"
+
+
 authors:
-- Guillermo Copello
+- G.J. Copello
 - M.E. Villanueva
 - J.A. González
 - S. López Egües

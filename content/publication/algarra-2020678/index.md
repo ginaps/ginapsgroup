@@ -3,7 +3,7 @@ title: Insights into the formation of N doped 3D-graphene quantum dots. Spectros
   and computational approach
 
 draft: true
-publishDate: '2021-04-21T19:27:54.148815Z'
+publishDate: '2020-04-21T19:27:54.148815Z'
 authors:
 - M. Algarra
 - V. Moreno

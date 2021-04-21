@@ -3,7 +3,6 @@ title: Exhausted yerba mate leaves (Ilex paraguariensis) as biosorbent for the r
   of metals from aqueous solutions
 date: '2011-01-01'
 
-publishDate: '2021-04-21T19:26:32.972365Z'
 authors:
 - G.J. Copello
 - R.E. Garibotti

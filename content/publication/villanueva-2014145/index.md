@@ -2,8 +2,7 @@
 title: Point of zero charge as a factor to control biofilm formation of Pseudomonas
   aeruginosa in sol-gel derivatized aluminum alloy plates
 date: '2014-01-01'
-draft: true
-publishDate: '2021-04-21T19:26:32.639880Z'
+
 authors:
 - M.E. Villanueva
 - A. Salinas
@@ -31,5 +30,44 @@ featured: false
 publication: '*Surface and Coatings Technology*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84905060315&doi=10.1016%2fj.surfcoat.2014.05.074&partnerID=40&md5=6499976267efdf9062b07c8d5a98f9fc
 doi: 10.1016/j.surfcoat.2014.05.074
+# Summary. An optional shortened abstract.
+summary: 
+
+tags:
+- GINAPS
+
+# links:
+# - name: ""
+#   url: ""
+url_pdf: ""
+url_code: ""
+url_dataset: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page"s folder. 
+image:
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project"s folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck"s filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides:
+
 ---
 

@@ -2,8 +2,7 @@
 title: Carbon quantum dot surface-chemistry-dependent ag release governs the high
   antibacterial activity of Ag-metal-organic framework composites
 date: '2018-01-01'
-draft: true
-publishDate: '2021-04-21T19:27:54.491903Z'
+
 authors:
 - N.A. Travlou
 - M. Algarra
@@ -38,5 +37,43 @@ featured: false
 publication: '*ACS Applied Bio Materials*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85067553125&doi=10.1021%2facsabm.8b00166&partnerID=40&md5=8479b57b50baeb5497f48687c9bfd09a
 doi: 10.1021/acsabm.8b00166
+# Summary. An optional shortened abstract.
+summary: 
+
+tags:
+- GINAPS
+
+# links:
+# - name: ""
+#   url: ""
+url_pdf: ""
+url_code: ""
+url_dataset: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page"s folder. 
+image:
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project"s folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck"s filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides:
 ---
 
