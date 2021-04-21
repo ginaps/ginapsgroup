@@ -41,7 +41,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:gabrieltovarj@gmail.com'
-- icon: LinkedIn
+- icon: linkedIn
   icon_pack: fab
   link: https://www.linkedin.com/in/mar%C3%ADa-luz-peralta-ramos-b5753457/
 

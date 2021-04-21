@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:  Me dedico a la creación y caracterización  de nuevos materiales biodegradables con aplicaciones comerciales. 
+bio: Me dedico a la creación y caracterización  de nuevos materiales biodegradables con aplicaciones comerciales. 
 
 interests:
 - Biodegradable
