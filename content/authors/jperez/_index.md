@@ -18,8 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: He participado en el desarrollo de biomateriales aplicados a la agroindustria, compósitos nanoestructurados para fotodegradación
-y/o adsorción de contaminantes.
+bio: He participado en el desarrollo de biomateriales aplicados a la agroindustria, compósitos nanoestructurados para fotodegradación y/o adsorción de contaminantes.
 
 interests:
 -  Biopolimeros
