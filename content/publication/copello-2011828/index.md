@@ -2,7 +2,8 @@
 title: 'Synthesis and characterisation of a silicon oxide film solid-phase extraction
   system for lead traces determination: An all the way green analytical method'
 date: '2011-01-01'
-draft: true
+
+
 publishDate: '2021-04-21T19:26:32.900706Z'
 authors:
 - G.J. Copello
@@ -35,5 +36,45 @@ featured: false
 publication: '*International Journal of Environmental Analytical Chemistry*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-79960356271&doi=10.1080%2f03067311003628612&partnerID=40&md5=f85f880144e6e80538473f9a685a134f
 doi: 10.1080/03067311003628612
+# Summary. An optional shortened abstract.
+summary: 
+
+tags:
+- GINAPS
+
+# links:
+# - name: ""
+#   url: ""
+url_pdf: ""
+url_code: ""
+url_dataset: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page"s folder. 
+image:
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project"s folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck"s filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides:
 ---
+
+
 
