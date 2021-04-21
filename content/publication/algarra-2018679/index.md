@@ -1,8 +1,4 @@
 ---
-tags:
-- Source Themes
-featured: false
-
 title: Enhanced electrochemical response of carbon quantum dot modified electrodes
 date: '2018-01-01'
 draft: true
@@ -17,8 +13,6 @@ authors:
 - J. Jiménez-Jiménez
 - E. Rodríguez-Castellón
 - M. del Valle
-publication_types:
-- ["2"]
 abstract: A glassy carbon electrode (GCE) was surface-modified with carbon quantum
   dots (CQDs) and applied for the effective enhancement of the electrochemical signal
   for dopamine and uric acid determination. CQDs were prepared from graphite by a
@@ -33,5 +27,50 @@ featured: false
 publication: '*Talanta*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85032856402&doi=10.1016%2fj.talanta.2017.09.082&partnerID=40&md5=c531a2b3a9c5444e957a52806910585d
 doi: 10.1016/j.talanta.2017.09.082
+publication_types: ["2"]
+# Summary. An optional shortened abstract.
+summary: 
+
+tags:
+- Source Themes
+featured: false
+
+# links:
+# - name: ""
+#   url: ""
+url_pdf: ""
+url_code: ""
+url_dataset: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page"s folder. 
+image:
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project"s folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck"s filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides:
+
 ---
+
+
+
+
 
