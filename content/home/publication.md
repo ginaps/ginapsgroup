@@ -1,6 +1,6 @@
 ---
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: portfolio
+widget: pages
 headless: true
 weight: 30
 
@@ -19,6 +19,6 @@ content:
   order: desc
   page_type: publication
 design:
-  view: 3
+  view: 4
   columns: "2"
 ---
