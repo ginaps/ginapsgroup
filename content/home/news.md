@@ -8,17 +8,17 @@ title: Ultimas noticias
 subtitle:
 
 content:
-  count: 5
+  count: 4
   filters:
     author: ""
     category: ""
-    exclude_featured: false
+    exclude_featured: true
     publication_type: ""
     tag: ""
   offset: 0
   order: desc
   page_type: post
 design:
-  view: 3
+  view: 2
   columns: "2"
 ---
