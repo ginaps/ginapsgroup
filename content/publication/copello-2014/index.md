@@ -5,7 +5,7 @@ date: '2014-01-01'
 draft: true
 publishDate: '2021-04-21T19:26:32.593846Z'
 authors:
-- G.J. Copello
+- Guillermo Copello
 - M.E. Villanueva
 - J.A. González
 - S. López Egües
