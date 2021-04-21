@@ -194,14 +194,14 @@ plugins_js  = []
   #   "": Disabled
   #   "disqus": Disqus (https://disqus.com)
   #   "commento": Commento (https://commento.io)
-  provider = "https://disqus.com"
+  provider = ""
 
   # Which page types are commentable?
   commentable = {post = true} #page = true, docs = true, project = true, publication = true, talk = true, 
 
   # Configuration of Disqus.
   [comments.disqus]
-    shortname = "GINaPs"  # Paste the shortname from your Disqus dashboard.
+    shortname = ""  # Paste the shortname from your Disqus dashboard.
     show_count = true  # Show comment count in page header? (true/false)
 
   # Configuration of Commento.
