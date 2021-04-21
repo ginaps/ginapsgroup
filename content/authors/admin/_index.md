@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Guillermo Copello
+title: Grupo de Investigación en Nanotecnología, Polímeros y Sustentabilidad (GINaPs).
 #Grupo de Investigación en Nanotecnología, Polímeros y Sustentabilidad (GINaPs).
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Investigador principal
+role: Facultad de Farmacia y Bioquimica
 
 # Organizations/Affiliations
 organizations:
