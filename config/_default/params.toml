@@ -45,10 +45,10 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = ""
+org_name = "GINaPs-UBA"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "My research group description."
+description = "Grupo de Investigación en Nanotecnología, Polímeros y Sustentabilidad (GINaPs). CONICET - Universidad de Buenos Aires (UBA)"
 
 ############################
 ## Site Features
@@ -84,7 +84,7 @@ show_related = {post = true, project = true, publication = true, talk = true}
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "ginapslab@gmail.com"
+email = "ginapsgroup@gmail.com"
 phone = "+54-11-5287-4336 / 4335"
 
 # Address
@@ -103,12 +103,12 @@ directions = "Entrar por el edificio FFyB-UBA y suba al piso 3"
 office_hours = ["9:00 to 17:00 Monday to Friday"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+#appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-#  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
+  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/GINaPs"},
 #  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -123,7 +123,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "@GINaPs"
 
 ############################
 ## Regional Settings
@@ -194,14 +194,14 @@ plugins_js  = []
   #   "": Disabled
   #   "disqus": Disqus (https://disqus.com)
   #   "commento": Commento (https://commento.io)
-  provider = ""
+  provider = "https://disqus.com"
 
   # Which page types are commentable?
-  commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
+  commentable = {post = true} #page = true, docs = true, project = true, publication = true, talk = true, 
 
   # Configuration of Disqus.
   [comments.disqus]
-    shortname = ""  # Paste the shortname from your Disqus dashboard.
+    shortname = "GINaPs"  # Paste the shortname from your Disqus dashboard.
     show_count = true  # Show comment count in page header? (true/false)
 
   # Configuration of Commento.

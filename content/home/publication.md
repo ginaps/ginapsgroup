@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 30
 
-title: Ultimas publicaciones
+title: Publicaciones recientes
 subtitle:
 
 content:
