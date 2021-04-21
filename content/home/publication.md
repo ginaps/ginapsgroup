@@ -8,14 +8,13 @@ title: Ultimas publicaciones
 subtitle:
 
 content:
-  count: 5
+  count: 4
   filters:
     author: ""
     category: ""
     exclude_featured: true
     publication_type: ""
     tag: ""
-	years: "2021"
   offset: 0
   order: desc
   page_type: publication
