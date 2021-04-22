@@ -15,7 +15,7 @@ role: Investigador en formación
 # Organizations/Affiliations
 organizations:
 - name: Universidad de Buenos Aires
-  url: ""
+  url: "https://iquimefa.conicet.gov.ar/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Mis investigaciones son sobre biomateriales nanoestructurados para aplicaciones ambientales y biotecnologicas.
@@ -45,7 +45,6 @@ social:
 - icon: linkedin
   icon_pack: ai
   link: https://www.linkedin.com/in/mar%C3%ADa-luz-peralta-ramos-b5753457
-
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

@@ -49,7 +49,7 @@ social:
   icon_pack: ai
   link: https://loop.frontiersin.org/people/89224/overview
 - icon: scopus
-  icon_pack: ai
+  icon_pack: fab
   link: https://www.scopus.com/authid/detail.uri?authorId=12789786600
 - icon: google-scholar
   icon_pack: ai
