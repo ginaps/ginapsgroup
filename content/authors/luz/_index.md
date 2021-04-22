@@ -39,11 +39,11 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:gabrieltovarj@gmail.com'
-- icon: linkedIn
-  icon_pack: fab
+- icon: scopus
+  icon_pack: ai
+  link: 'https://www.scopus.com/authid/detail.uri?authorId=56748089900'
+- icon: linkedin
+  icon_pack: ai
   link: https://www.linkedin.com/in/mar%C3%ADa-luz-peralta-ramos-b5753457/
 
 

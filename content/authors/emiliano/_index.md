@@ -27,12 +27,13 @@ interests:
 
 education:
   courses:
-  - course: Ingeniero en Alimentos 
-    institution: Universidad Nacional de Luján.
-    year: 2014
   - course: Candidato doctoral
     institution: Universidad Nacional de Luján.
     year: 2025
+  - course: Ingeniero en Alimentos 
+    institution: Universidad Nacional de Luján.
+    year: 2014
+
 
 user_groups:
 - Doctorandos

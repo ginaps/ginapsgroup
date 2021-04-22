@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ganzalo Galaburri
+title: Gonzalo Galaburri
 
 # Username (this should match the folder name)
 authors:
@@ -15,7 +15,8 @@ role: Investigador en formación
 # Organizations/Affiliations
 organizations:
 - name: Universidad de Buenos Aires
-  url: ""
+  url: "https://iquimefa.conicet.gov.ar/"
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: Me dedico a la creación y caracterización  de nuevos materiales biodegradables con aplicaciones comerciales. 
