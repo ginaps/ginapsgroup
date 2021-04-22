@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = "GINaPs-UBA"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Grupo de Investigación en Nanotecnología, Polímeros y Sustentabilidad (GINaPs). CONICET - Universidad de Buenos Aires (UBA)"
+description = "Grupo de Investigación en Nanotecnología, Polímeros y Sustentabilidad (GINaPs)-CONICET-UBA"
 
 ############################
 ## Site Features

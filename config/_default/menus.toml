@@ -14,7 +14,7 @@
   weight = 20
 
 [[main]]
-  name = "Personal"
+  name = "Miembros"
   url = "people"
   weight = 30
 
