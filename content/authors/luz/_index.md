@@ -41,10 +41,10 @@ education:
 social:
 - icon: scopus
   icon_pack: ai
-  link: 'https://www.scopus.com/authid/detail.uri?authorId=56748089900'
+  link: https://www.scopus.com/authid/detail.uri?authorId=56748089900
 - icon: linkedin
   icon_pack: ai
-  link: https://www.linkedin.com/in/mar%C3%ADa-luz-peralta-ramos-b5753457/
+  link: https://www.linkedin.com/in/mar%C3%ADa-luz-peralta-ramos-b5753457
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
