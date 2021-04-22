@@ -85,7 +85,7 @@ show_related = {post = true, project = true, publication = true, talk = true}
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "ginapsgroup@gmail.com"
-phone = "+54-11-5287-4336 / 4335"
+phone = "+54-11-5287-4336"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -96,11 +96,11 @@ address = {street = "Junin 956", city = "Buenos Aires", region = "AR", postcode 
 coordinates = {latitude = "-34.597628", longitude = "-58.397808"}
 
 # Directions for visitors to locate you.
-directions = "Entrar por el edificio FFyB-UBA y suba al piso 3"
+#directions = "Entrar por el edificio FFyB-UBA y suba al piso 3"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["9:00 to 17:00 Lunes a Viernes"]
+#office_hours = ["9:00 to 17:00 Lunes a Viernes"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 #appointment_url = "https://calendly.com"
@@ -108,7 +108,8 @@ office_hours = ["9:00 to 17:00 Lunes a Viernes"]
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/GINaPs"},
+  {icon = "twitter", icon_pack = "fab", name = "Siguenos", link = "https://twitter.com/GINaPsgroup"},
+  {icon = "instagram", icon_pack = "fab", name = "Siguenos", link = "https://instagram.com/GINaPsgroup"},
 #  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -120,10 +121,10 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "static/media/contact.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "@GINaPs"
+twitter = "GINaPsgroup"
 
 ############################
 ## Regional Settings
