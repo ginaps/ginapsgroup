@@ -15,7 +15,7 @@ role: Investigador en Formación
 # Organizations/Affiliations
 organizations:
 - name: Universidad Nacional de Luján. CONICET
-  url: "www.unlu.edu.ar"
+  url: "http://www.unlu.edu.ar/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Trabajo en el desarrollo de materiales nanoestructurados, su caracterización y el estudio de sus posibles aplicaciones.

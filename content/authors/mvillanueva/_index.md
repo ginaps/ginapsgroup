@@ -15,7 +15,9 @@ role: Investigadora
 # Organizations/Affiliations
 organizations:
 - name: Universidad Nacional de Luján. CONICET
-  url: "www.unlu.edu.ar"
+  url: "http://www.unlu.edu.ar/"
+- name: IQUIMEFA - FFyB - Universidad de Buenos Aires - CONICET
+  url: "https://iquimefa.conicet.gov.ar/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Trabajo en el desarrollo de materiales nanoestructurados, su caracterización y el estudio de sus posibles aplicaciones.
