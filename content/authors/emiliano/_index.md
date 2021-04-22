@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Investigador
+role: Investigador en Formación
 
 # Organizations/Affiliations
 organizations:
