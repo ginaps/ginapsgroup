@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Gabriel Tovar
+title: G.I. Tovar
 
 # Username (this should match the folder name)
 authors:
