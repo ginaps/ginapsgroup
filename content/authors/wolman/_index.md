@@ -16,7 +16,7 @@ role: Investigador
 # Organizations/Affiliations
 organizations:
 - name: Universidad de Buenos Aires
-  url: ""
+  url: "https://nanobiotec.conicet.gov.ar/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Desarrollo integral de procesos de purificación de biomoléculas y de materiales de uso cromatográfico.
@@ -32,7 +32,7 @@ education:
     institution: Universidad de Buenos Aires
     year: 2004
   - course: Bioquímica
-    institution: Universidad Politecnica Territorial de Falcon
+    institution: Universidad de Buenos Aires
     year: 1999
 
 
@@ -42,7 +42,7 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: linkedin
-  icon_pack: ai
+  icon_pack: fab
   link: https://ar.linkedin.com/in/federico-wolman-8a9ba8174
 - icon: scopus
   icon_pack: ai

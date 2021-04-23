@@ -43,7 +43,7 @@ social:
   icon_pack: ai
   link: https://www.scopus.com/authid/detail.uri?authorId=56748089900
 - icon: linkedin
-  icon_pack: ai
+  icon_pack: fab
   link: https://www.linkedin.com/in/mar%C3%ADa-luz-peralta-ramos-b5753457
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
