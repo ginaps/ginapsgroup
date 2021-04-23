@@ -1,6 +1,6 @@
 ---
 # Display name
-title: María Luz Peralta Ramos
+title: M. Luz Peralta Ramos
 
 # Username (this should match the folder name)
 authors:

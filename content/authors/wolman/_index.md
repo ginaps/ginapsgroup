@@ -28,7 +28,7 @@ Intereses:
 
 education:
   courses:
-  - course: Doctor de la UBA, área Biotecnología.
+  - course: Doctor de la UBA, área Biotecnología
     institution: Universidad de Buenos Aires
     year: 2004
   - course: Bioquímica
@@ -44,7 +44,7 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://ar.linkedin.com/in/federico-wolman-8a9ba8174
-- icon: scopus
+- icon: elservier
   icon_pack: ai
   link: https://www.scopus.com/authid/detail.uri?authorId=6507091089
 

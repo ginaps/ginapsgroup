@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Maria Emilia Villanueva
+title: M. Emilia Villanueva
 
 # Username (this should match the folder name)
 authors:

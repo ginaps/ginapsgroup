@@ -29,9 +29,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GinapsGroup
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=-bBhN5gAAAAJ&hl=es
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -52,5 +50,5 @@ user_groups:
 
 Bienvenidos y gracias por visitar la página web del GINaPs (Grupo de Investigación en Nanotecnología, Polímeros y Sustentabilidad) en la Universidad de Buenos Aires (UBA) y el CONICET. Nuestro grupo se aboca a contribuir al conocimiento científico en el uso de polímeros naturales, de fuentes renovables y biodegradables, con la meta futura de reemplazar a los polímeros sintéticos de derivados del petróleo en la vida cotidiana. Para ello trabajamos con muchos polímeros naturales de diversas fuentes y estudiamos su desempeño en las aplicaciones más variadas. 
 
-Como la química de polímeros naturales todavía está en sus inicios si la comparamos con el conocimiento que se tiene de los polímeros derivados del petróleo, para muchas aplicaciones nos valemos de los últimos avances de la nanotecnología para alcanzar generar los materiales optimizados.
+Como la química de polímeros naturales todavía está en sus inicios si la comparamos con el conocimiento que se tiene de los polímeros derivados del petróleo, para muchas aplicaciones nos valemos de los últimos avances de la nanotecnología para generar nuevos materiales optimizados.
 

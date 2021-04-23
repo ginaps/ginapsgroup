@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jonás José Pérez Bravo
+title: Jonás J. Pérez Bravo
 
 # Username (this should match the folder name)
 authors:
