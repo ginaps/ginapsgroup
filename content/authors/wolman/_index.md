@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Federico Wolman
-#Grupo de Investigación en Nanotecnología, Polímeros y Sustentabilidad (GINaPs).
+
 # Username (this should match the folder name)
 authors:
 - wolman
@@ -65,7 +65,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Colaboradores Externos
+- Colaboradores externos
+
 ---
 
 Federico Wolman se dedica al desarrollo de materiales cromatográficos de bajo costo aplicados a la purificación directa de proteínas a partir de subproductos y/o descartes agroindustriales, no procesables por medios convencionales, incrementado su puesta en valor.  
