@@ -1,7 +1,9 @@
 ---
 # Display name
 title: Guillermo Copello
-#Grupo de Investigación en Nanotecnología, Polímeros y Sustentabilidad (GINaPs).
+# Username (this should match the folder name)
+authors:
+- gcopello
 
 # Is this the primary user of the site?
 superuser: true

@@ -2,6 +2,10 @@
 # Display name
 title: Federico Wolman
 #Grupo de Investigación en Nanotecnología, Polímeros y Sustentabilidad (GINaPs).
+# Username (this should match the folder name)
+authors:
+- wolman
+
 
 # Is this the primary user of the site?
 superuser: false
