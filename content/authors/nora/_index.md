@@ -16,7 +16,9 @@ role: Investigador
 # Organizations/Affiliations
 organizations:
 - name: Universidad de Buenos Aires
-  url: "https://nanobiotec.conicet.gov.ar/"
+  url: "http://www.fi.uba.ar/es/node/2806"
+- name: Grupo de Aplicaciones de Materiales Biocompatibles, Departamento de Química,Facultad de Ingeniería, Universidad de Buenos Aires (UBA)
+- name: Instituto de Tecnología de Polímeros y Nanotecnología (ITPN-UBA-CONICET)
 
 # Short bio (displayed in user profile at end of posts)
 bio: Nora realiza investigación en el desarrollo de materiales poliméricos
