@@ -15,7 +15,7 @@ role: Investigador en formación
 # Organizations/Affiliations
 organizations:
 - name: Universidad de Buenos Aires
-  url: ""
+  url: "https://iquimefa.conicet.gov.ar/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Mis investigaciones son sobre materiales para aplicaciones de recuperación ambiental.
