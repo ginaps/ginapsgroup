@@ -68,4 +68,4 @@ user_groups:
 
 ---
 
-Nora Francois actualmente trabaja en la Facultad de Ingeniería-Departamento de Química de la Universidad de Buenos Aires. Nora realiza investigación en el desarrollo de materiales poliméricos con aplicación en la ciencia de los alimentos, fertilización vegetal, liberación controlada y adsorción de contaminantes. Su proyecto actual es 'Matrices poliméricas hidrofílicas: preparación, caracterización y aplicaciones en liberación controlada, packaging y en fenómenos de adsorción ..'
+Nora Francois actualmente trabaja en la Facultad de Ingeniería-Departamento de Química de la Universidad de Buenos Aires. Nora realiza investigación en el desarrollo de materiales poliméricos con aplicación en la ciencia de los alimentos, fertilización vegetal, liberación controlada y adsorción de contaminantes. Su proyecto actual es 'Matrices poliméricas hidrofílicas: preparación, caracterización y aplicaciones en liberación controlada, packaging y en fenómenos de adsorción'
