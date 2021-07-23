@@ -3,7 +3,7 @@ title: Imitando la naturaleza para afrontar la transición medioambiental verde
 date: 2021-07-19
 ---
 
-Desde el inicio de la era industrial, las actividades antropogénicas han estresado continuamente los ecosistemas. El ritmo frenético de los avances tecnológicos durante los siglos XX y XXI y la creciente contaminación ambiental son las dos caras de la misma moneda. Aunque la naturaleza siempre ha encontrado formas inteligentes y sofisticadas de paliar los desequilibrios ambientales, la tasa de producción y liberación de sustancias nocivas por parte de la humanidad está desfasada en comparación con la autoadaptación de la biomaquina ^(1)^.
+Desde el inicio de la era industrial, las actividades antropogénicas han estresado continuamente los ecosistemas. El ritmo frenético de los avances tecnológicos durante los siglos XX y XXI y la creciente contaminación ambiental son las dos caras de la misma moneda. Aunque la naturaleza siempre ha encontrado formas inteligentes y sofisticadas de paliar los desequilibrios ambientales, la tasa de producción y liberación de sustancias nocivas por parte de la humanidad está desfasada en comparación con la autoadaptación de la biomaquina <sup>(1)<sup>.
 
 <!--more-->
 
