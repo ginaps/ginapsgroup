@@ -3,7 +3,7 @@ title: Ayelén Crespi Fue Galardonada En El Encuentro Iberoamericano De Resonanc
 date: 2021-06-18
 ---
 
-La Farmacéutica Ayelén Florencia Crespi, becaria doctoral de la Facultad de Farmacia y Bioquímica (UBA) y miembro del Instituto de Química y Metabolismo del Fármaco (IQUIMEFA-UBA-CONICET), fue galardonada con el Premio al Mejor Póster en el área de “Functional Materials” por su trabajo “Paramagnetic ss-NMR spectroscopy and theoretical calculations of pyridine derivatives copper complexes”, trabajo dirijido por Juan Manuel Lazaro del [GINaPs](https://www.ginapsgroup.com/).
+La Farmacéutica Ayelén Florencia Crespi, becaria doctoral de la Facultad de Farmacia y Bioquímica (UBA) y miembro del Instituto de Química y Metabolismo del Fármaco (IQUIMEFA-UBA-CONICET), fue galardonada con el Premio al Mejor Póster en el área de “Functional Materials” por su trabajo “Paramagnetic ss-NMR spectroscopy and theoretical calculations of pyridine derivatives copper complexes”, trabajo dirijido por [Juan Manuel Lazaro](https://www.ginapsgroup.com/author/juan-manuel-lazaro/) del GINaPs.
 
 <!--more-->
 
