@@ -131,16 +131,16 @@ Los autores agradecen el apoyo económico del Ministerio de Economía y Competit
 
 ***Itziar Oyarzabal*** <sup>1,2</sup>, ***Ainara Valverde*** <sup>1,3</sup>***, Leire Celaya-Azcoaga*** <sup>1,4</sup> *&* ***Roberto Fernández de Luis*** <sup>1</sup>
 
-<sup>1</sup>*BCMaterials, Basque Center for Materials, Applications and Nanostructures, UPV/EHU Science Park, 48940 Leioa, Spain*
-
-<sup>2</sup>*IKERBASQUE, Basque Foundation for Science, 48013 Bilbao, Spain*
-
-<sup>3</sup>*Department of Physical Chemistry (Macromolecular Chemistry Group (LABQUIMAC).* *4**Department of Inorganic Chemistry. Faculty of Science and Technology. University of the Basque Country (UPV/EHU). Barrio Sarriena s/n 48940 Leioa, Spain, 48013 Bilbao, Spain*
-
-
+> <sup>1</sup>BCMaterials, Basque Center for Materials, Applications and Nanostructures, UPV/EHU Science Park, 48940 Leioa, Spain
+>
+> <sup>2</sup>IKERBASQUE, Basque Foundation for Science, 48013 Bilbao, Spain
+>
+> <sup>3</sup>Department of Physical Chemistry (Macromolecular Chemistry Group (LABQUIMAC). 4**Department of Inorganic Chemistry. Faculty of Science and Technology. University of the Basque Country (UPV/EHU). Barrio Sarriena s/n 48940 Leioa, Spain, 48013 Bilbao, Spain
 
 
 
 ------
 
 Este artículo fue publicado originalmente en [*Mapping Ignorance*](https://mappingignorance.org/). Lea el [original](https://mappingignorance.org/2021/07/19/mimicking-nature-to-face-the-green-environmental-transition/).
+
+*Traducido por: [Gabriel Ibrahin Tovar](https://www.ginapsgroup.com/author/gabriel-tovar/) (Universidad de Buenos Aires, Argentina)*
