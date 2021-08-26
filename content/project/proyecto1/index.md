@@ -3,6 +3,7 @@ title: "Biosorbentes híbridos nanoestructurados: Desarrollo y aplicación en mu
 summary: Aplicaciones de quitina para problemas ambientales.
 tags:
 - quitina
+- quitina ambiental
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
