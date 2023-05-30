@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Juan Manuel Lázaro
+title: Juan Manuel Lázaro Martínez
 # Username (this should match the folder name)
 authors:
 - jmlazaro
