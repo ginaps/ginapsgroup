@@ -17,7 +17,7 @@ organizations:
   url: "https://iquimefa.conicet.gov.ar/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dedicado a la síntesis y caracterización de nanocompuestos a base de polímeros naturales para el desarrollo de materiales en las áreas de medicina y biotecnología. Actualmente desarrolla películas para empaques sustentables y funcionales.
+bio: Dedicada a la síntesis y caracterización de nanocompuestos a base de polímeros naturales para el desarrollo de materiales en las áreas de medicina y biotecnología. Actualmente desarrolla películas para empaques sustentables y funcionales.
 
 Intereses:
 - Polímeros naturales
