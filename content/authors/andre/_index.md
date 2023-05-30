@@ -33,7 +33,7 @@ education:
     year: 2015
   - course: Farmacéutica
     institution: Universidad de Buenos Aires
-    year: 2010
+    year: 2009
 
 
 # Social/Academic Networking
