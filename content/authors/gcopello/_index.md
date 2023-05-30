@@ -9,7 +9,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Investigador principal
+role: Investigador
 
 # Organizations/Affiliations
 organizations:
