@@ -3,7 +3,7 @@
 title: Andrea Mebert
 # Username (this should match the folder name)
 authors:
-- amebert
+- andre
 
 # Is this the primary user of the site?
 superuser: false
