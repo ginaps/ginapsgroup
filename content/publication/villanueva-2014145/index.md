@@ -1,6 +1,5 @@
 ---
-title: 'Point of zero charge as a factor to control biofilm formation of Pseudomonas'
-  aeruginosa in sol-gel derivatized aluminum alloy plates
+title: 'Point of zero charge as a factor to control biofilm formation of Pseudomonas aeruginosa in sol-gel derivatized aluminum alloy plates'
 date: '2014-01-01'
 
 authors:

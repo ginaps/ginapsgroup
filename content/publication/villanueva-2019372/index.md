@@ -1,6 +1,5 @@
 ---
-title: 'Smart release of antimicrobial ZnO nanoplates from a pH-responsive keratin'
-  hydrogel
+title: 'Smart release of antimicrobial ZnO nanoplates from a pH-responsive keratin hydrogel'
 date: '2019-01-01'
 
 authors:

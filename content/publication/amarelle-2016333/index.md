@@ -1,6 +1,5 @@
 ---
-title: 'HmuS and HmuQ of Ensifer/Sinorhizobium meliloti degrade heme in vitro and participate'
-  in heme metabolism in vivo
+title: 'HmuS and HmuQ of Ensifer/Sinorhizobium meliloti degrade heme in vitro and participate in heme metabolism in vivo'
 date: '2016-01-01'
 
 authors:

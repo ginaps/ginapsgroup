@@ -1,6 +1,5 @@
 ---
-title: 'Assessment of graphitized coal ash char concentrates as a potential synthetic'
-  graphite source
+title: 'Assessment of graphitized coal ash char concentrates as a potential synthetic graphite source'
 date: '2020-01-01'
 
 

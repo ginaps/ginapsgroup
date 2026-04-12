@@ -1,6 +1,5 @@
 ---
-title: 'Thiabendazole adsorption on montmorillonite, octadecyltrimethylammonium- and'
-  Acremonium sp.-loaded products and their copper complexes
+title: 'Thiabendazole adsorption on montmorillonite, octadecyltrimethylammonium- and Acremonium sp.-loaded products and their copper complexes'
 date: '2017-01-01'
 
 

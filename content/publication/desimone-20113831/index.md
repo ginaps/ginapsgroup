@@ -1,6 +1,5 @@
 ---
-title: 'In vitro studies and preliminary in vivo evaluation of silicified concentrated'
-  collagen hydrogels
+title: 'In vitro studies and preliminary in vivo evaluation of silicified concentrated collagen hydrogels'
 date: '2011-01-01'
 
 publishDate: '2021-04-21T19:26:32.860140Z'

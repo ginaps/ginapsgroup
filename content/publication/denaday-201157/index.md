@@ -1,6 +1,5 @@
 ---
-title: 'Development and characterization of a polyampholyte-based reactor immobilizing'
-  soybean seed coat peroxidase for analytical applications in a flow system
+title: 'Development and characterization of a polyampholyte-based reactor immobilizing soybean seed coat peroxidase for analytical applications in a flow system'
 date: '2011-01-01'
 
 publishDate: '2021-04-21T19:27:55.219950Z'

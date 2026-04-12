@@ -1,6 +1,5 @@
 ---
-title: 'Influence of silicification on the structural and biological properties of'
-  buffer-mediated collagen hydrogels
+title: 'Influence of silicification on the structural and biological properties of buffer-mediated collagen hydrogels'
 date: '2012-01-01'
 
 authors:

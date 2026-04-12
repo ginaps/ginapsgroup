@@ -1,6 +1,5 @@
 ---
-title: 'Efficient preservation in a silicon oxide matrix of Escherichia coli, producer'
-  of recombinant proteins
+title: 'Efficient preservation in a silicon oxide matrix of Escherichia coli, producer of recombinant proteins'
 date: '2005-01-01'
 
 publishDate: '2021-04-21T19:26:33.341701Z'

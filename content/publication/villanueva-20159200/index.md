@@ -1,6 +1,5 @@
 ---
-title: 'Dual antibacterial effect of immobilized quaternary ammonium and aliphatic'
-  groups on PVC
+title: 'Dual antibacterial effect of immobilized quaternary ammonium and aliphatic groups on PVC'
 date: '2015-01-01'
 
 authors:

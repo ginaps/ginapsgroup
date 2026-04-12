@@ -1,6 +1,5 @@
 ---
-title: 'Synthesis, FTIR, solid-state NMR and SEM studies of novel polyampholytes or'
-  polyelectrolytes obtained from EGDE, MAA and imidazoles
+title: 'Synthesis, FTIR, solid-state NMR and SEM studies of novel polyampholytes or polyelectrolytes obtained from EGDE, MAA and imidazoles'
 date: '2008-01-01'
 
 authors:

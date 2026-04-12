@@ -1,6 +1,5 @@
 ---
-title: 'Lactoferrin purification and whey protein isolate recovery from cheese whey'
-  using chitosan mini-spheres
+title: 'Lactoferrin purification and whey protein isolate recovery from cheese whey using chitosan mini-spheres'
 date: '2020-01-01'
 
 authors:

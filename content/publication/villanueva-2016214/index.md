@@ -1,6 +1,5 @@
 ---
-title: 'Antimicrobial surface functionalization of PVC by a guanidine based antimicrobial'
-  polymer
+title: 'Antimicrobial surface functionalization of PVC by a guanidine based antimicrobial polymer'
 date: '2016-01-01'
 
 authors:

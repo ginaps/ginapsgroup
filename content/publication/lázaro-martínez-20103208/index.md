@@ -1,6 +1,5 @@
 ---
-title: 'NMR characterization of hydrate and aldehyde forms of imidazole-2- carboxaldehyde'
-  and derivatives
+title: 'NMR characterization of hydrate and aldehyde forms of imidazole-2- carboxaldehyde and derivatives'
 date: '2010-01-01'
 
 authors:

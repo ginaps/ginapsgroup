@@ -1,6 +1,5 @@
 ---
-title: 'Immobilized chitosan as biosorbent for the removal of Cd(II), Cr(III) and Cr(VI)'
-  from aqueous solutions
+title: 'Immobilized chitosan as biosorbent for the removal of Cd(II), Cr(III) and Cr(VI) from aqueous solutions'
 date: '2008-01-01'
 
 publishDate: '2021-04-21T19:26:33.120053Z'

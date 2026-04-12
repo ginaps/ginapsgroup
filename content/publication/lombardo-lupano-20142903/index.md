@@ -1,6 +1,5 @@
 ---
-title: 'Synthesis, characterization, and catalytic properties of cationic hydrogels'
-  containing copper(II) and cobalt(II) ions
+title: 'Synthesis, characterization, and catalytic properties of cationic hydrogels containing copper(II) and cobalt(II) ions'
 date: '2014-01-01'
 
 authors:

@@ -1,6 +1,5 @@
 ---
-title: 'Low cost and regenerable composites based on chitin/bentonite for the adsorption'
-  potential emerging pollutants
+title: 'Low cost and regenerable composites based on chitin/bentonite for the adsorption potential emerging pollutants'
 date: '2020-01-01'
 
 authors:

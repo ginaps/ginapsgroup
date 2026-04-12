@@ -1,7 +1,5 @@
 ---
-title: 'New Insights about the Selectivity in the Activation of Hydrogen Peroxide by'
-  Cobalt or Copper Hydrogel Heterogeneous Catalysts in the Generation of Reactive
-  Oxygen Species
+title: 'New Insights about the Selectivity in the Activation of Hydrogen Peroxide by Cobalt or Copper Hydrogel Heterogeneous Catalysts in the Generation of Reactive Oxygen Species'
 date: '2016-01-01'
 
 authors:

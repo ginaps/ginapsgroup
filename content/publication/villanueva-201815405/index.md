@@ -1,6 +1,5 @@
 ---
-title: 'Solar light efficient photocatalytic activity degradation of emergent contaminants'
-  by coated TiO2 nanoparticles
+title: 'Solar light efficient photocatalytic activity degradation of emergent contaminants by coated TiO2 nanoparticles'
 date: '2018-01-01'
 
 authors:

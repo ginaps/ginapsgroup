@@ -1,6 +1,5 @@
 ---
-title: 'Single step synthesis of a polyhydroxy ether and its optimization to adsorption'
-  of a textile dye
+title: 'Single step synthesis of a polyhydroxy ether and its optimization to adsorption of a textile dye'
 date: '2020-01-01'
 
 authors:

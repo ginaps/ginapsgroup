@@ -1,6 +1,5 @@
 ---
-title: 'Dual adsorbent-photocatalytic keratin-TiO2nanocomposite for trimethoprim removal'
-  from wastewater
+title: 'Dual adsorbent-photocatalytic keratin-TiO2nanocomposite for trimethoprim removal from wastewater'
 date: '2020-01-01'
 
 authors:

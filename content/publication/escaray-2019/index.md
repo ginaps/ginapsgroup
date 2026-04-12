@@ -1,6 +1,5 @@
 ---
-title: 'Characterization of the copper transporters from lotus spp. and their involvement'
-  under flooding conditions
+title: 'Characterization of the copper transporters from lotus spp. and their involvement under flooding conditions'
 date: '2019-01-01'
 
 authors:

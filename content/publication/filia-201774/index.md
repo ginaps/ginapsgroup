@@ -1,6 +1,5 @@
 ---
-title: 'Induction of ABCG2/BCRP restricts the distribution of zidovudine to the fetal'
-  brain in rats
+title: 'Induction of ABCG2/BCRP restricts the distribution of zidovudine to the fetal brain in rats'
 date: '2017-01-01'
 
 authors:

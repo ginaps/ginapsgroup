@@ -1,7 +1,5 @@
 ---
-title: 'Synthesis of Water-Soluble Oligomers from Imidazole, Ethyleneglycol Diglycidyl'
-  Ether, and Methacrylic Acid. An Insight into the Chemical Structure, Aggregation
-  Behavior and Formation of Hollow Spheres
+title: 'Synthesis of Water-Soluble Oligomers from Imidazole, Ethyleneglycol Diglycidyl Ether, and Methacrylic Acid. An Insight into the Chemical Structure, Aggregation Behavior and Formation of Hollow Spheres'
 date: '2016-01-01'
 
 authors:

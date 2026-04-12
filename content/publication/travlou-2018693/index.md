@@ -1,6 +1,5 @@
 ---
-title: 'Carbon quantum dot surface-chemistry-dependent ag release governs the high'
-  antibacterial activity of Ag-metal-organic framework composites
+title: 'Carbon quantum dot surface-chemistry-dependent ag release governs the high antibacterial activity of Ag-metal-organic framework composites'
 date: '2018-01-01'
 
 authors:

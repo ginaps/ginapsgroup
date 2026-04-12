@@ -1,6 +1,5 @@
 ---
-title: 'Analysis of diphenylamine and impurities using monolithic column with electrochemical'
-  detection
+title: 'Analysis of diphenylamine and impurities using monolithic column with electrochemical detection'
 date: '2006-01-01'
 
 authors:

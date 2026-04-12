@@ -1,6 +1,5 @@
 ---
-title: 'Pectin-decorated magnetite nanoparticles as both iron delivery systems and'
-  protective matrices for probiotic bacteria
+title: 'Pectin-decorated magnetite nanoparticles as both iron delivery systems and protective matrices for probiotic bacteria'
 date: '2019-01-01'
 
 authors:

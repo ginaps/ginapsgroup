@@ -1,6 +1,5 @@
 ---
-title: 'Synthesis and characterization of novel polyampholyte and polyelectrolyte polymers'
-  containing imidazole, triazole or pyrazole
+title: 'Synthesis and characterization of novel polyampholyte and polyelectrolyte polymers containing imidazole, triazole or pyrazole'
 date: '2012-01-01'
 
 authors:

@@ -1,6 +1,5 @@
 ---
-title: 'Heterogeneous acid catalysts prepared by immobilization of H3PW12O40 on silica'
-  through impregnation and inclusion, applied to the synthesis of 3H-1,5-benzodiazepines
+title: 'Heterogeneous acid catalysts prepared by immobilization of H3PW12O40 on silica through impregnation and inclusion, applied to the synthesis of 3H-1,5-benzodiazepines'
 date: '2020-01-01'
 
 authors:

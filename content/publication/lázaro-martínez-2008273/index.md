@@ -1,6 +1,5 @@
 ---
-title: 'Studies on the activation of hydrogen peroxide for color removal in the presence'
-  of a new Cu(II)-polyampholyte heterogeneous catalyst
+title: 'Studies on the activation of hydrogen peroxide for color removal in the presence of a new Cu(II)-polyampholyte heterogeneous catalyst'
 date: '2008-01-01'
 
 authors:

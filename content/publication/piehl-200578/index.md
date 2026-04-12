@@ -1,6 +1,5 @@
 ---
-title: 'Plasmatic antioxidant capacity due to ascorbate using TEMPO scavenging and'
-  electron spin resonance
+title: 'Plasmatic antioxidant capacity due to ascorbate using TEMPO scavenging and electron spin resonance'
 date: '2005-01-01'
 
 authors:

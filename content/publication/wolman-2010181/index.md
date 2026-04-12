@@ -1,6 +1,5 @@
 ---
-title: 'Egg white lysozyme purification with a chitin-silica-based affinity chromatographic'
-  matrix
+title: 'Egg white lysozyme purification with a chitin-silica-based affinity chromatographic matrix'
 date: '2010-01-01'
 
 authors:

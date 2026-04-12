@@ -1,6 +1,5 @@
 ---
-title: 'HPLC-UV platform for trace analysis of three isomeric mononitrophenols in water'
-  with chitin based solid phase extraction
+title: 'HPLC-UV platform for trace analysis of three isomeric mononitrophenols in water with chitin based solid phase extraction'
 
 publishDate: '2017-04-21T19:26:32.108960Z'
 authors:

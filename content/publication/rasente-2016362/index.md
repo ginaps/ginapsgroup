@@ -1,6 +1,5 @@
 ---
-title: 'Dermatan sulfate/chitosan polyelectrolyte complex with potential application'
-  in the treatment and diagnosis of vascular disease
+title: 'Dermatan sulfate/chitosan polyelectrolyte complex with potential application in the treatment and diagnosis of vascular disease'
 date: '2016-01-01'
 
 authors:

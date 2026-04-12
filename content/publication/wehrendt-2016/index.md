@@ -1,6 +1,5 @@
 ---
-title: 'P120-catenin regulates early trafficking stages of the n-cadherin precursor'
-  complex
+title: 'P120-catenin regulates early trafficking stages of the n-cadherin precursor complex'
 date: '2016-01-01'
 
 authors:

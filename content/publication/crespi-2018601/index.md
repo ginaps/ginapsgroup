@@ -1,6 +1,5 @@
 ---
-title: 'Generation and Stability of the gem-Diol Forms in Imidazole Derivatives Containing'
-  Carbonyl Groups. Solid-State NMR and Single-Crystal X-ray Diffraction Studies
+title: 'Generation and Stability of the gem-Diol Forms in Imidazole Derivatives Containing Carbonyl Groups. Solid-State NMR and Single-Crystal X-ray Diffraction Studies'
 date: '2018-01-01'
 
 publishDate: '2021-04-21T19:27:54.604486Z'

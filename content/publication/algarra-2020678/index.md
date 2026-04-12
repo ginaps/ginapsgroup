@@ -1,6 +1,5 @@
 ---
-title: 'Insights into the formation of N doped 3D-graphene quantum dots. Spectroscopic'
-  and computational approach
+title: 'Insights into the formation of N doped 3D-graphene quantum dots. Spectroscopic and computational approach'
 
 draft: true
 publishDate: '2020-04-21T19:27:54.148815Z'

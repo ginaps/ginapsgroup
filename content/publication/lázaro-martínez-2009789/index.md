@@ -1,6 +1,5 @@
 ---
-title: 'Development and characterization of a new polyampholyte-surfactant complex'
-  applied to the solid phase extraction of bisphenol-A
+title: 'Development and characterization of a new polyampholyte-surfactant complex applied to the solid phase extraction of bisphenol-A'
 date: '2009-01-01'
 
 authors:

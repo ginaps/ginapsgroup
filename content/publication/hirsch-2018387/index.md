@@ -1,6 +1,5 @@
 ---
-title: 'Sulfanilic acid-modified chitosan mini-spheres and their application for lysozyme'
-  purification from egg white
+title: 'Sulfanilic acid-modified chitosan mini-spheres and their application for lysozyme purification from egg white'
 date: '2018-01-01'
 
 

@@ -1,6 +1,5 @@
 ---
-title: 'Removal of dyes from water using chitosan hydrogel/SiO2 and chitin hydrogel/SiO2'
-  hybrid materials obtained by the sol-gel method
+title: 'Removal of dyes from water using chitosan hydrogel/SiO2 and chitin hydrogel/SiO2 hybrid materials obtained by the sol-gel method'
 date: '2011-01-01'
 
 

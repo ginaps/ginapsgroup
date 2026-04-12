@@ -1,6 +1,5 @@
 ---
-title: 'Activation of H2O2 and superoxide production using a novel cobalt complex based'
-  on a polyampholyte
+title: 'Activation of H2O2 and superoxide production using a novel cobalt complex based on a polyampholyte'
 date: '2013-01-01'
 
 authors:

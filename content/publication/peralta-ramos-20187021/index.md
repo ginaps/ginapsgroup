@@ -1,6 +1,5 @@
 ---
-title: 'Influence of GO reinforcement on keratin based smart hydrogel and its application'
-  for emerging pollutants removal
+title: 'Influence of GO reinforcement on keratin based smart hydrogel and its application for emerging pollutants removal'
 date: '2018-01-01'
 
 authors:

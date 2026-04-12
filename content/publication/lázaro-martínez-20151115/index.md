@@ -1,6 +1,5 @@
 ---
-title: 'Solid-state studies of the crystalline/amorphous character in linear poly (ethylenimine'
-  hydrochloride) (PEI·HCl) polymers and their copper Complexes
+title: 'Solid-state studies of the crystalline/amorphous character in linear poly (ethylenimine hydrochloride) (PEI·HCl) polymers and their copper Complexes'
 date: '2015-01-01'
 
 authors:

@@ -1,6 +1,5 @@
 ---
-title: 'Insights into the coordination sphere of copper ion in polymers containing'
-  carboxylic acid and azole groups
+title: 'Insights into the coordination sphere of copper ion in polymers containing carboxylic acid and azole groups'
 date: '2013-01-01'
 
 authors:

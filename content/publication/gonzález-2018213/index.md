@@ -1,6 +1,5 @@
 ---
-title: 'Continuous flow adsorption of ciprofloxacin by using a nanostructured chitin/graphene'
-  oxide hybrid material
+title: 'Continuous flow adsorption of ciprofloxacin by using a nanostructured chitin/graphene oxide hybrid material'
 date: '2018-01-01'
 
 authors:

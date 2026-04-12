@@ -1,6 +1,5 @@
 ---
-title: 'Sustainable and smart keratin hydrogel with pH-sensitive swelling and enhanced'
-  mechanical properties
+title: 'Sustainable and smart keratin hydrogel with pH-sensitive swelling and enhanced mechanical properties'
 date: '2017-01-01'
 
 publishDate: '2021-04-21T19:26:32.037742Z'

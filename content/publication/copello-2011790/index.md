@@ -1,6 +1,5 @@
 ---
-title: 'Exhausted yerba mate leaves (Ilex paraguariensis) as biosorbent for the removal'
-  of metals from aqueous solutions
+title: 'Exhausted yerba mate leaves (Ilex paraguariensis) as biosorbent for the removal of metals from aqueous solutions'
 date: '2011-01-01'
 
 authors:
