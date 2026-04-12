@@ -508,6 +508,7 @@ function Resolve-Authors {
   )
 
   $resolved = New-Object System.Collections.Generic.List[string]
+  $seenAuthors = New-Object 'System.Collections.Generic.HashSet[string]'
   $unresolved = New-Object System.Collections.Generic.List[string]
 
   foreach ($author in $SourceAuthors) {
@@ -521,9 +522,13 @@ function Resolve-Authors {
     }
 
     if ($matchedSlug) {
-      $resolved.Add($matchedSlug)
+      if ($seenAuthors.Add($matchedSlug)) {
+        $resolved.Add($matchedSlug)
+      }
     } else {
-      $resolved.Add($normalizedAuthor)
+      if ($seenAuthors.Add($normalizedAuthor)) {
+        $resolved.Add($normalizedAuthor)
+      }
       $unresolved.Add($normalizedAuthor)
     }
   }
@@ -531,6 +536,52 @@ function Resolve-Authors {
   return [PSCustomObject]@{
     Authors = @($resolved)
     Unresolved = @($unresolved | Sort-Object -Unique)
+  }
+}
+
+function Find-DuplicatePublications {
+  param([Parameter(Mandatory = $true)][object[]]$Results)
+
+  $records = foreach ($item in $Results) {
+    $indexPath = Join-Path $item.Path 'index.md'
+    if (-not (Test-Path $indexPath)) {
+      continue
+    }
+
+    $title = ''
+    $doi = ''
+    foreach ($line in Get-Content $indexPath) {
+      if ($line -match '^title:\s*(.+)$') {
+        $title = Normalize-Whitespace ($Matches[1].Trim("'"))
+      } elseif ($line -match '^doi:\s*(.+)$') {
+        $doi = Normalize-Whitespace $Matches[1]
+      }
+    }
+
+    [PSCustomObject]@{
+      Path = $item.Path
+      Title = $title
+      Doi = $doi
+    }
+  }
+
+  $titleDuplicates = @(
+    $records |
+      Where-Object { -not [string]::IsNullOrWhiteSpace($_.Title) } |
+      Group-Object Title |
+      Where-Object Count -gt 1
+  )
+
+  $doiDuplicates = @(
+    $records |
+      Where-Object { -not [string]::IsNullOrWhiteSpace($_.Doi) } |
+      Group-Object Doi |
+      Where-Object Count -gt 1
+  )
+
+  return [PSCustomObject]@{
+    ByTitle = $titleDuplicates
+    ByDoi = $doiDuplicates
   }
 }
 
@@ -763,11 +814,14 @@ try {
   $changedCount = @($results | Where-Object { $_.Changed }).Count
   $unresolvedByPublication = $results | Where-Object { $_.Unresolved.Count -gt 0 }
   $newAliasCandidates = $unresolvedByPublication | ForEach-Object { $_.Unresolved } | Sort-Object -Unique
+  $duplicatePublications = Find-DuplicatePublications -Results $results
 
   Write-Host ("Mode: {0}" -f $mode)
   Write-Host ("Publications scanned: {0}" -f $results.Count)
   Write-Host ("Publications changed: {0}" -f $changedCount)
   Write-Host ("Publications with unresolved authors: {0}" -f @($unresolvedByPublication).Count)
+  Write-Host ("Duplicate titles: {0}" -f @($duplicatePublications.ByTitle).Count)
+  Write-Host ("Duplicate DOIs: {0}" -f @($duplicatePublications.ByDoi).Count)
 
   foreach ($item in $unresolvedByPublication) {
     $relativePath = Resolve-Path -LiteralPath $item.Path -Relative
@@ -784,7 +838,29 @@ try {
     }
   }
 
-  if ($mode -eq 'validate' -and @($unresolvedByPublication).Count -gt 0) {
+  if (@($duplicatePublications.ByTitle).Count -gt 0) {
+    Write-Host 'Duplicate publications by title:'
+    foreach ($group in $duplicatePublications.ByTitle) {
+      Write-Host ("- {0}" -f $group.Name)
+      foreach ($entry in $group.Group) {
+        $relativePath = Resolve-Path -LiteralPath $entry.Path -Relative
+        Write-Host ("    * {0}" -f $relativePath)
+      }
+    }
+  }
+
+  if (@($duplicatePublications.ByDoi).Count -gt 0) {
+    Write-Host 'Duplicate publications by DOI:'
+    foreach ($group in $duplicatePublications.ByDoi) {
+      Write-Host ("- {0}" -f $group.Name)
+      foreach ($entry in $group.Group) {
+        $relativePath = Resolve-Path -LiteralPath $entry.Path -Relative
+        Write-Host ("    * {0}" -f $relativePath)
+      }
+    }
+  }
+
+  if ($mode -eq 'validate' -and (@($unresolvedByPublication).Count -gt 0 -or @($duplicatePublications.ByTitle).Count -gt 0 -or @($duplicatePublications.ByDoi).Count -gt 0)) {
     exit 1
   }
 } finally {

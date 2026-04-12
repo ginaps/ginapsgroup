@@ -11,7 +11,6 @@ authors:
 - jmlazaro
 - M.J. Prieto
 - L. Gonzalez
-- jmlazaro
 - S.D.V. Alonso
 - J. Montanari
 - P. Evelson

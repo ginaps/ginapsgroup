@@ -21,6 +21,7 @@ Las publicaciones y su vÃ­nculo con `content/authors` se pueden normalizar con
 ```
 
 El mapa central de equivalencias entre firmas bibliogrÃ¡ficas y slugs internos vive en `data/author_aliases.yaml`. Si aparece una firma nueva, el modo de validaciÃ³n la reporta para incorporarla antes de sincronizar.
+La validaciÃ³n tambiÃ©n revisa publicaciones duplicadas por `title` y por `doi`, y elimina autores repetidos dentro de una misma publicaciÃ³n al sincronizar.
 
 ## Contacto
 - Gabriel Tovar — creador del proyecto desde 2021
