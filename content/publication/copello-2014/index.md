@@ -10,19 +10,7 @@ authors:
 - J.A. González
 - S. López Egües
 - L.E. Diaz
-abstract: 'In this work the use of tetraethoxysilane (TEOS) for cross-linking of chitosan'
-  hydrogel beads was studied at the level of 1 mmol TEOS per gram of chitosan. They
-  were compared with glutaraldehyde and epichlorohydrin cross-linked beads. The hydrogels
-  were characterized by FTIR, SEM, water content, nitrogen content, and their point
-  of zero charge. The performance of the anionic dye Remazol Black (RB) and the cationic
-  Cd(II) adsorptions was assessed in order to characterize the sorbate-sorbent interaction.
-  Adsorption experimental data were analyzed using two- and three-parameter isotherm
-  models along with the evaluation of mean adsorption energy and standard free energy.
-  The adsorption was observed to be pH dependent. The uptake rate of RB and Cd(II)
-  showed that the three type of beads followed a similar kinetic behavior. For both
-  sorbates the TEOS cross-linked beads showed the higher maximum adsorption capacity,
-  followed by epichlorohydrin and glutaraldehyde cross-linked beads. © 2014 Wiley
-  Periodicals, Inc.
+abstract: 'In this work the use of tetraethoxysilane (TEOS) for cross-linking of chitosan hydrogel beads was studied at the level of 1 mmol TEOS per gram of chitosan. They were compared with glutaraldehyde and epichlorohydrin cross-linked beads. The hydrogels were characterized by FTIR, SEM, water content, nitrogen content, and their point of zero charge. The performance of the anionic dye Remazol Black (RB) and the cationic Cd(II) adsorptions was assessed in order to characterize the sorbate-sorbent interaction. Adsorption experimental data were analyzed using two- and three-parameter isotherm models along with the evaluation of mean adsorption energy and standard free energy. The adsorption was observed to be pH dependent. The uptake rate of RB and Cd(II) showed that the three type of beads followed a similar kinetic behavior. For both sorbates the TEOS cross-linked beads showed the higher maximum adsorption capacity, followed by epichlorohydrin and glutaraldehyde cross-linked beads. © 2014 Wiley Periodicals, Inc.'
 
 publication: "*Journal of Applied Polymer Science*"
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84905923158&doi=10.1002%2fapp.41005&partnerID=40&md5=69fd3e899af04f9350ffe8d973436aad
