@@ -33,7 +33,6 @@ tags:
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ""
 url_code: ""
 url_dataset: ""
 url_poster: ""
