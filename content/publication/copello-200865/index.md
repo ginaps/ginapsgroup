@@ -3,7 +3,7 @@ title: Antibody detection employing sol-gel immobilized parasites
 date: '2008-01-01'
 
 authors:
-- G.J. Copello
+- gcopello
 - M.C. De Marzi
 - M.F. Desimone
 - E.L. Malchiodi

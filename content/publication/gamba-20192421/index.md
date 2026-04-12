@@ -6,7 +6,7 @@ date: '2019-01-01'
 
 authors:
 - M. Gamba
-- J.M. Lázaro-Martínez
+- jmlazaro
 - M.S. Olivelli
 - F. Yarza
 - D. Vega

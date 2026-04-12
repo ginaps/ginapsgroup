@@ -6,8 +6,8 @@ date: '2011-01-01'
 
 publishDate: '2021-04-21T19:26:32.940756Z'
 authors:
-- G.J. Copello
-- A.M. Mebert
+- gcopello
+- andre
 - M. Raineri
 - M.P. Pesenti
 - L.E. Diaz

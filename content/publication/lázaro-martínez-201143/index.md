@@ -4,7 +4,7 @@ title: 'XPS studies on the Cu(I,II)-polyampholyte heterogeneous catalyst: An ins
 date: '2011-01-01'
 
 authors:
-- J.M. Lázaro Martínez
+- jmlazaro
 - E. Rodríguez-Castellón
 - R.M.T. Sánchez
 - L.R. Denaday

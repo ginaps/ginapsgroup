@@ -9,7 +9,7 @@ authors:
 - P. Costa
 - A.C. Santos
 - B. Valentim
-- J.M. Lázaro-Martínez
+- jmlazaro
 - C. Freire
 publication_types:
 - '2'

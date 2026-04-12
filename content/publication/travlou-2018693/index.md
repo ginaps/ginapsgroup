@@ -9,7 +9,7 @@ authors:
 - C. Alcoholado
 - M. Cifuentes-Rueda
 - A.M. Labella
-- J.M. Lazaro-Martínez
+- jmlazaro
 - E. Rodríguez-Castellon
 - T.J. Bandosz
 publication_types:

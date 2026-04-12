@@ -8,7 +8,7 @@ authors:
 - K. Radotić
 - D. Mutavdzic
 - C.O. Ania
-- J.M. Lázaro-Martínez
+- jmlazaro
 - J. Jiménez-Jiménez
 - E. Rodríguez-Castellón
 - M. del Valle
@@ -66,7 +66,6 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides:
-
 ---
 
 

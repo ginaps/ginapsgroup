@@ -4,12 +4,12 @@ title: Low cost and regenerable composites based on chitin/bentonite for the ads
 date: '2020-01-01'
 
 authors:
-- J.J. Perez
-- M.E. Villanueva
+- jperez
+- mvillanueva
 - L. Sánchez
 - R. Ollier
 - V. Alvarez
-- G.J. Copello
+- gcopello
 publication_types:
 - '2'
 abstract: Composites based on bentonite and chitin were prepared and its application

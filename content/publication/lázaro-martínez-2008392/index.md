@@ -4,7 +4,7 @@ title: Synthesis, FTIR, solid-state NMR and SEM studies of novel polyampholytes 
 date: '2008-01-01'
 
 authors:
-- J.M. Lázaro Martínez
+- jmlazaro
 - M.F. Leal Denis
 - V. Campo Dall'Orto
 - G.Y. Buldain

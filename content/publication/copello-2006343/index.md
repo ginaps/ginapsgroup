@@ -4,7 +4,7 @@ date: '2006-01-01'
 
 
 authors:
-- G.J. Copello
+- gcopello
 - S. Teves
 - J. Degrossi
 - M. D'Aquino

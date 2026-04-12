@@ -4,12 +4,12 @@ title: 'Supramolecular effect of acetate on chitin gelling medium: Structural pr
 date: '2021-01-01'
 
 authors:
-- G.I. Tovar
+- tovar
 - P. Rivas-Rojas
-- J.M. Lázaro-Martínez
-- C.J. Pérez
-- F.J. Wolman
-- G.J. Copello
+- jmlazaro
+- jperez
+- wolman
+- gcopello
 publication_types:
 - '2'
 abstract: In this work, the influence of Sodium Acetate Trihydrate (SAT) on the gelling

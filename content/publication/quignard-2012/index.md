@@ -5,7 +5,7 @@ date: '2012-01-01'
 
 authors:
 - S. Quignard
-- G.J. Copello
+- gcopello
 - C. Aimé
 - I. Bataille
 - C. Hélary

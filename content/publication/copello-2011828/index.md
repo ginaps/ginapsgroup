@@ -5,7 +5,7 @@ date: '2011-01-01'
 
 
 authors:
-- G.J. Copello
+- gcopello
 - R.M. Vivot
 - F. Varela
 - L.E. Diaz

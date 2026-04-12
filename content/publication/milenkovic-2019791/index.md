@@ -7,7 +7,7 @@ authors:
 - M. Algarra
 - C. Alcoholado
 - M. Cifuentes
-- J.M. Lázaro-Martínez
+- jmlazaro
 - E. Rodríguez-Castellón
 - D. Mutavdžić
 - K. Radotić

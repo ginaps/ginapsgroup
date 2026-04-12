@@ -4,12 +4,12 @@ title: 'Phosphorus adsorption by a modified polyampholyte-diatomaceous earth mat
 date: '2017-01-01'
 
 authors:
-- M.E. Villanueva
+- mvillanueva
 - A.M.D.R. Diez
 - J.A. González
-- J.M. Lázaro-Martínez
+- jmlazaro
 - V.C. Dall'Orto
-- G.J. Copello
+- gcopello
 publication_types:
 - '2'
 abstract: The aim of this study was to investigate phosphorus removal in water by

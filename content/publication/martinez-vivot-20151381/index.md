@@ -4,7 +4,7 @@ date: '2015-01-01'
 
 authors:
 - R. Martinez-Vivot
-- G. Copello
+- gcopello
 - C. Leal
 - G. Piñero
 - V. Usach

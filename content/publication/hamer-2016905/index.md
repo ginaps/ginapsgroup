@@ -4,7 +4,7 @@ date: '2016-01-01'
 
 authors:
 - M. Hamer
-- J.M. Lázaro-Martínez
+- jmlazaro
 - I.N. Rezzano
 publication_types:
 - '2'

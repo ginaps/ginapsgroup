@@ -6,7 +6,7 @@ date: '2020-01-01'
 authors:
 - M.D. Morales
 - A. Infantes-Molina
-- J.M. Lázaro-Martínez
+- jmlazaro
 - G.P. Romanelli
 - L.R. Pizzio
 - E. Rodríguez-Castellón

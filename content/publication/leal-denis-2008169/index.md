@@ -8,7 +8,7 @@ authors:
 - A.J. Spiaggi
 - P.C. Dabas
 - V. Campo Dall' Orto
-- J.M.L. Martínez
+- jmlazaro
 - G.Y. Buldain
 publication_types:
 - '2'

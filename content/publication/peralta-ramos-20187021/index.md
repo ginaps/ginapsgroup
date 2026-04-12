@@ -4,12 +4,12 @@ title: Influence of GO reinforcement on keratin based smart hydrogel and its app
 date: '2018-01-01'
 
 authors:
-- M.L. Peralta Ramos
-- G. Galaburri
+- luz
+- ggalaburri
 - J.A. González
-- C.J. Pérez
-- M.E. Villanueva
-- G.J. Copello
+- jperez
+- mvillanueva
+- gcopello
 publication_types:
 - '2'
 abstract: In this work, the influence of graphene oxide (GO) reinforcement on keratin

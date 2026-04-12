@@ -7,7 +7,7 @@ publishDate: '2020-04-21T19:27:54.148815Z'
 authors:
 - M. Algarra
 - V. Moreno
-- J.M. Lázaro-Martínez
+- jmlazaro
 - E. Rodríguez-Castellón
 - J. Soto
 - J. Morales

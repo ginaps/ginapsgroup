@@ -4,9 +4,9 @@ title: Point of zero charge as a factor to control biofilm formation of Pseudomo
 date: '2014-01-01'
 
 authors:
-- M.E. Villanueva
+- mvillanueva
 - A. Salinas
-- G.J. Copello
+- gcopello
 - L.E. Díaz
 publication_types:
 - '2'
@@ -68,6 +68,5 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides:
-
 ---
 

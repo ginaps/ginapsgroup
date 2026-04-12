@@ -8,7 +8,7 @@ authors:
 - D.O. Forcato
 - A.E. Fili
 - F.E. Alustiza
-- J.M. Lázaro Martínez
+- jmlazaro
 - S. Bongiovanni Abel
 - M.F. Olmos Nicotra
 - A.P. Alessio

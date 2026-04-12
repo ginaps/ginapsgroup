@@ -6,7 +6,7 @@ date: '2016-01-01'
 
 authors:
 - L.V. Lombardo Lupano
-- J.M. Lázaro-Martínez
+- jmlazaro
 - N.M. Vizioli
 - D.I. Torres
 - V. Campo Dall' Orto

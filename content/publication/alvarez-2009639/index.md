@@ -6,7 +6,7 @@ publishDate: '2009-04-21T19:26:33.081591Z'
 authors:
 - G.S. Alvarez
 - M.L. Foglia
-- G.J. Copello
+- gcopello
 - M.F. Desimone
 - L.E. Diaz
 publication_types:

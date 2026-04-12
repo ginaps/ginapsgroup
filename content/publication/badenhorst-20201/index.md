@@ -7,7 +7,7 @@ date: '2020-01-01'
 authors:
 - C. Badenhorst
 - C. Santos
-- J. Lázaro-Martínez
+- jmlazaro
 - B. Bialecka
 - M. Cruceru
 - A. Guedes

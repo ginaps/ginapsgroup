@@ -5,7 +5,7 @@ title: HPLC-UV platform for trace analysis of three isomeric mononitrophenols in
 publishDate: '2017-04-21T19:26:32.108960Z'
 authors:
 - S.S. Saini
-- G.J. Copello
+- gcopello
 - A.L.J. Rao
 publication_types:
 - '2'

@@ -10,7 +10,7 @@ authors:
 - A.K. Chattah
 - G.A. Monti
 - G.Y. Buldain
-- J.M. Lázaro-Martínez
+- jmlazaro
 publication_types:
 - '2'
 abstract: The gem-diol moieties of organic compounds are rarely isolated or even studied

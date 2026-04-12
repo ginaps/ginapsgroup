@@ -4,10 +4,10 @@ date: '2016-01-01'
 
 
 authors:
-- A.M. Mebert
-- M.E. Villanueva
+- andre
+- mvillanueva
 - P.N. Catalano
-- G.J. Copello
+- gcopello
 - M.G. Bellino
 - G.S. Alvarez
 - M.F. Desimone

@@ -5,11 +5,11 @@ title: 'Chitin based hybrid composites reinforced with graphene derivatives: A n
 publishDate: '2015-04-21T19:26:32.555784Z'
 authors:
 - J.A. González
-- M.E. Villanueva
-- M.L. Peralta Ramos
-- C.J. Pérez
+- mvillanueva
+- luz
+- jperez
 - L.L. Piehl
-- G.J. Copello
+- gcopello
 publication_types:
 - '2'
 abstract: In this work, we present two novel nanostructured hybrid materials based

@@ -3,11 +3,11 @@ title: Oligomer-stabilized silver nanoparticles for antimicrobial coatings for p
 date: '2020-01-01'
 
 authors:
-- M.E. Villanueva
-- M.F. Ghibaudo
-- G.I. Tovar
-- G.J. Copello
-- V. Campo Dall’ Orto
+- mvillanueva
+- flor
+- tovar
+- gcopello
+- V. Campo Dall' Orto
 publication_types:
 - '2'
 abstract: The development of composite materials consisting of metal nanoparticles

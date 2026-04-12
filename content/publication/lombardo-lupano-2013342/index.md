@@ -5,7 +5,7 @@ date: '2013-01-01'
 
 authors:
 - L.V. Lombardo Lupano
-- J.M. Lázaro Martínez
+- jmlazaro
 - L.L. Piehl
 - E. Rubin De Celis
 - V. Campo Dall'Orto

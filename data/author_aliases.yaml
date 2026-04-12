@@ -1,0 +1,85 @@
+authors:
+  - slug: andre
+    display_name: Andrea Mebert
+    aliases:
+      - Andrea Mebert
+      - A.M. Mebert
+  - slug: emiliano
+    display_name: Emiliano Camilli
+    aliases:
+      - Emiliano Camilli
+  - slug: flor
+    display_name: Florencia Ghibaudo
+    aliases:
+      - Florencia Ghibaudo
+      - F. Ghibaudo
+      - M.F. Ghibaudo
+  - slug: gcopello
+    display_name: Guillermo Copello
+    aliases:
+      - Guillermo Copello
+      - G.J. Copello
+      - G. Copello
+  - slug: ggalaburri
+    display_name: Gonzalo Galaburri
+    aliases:
+      - Gonzalo Galaburri
+      - G. Galaburri
+  - slug: jmlazaro
+    display_name: Juan Manuel Lázaro Martínez
+    aliases:
+      - Juan Manuel Lázaro Martínez
+      - Juan Manuel Lazaro Martinez
+      - J.M. Lázaro Martínez
+      - J.M. Lázaro-Martínez
+      - J.M. Lázaro-Martinez
+      - J.M. Lazaro-Martínez
+      - J.M. Lazaro-Martinez
+      - J.M.L. Martínez
+      - J. Lázaro-Martínez
+      - J.M. Lázaro- Martínez
+  - slug: jperez
+    display_name: Jonás J. Pérez Bravo
+    aliases:
+      - Jonás J. Pérez Bravo
+      - Jonas J. Perez Bravo
+      - J.J. Perez
+      - J. Pérez Bravo
+      - J. Perez Bravo
+  - slug: luismiguel
+    display_name: Luis Araque
+    aliases:
+      - Luis Araque
+  - slug: luz
+    display_name: M. Luz Peralta Ramos
+    aliases:
+      - M. Luz Peralta Ramos
+      - M.L. Peralta Ramos
+  - slug: mvillanueva
+    display_name: M. Emilia Villanueva
+    aliases:
+      - M. Emilia Villanueva
+      - Emilia Villanueva
+      - M.E. Villanueva
+      - E.E. Villanueva
+  - slug: nora
+    display_name: Nora Francois
+    aliases:
+      - Nora Francois
+  - slug: roberto
+    display_name: Roberto Fernández de Luis
+    aliases:
+      - Roberto Fernández de Luis
+      - Roberto Fernandez de Luis
+      - R. Fernández de Luis
+      - R. Fernandez de Luis
+  - slug: tovar
+    display_name: Gabriel Tovar
+    aliases:
+      - Gabriel Tovar
+      - G.I. Tovar
+  - slug: wolman
+    display_name: Federico Wolman
+    aliases:
+      - Federico Wolman
+      - F.J. Wolman

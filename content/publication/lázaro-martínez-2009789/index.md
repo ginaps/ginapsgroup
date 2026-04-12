@@ -4,7 +4,7 @@ title: Development and characterization of a new polyampholyte-surfactant comple
 date: '2009-01-01'
 
 authors:
-- J.M. Lázaro Martínez
+- jmlazaro
 - M.F. Leal Denis
 - L.R. Denaday
 - V. Campo Dall' Orto

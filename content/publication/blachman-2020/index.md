@@ -8,7 +8,7 @@ authors:
 - F. Funez
 - A.M. Birocco
 - S.L. Saavedra
-- J.M. Lázaro-Martinez
+- jmlazaro
 - S.A. Camperi
 - R. Glisoni
 - A. Sosnik

@@ -5,7 +5,7 @@ title: New Insights about the Selectivity in the Activation of Hydrogen Peroxide
 date: '2016-01-01'
 
 authors:
-- J.M. Lázaro-Martínez
+- jmlazaro
 - L.V. Lombardo Lupano
 - L.L. Piehl
 - E. Rodríguez-Castellón

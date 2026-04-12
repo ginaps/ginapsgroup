@@ -8,11 +8,11 @@ authors:
 - D.B. Hirsch
 - M.F. Baieli
 - N. Urtasun
-- J.M. Lázaro- Martínez
+- jmlazaro
 - R.J. Glisoni
 - M.V. Miranda
 - O. Cascone
-- F.J. Wolman
+- wolman
 publication_types:
 - '2'
 abstract: A cation exchange matrix with zwitterionic and multimodal properties was

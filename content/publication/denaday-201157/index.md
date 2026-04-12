@@ -8,7 +8,7 @@ authors:
 - L.R. Denaday
 - M.V. Miranda
 - R.M. Torres Sánchez
-- J.M. Lázaro Martínez
+- jmlazaro
 - L.V. Lombardo Lupano
 - V. Campo Dall' Orto
 publication_types:

@@ -4,7 +4,7 @@ date: '2017-01-01'
 
 authors:
 - E.R.A. Gazzano
-- J.M. Lázaro-Martínez
+- jmlazaro
 - G.Y. Buldain
 publication_types:
 - '2'

@@ -4,12 +4,12 @@ title: Dual adsorbent-photocatalytic keratin-TiO2nanocomposite for trimethoprim 
 date: '2020-01-01'
 
 authors:
-- M.E. Villanueva
+- mvillanueva
 - M. Puca
-- J. Pérez Bravo
+- jperez
 - J. Bafico
 - V. Campo Dall Orto
-- G.J. Copello
+- gcopello
 publication_types:
 - '2'
 abstract: Trimethoprim is an emerging pollutant that has been found in ground water

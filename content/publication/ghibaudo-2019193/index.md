@@ -4,10 +4,10 @@ title: Pectin-decorated magnetite nanoparticles as both iron delivery systems an
 date: '2019-01-01'
 
 authors:
-- F. Ghibaudo
+- flor
 - E. Gerbino
-- G.J. Copello
-- V. Campo Dall’ Orto
+- gcopello
+- V. Campo Dall' Orto
 - A. Gómez-Zavaglia
 publication_types:
 - '2'

@@ -8,7 +8,7 @@ publishDate: '2021-04-21T19:26:33.008496Z'
 authors:
 - M.F. Desimone
 - G.S. Alvarez
-- G.J. Copello
+- gcopello
 - M.L. Foglia
 - M.V. Tuttolomondo
 - L.E. Diaz

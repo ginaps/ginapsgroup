@@ -6,7 +6,7 @@ date: '2016-01-01'
 authors:
 - R.Y. Rasente
 - J.C. Imperiale
-- J.M. Lázaro-Martínez
+- jmlazaro
 - L. Gualco
 - R. Oberkersch
 - A. Sosnik

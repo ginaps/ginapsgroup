@@ -3,11 +3,11 @@ title: Enhanced chitin gel with magnetic nanofiller for lysozyme purification
 date: '2020-01-01'
 
 authors:
-- G.I. Tovar
-- R. Fernández de Luis
+- tovar
+- roberto
 - M.I. Arriortua
-- F.J. Wolman
-- G.J. Copello
+- wolman
+- gcopello
 publication_types:
 - '2'
 abstract: In this study, we have investigated the impact of superparamagnetic magnetite

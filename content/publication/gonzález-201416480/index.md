@@ -6,9 +6,9 @@ date: '2014-01-01'
 authors:
 - J.A. González
 - M.F. Mazzobre
-- M.E. Villanueva
+- mvillanueva
 - L.E. Díaz
-- G.J. Copello
+- gcopello
 publication_types:
 - '2'
 abstract: 'Chitin hybrid materials reinforced with graphene oxide nanosheets (nGO)

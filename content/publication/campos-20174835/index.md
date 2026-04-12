@@ -7,7 +7,7 @@ authors:
 - D. Mutavdžić
 - M. Stanković
 - K. Radotić
-- J.M. Lázaro-Martínez
+- jmlazaro
 - J.C.G. Esteves da Silva
 - R. Contreras-Cáceres
 - M.S. Pino-González

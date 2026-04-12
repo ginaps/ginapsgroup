@@ -9,7 +9,7 @@ authors:
 - D. Mutavdžić
 - M.S. Pino-González
 - E. Rodríguez-Castellón
-- J.M. Lázaro-Martínez
+- jmlazaro
 - J.J. Guerrero-González
 - J.C. Esteves da Silva
 - J. Jiménez-Jiménez

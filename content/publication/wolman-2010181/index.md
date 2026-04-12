@@ -4,9 +4,9 @@ title: Egg white lysozyme purification with a chitin-silica-based affinity chrom
 date: '2010-01-01'
 
 authors:
-- F.J. Wolman
-- G.J. Copello
-- A.M. Mebert
+- wolman
+- gcopello
+- andre
 - A.M. Targovnik
 - M.V. Miranda
 - A.A.N. del Cañizo

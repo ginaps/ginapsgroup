@@ -7,7 +7,7 @@ authors:
 - I. Milenković
 - A. Mitrović
 - M. Algarra
-- J.M. Lázaro-Martínez
+- jmlazaro
 - E. Rodríguez-Castellón
 - V. Maksimović
 - S.Z. Spasić

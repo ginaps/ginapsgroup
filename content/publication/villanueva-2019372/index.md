@@ -4,11 +4,11 @@ title: Smart release of antimicrobial ZnO nanoplates from a pH-responsive kerati
 date: '2019-01-01'
 
 authors:
-- M.E. Villanueva
+- mvillanueva
 - M.L. Cuestas
-- C.J. Pérez
-- V. Campo Dall′ Orto
-- G.J. Copello
+- jperez
+- V. Campo Dall' Orto
+- gcopello
 publication_types:
 - '2'
 abstract: A smart antibacterial biomaterial based on a keratin hydrogel with pH-dependent

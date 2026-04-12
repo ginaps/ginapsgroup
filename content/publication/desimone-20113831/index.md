@@ -10,7 +10,7 @@ authors:
 - S. Quignard
 - I.B. Rietveld
 - I. Bataille
-- G.J. Copello
+- gcopello
 - G. Mosser
 - M.-M. Giraud-Guille
 - J. Livage

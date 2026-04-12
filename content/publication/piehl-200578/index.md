@@ -8,7 +8,7 @@ authors:
 - G.B. Facorro
 - M.G. Huarte
 - M.F. Desimone
-- G.J. Copello
+- gcopello
 - L.E. Díaz
 - E.R. De Celis
 publication_types:

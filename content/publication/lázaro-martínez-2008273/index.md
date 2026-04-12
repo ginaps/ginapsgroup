@@ -4,7 +4,7 @@ title: Studies on the activation of hydrogen peroxide for color removal in the p
 date: '2008-01-01'
 
 authors:
-- J.M. Lázaro Martínez
+- jmlazaro
 - M.F. Leal Denis
 - L.L. Piehl
 - E.R. de Celis

@@ -4,7 +4,7 @@ title: Exhausted yerba mate leaves (Ilex paraguariensis) as biosorbent for the r
 date: '2011-01-01'
 
 authors:
-- G.J. Copello
+- gcopello
 - R.E. Garibotti
 - F. Varela
 - M.V. Tuttolomondo

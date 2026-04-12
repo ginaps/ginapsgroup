@@ -3,10 +3,10 @@ title: Chitin nanowhiskers as alternative antimicrobial controlled release carri
 date: '2015-01-01'
 
 authors:
-- M.E. Villanueva
+- mvillanueva
 - A. Salinas
 - L.E. Díaz
-- G.J. Copello
+- gcopello
 publication_types:
 - '2'
 abstract: Antimicrobial finishings protect users from pathogenic and odor-generating

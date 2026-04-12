@@ -8,10 +8,10 @@ authors:
 - M.N. Calienni
 - E. Bernabeu
 - V. Calabro
-- J.M. Lázaro-Martinez
+- jmlazaro
 - M.J. Prieto
 - L. Gonzalez
-- C.S. Martinez
+- jmlazaro
 - S.D.V. Alonso
 - J. Montanari
 - P. Evelson

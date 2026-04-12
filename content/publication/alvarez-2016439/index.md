@@ -7,15 +7,15 @@ authors:
 - M.I.A. Echazú
 - J.A. Bertinatto
 - P.N. Catalano
-- G.J. Copello
+- gcopello
 - M.L. Foglia
 - J.A. Gonzalez
 - S.A. Giorgieri
 - S.L. Iglesias
-- A.M. Mebert
+- andre
 - P.L. Santo-Orihuela
 - M.V. Tuttolomondo
-- E.E. Villanueva
+- mvillanueva
 - M.F. Desimone
 publication_types:
 - '2'

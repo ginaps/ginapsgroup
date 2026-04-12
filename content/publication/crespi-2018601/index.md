@@ -10,7 +10,7 @@ authors:
 - D. Vega
 - A.K. Chattah
 - G.A. Monti
-- J.M. Lázaro-Martínez
+- jmlazaro
 publication_types:
 - '2'
 abstract: The stability of gem-diol forms in imidazolecarboxaldehyde isomers was studied

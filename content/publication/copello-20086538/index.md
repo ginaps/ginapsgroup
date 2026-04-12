@@ -5,7 +5,7 @@ date: '2008-01-01'
 
 publishDate: '2021-04-21T19:26:33.120053Z'
 authors:
-- G.J. Copello
+- gcopello
 - F. Varela
 - R.M. Vivot
 - L.E. Díaz

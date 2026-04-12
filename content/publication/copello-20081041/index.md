@@ -5,7 +5,7 @@ date: '2008-01-01'
 
 publishDate: '2021-04-21T19:26:33.158594Z'
 authors:
-- G.J. Copello
+- gcopello
 - S. Teves
 - J. Degrossi
 - M. D'Aquino

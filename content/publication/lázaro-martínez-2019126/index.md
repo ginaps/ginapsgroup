@@ -4,12 +4,12 @@ title: 'Linear polyethylenimine-decorated gold nanoparticles: One-step electrode
 date: '2019-01-01'
 
 authors:
-- J.M. Lázaro-Martínez
+- jmlazaro
 - A.J. Byrne
 - E. Rodríguez-Castellón
 - J.M. Manrique
 - L.R. Jones
-- V. Campo Dall’ Orto
+- V. Campo Dall' Orto
 publication_types:
 - '2'
 abstract: Polyethylenimine (PEI)-decorated gold nanoparticles (AuNP) were electrodeposited

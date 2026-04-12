@@ -8,11 +8,11 @@ authors:
 - L.M. Martínez Álvarez
 - N. Urtasun
 - M.F. Baieli
-- J.M. Lázaro-Martínez
+- jmlazaro
 - R.J. Glisoni
 - M.V. Miranda
 - O. Cascone
-- F.J. Wolman
+- wolman
 publication_types:
 - '2'
 abstract: Direct protein purification from raw materials by chromatographic media

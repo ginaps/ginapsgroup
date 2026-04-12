@@ -6,11 +6,11 @@ authors:
 - M.S. Shmidt
 - M.C. García Vior
 - S.D. Ezquerra Riega
-- J.M. Lázaro-Martínez
+- jmlazaro
 - M.I. Abasolo
 - A. Lazaro-Carrillo
 - A. Tabero
-- A. Villanueva
+- mvillanueva
 - A.G. Moglioni
 - M.M. Blanco
 - J.C. Stockert

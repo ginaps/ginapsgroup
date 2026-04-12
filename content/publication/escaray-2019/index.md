@@ -6,7 +6,7 @@ date: '2019-01-01'
 authors:
 - F.J. Escaray
 - C.J. Antonelli
-- G.J. Copello
+- gcopello
 - S. Puig
 - L. Peñarrubia
 - O.A. Ruiz

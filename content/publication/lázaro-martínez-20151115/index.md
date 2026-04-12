@@ -4,7 +4,7 @@ title: Solid-state studies of the crystalline/amorphous character in linear poly
 date: '2015-01-01'
 
 authors:
-- J.M. Lázaro-Martínez
+- jmlazaro
 - E. Rodríguez-Castellón
 - D. Vega
 - G.A. Monti

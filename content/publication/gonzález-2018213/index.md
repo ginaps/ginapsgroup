@@ -6,9 +6,9 @@ date: '2018-01-01'
 authors:
 - J.A. González
 - J.G. Bafico
-- M.E. Villanueva
+- mvillanueva
 - S.A. Giorgieri
-- G.J. Copello
+- gcopello
 publication_types:
 - '2'
 abstract: A novel nanostructured material was successfully developed by combining

@@ -5,8 +5,8 @@ date: "2014-01-01"
 
 
 authors:
-- G.J. Copello
-- M.E. Villanueva
+- gcopello
+- mvillanueva
 - J.A. González
 - S. López Egües
 - L.E. Diaz
@@ -69,7 +69,6 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides:
-
 ---
 
 

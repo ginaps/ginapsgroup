@@ -5,8 +5,8 @@ date: '2020-01-01'
 
 authors:
 - D.I. Torres
-- J.M. Lazaro-Martínez
-- G.J. Copello
+- jmlazaro
+- gcopello
 - V.C. Dall Orto
 publication_types:
 - '2'

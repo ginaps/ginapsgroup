@@ -8,7 +8,7 @@ authors:
 - F. Carmona
 - A.E.G. Wusener
 - Á. González
-- J.M.L. Martínez
+- jmlazaro
 - C.O. Arregui
 publication_types:
 - '2'

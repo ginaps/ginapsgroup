@@ -6,8 +6,8 @@ date: '2020-01-01'
 publishDate: '2021-04-21T19:27:54.216985Z'
 authors:
 - A.F. Crespi
-- V.C. Dall’Orto
-- J.M. Lázaro-Martínez
+- V.C. Dall'Orto
+- jmlazaro
 publication_types:
 - '5'
 abstract: Geminal diols or gem-diols are the product of the addition of water to a

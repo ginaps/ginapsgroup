@@ -5,7 +5,7 @@ date: '2015-01-01'
 
 authors:
 - R. Martinez-Vivot
-- G. Copello
+- gcopello
 - M.C. Leal
 - G. Piñero
 - V. Usach

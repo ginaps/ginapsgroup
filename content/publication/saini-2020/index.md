@@ -7,7 +7,7 @@ authors:
 - S.S. Saini
 - M.F. Martini
 - A.G. Moglioni
-- G.J. Copello
+- gcopello
 publication_types:
 - '2'
 abstract: Integrated analytical approaches can be used to determine the trace concentrations

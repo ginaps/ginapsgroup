@@ -4,7 +4,7 @@ title: Synthesis and characterization of novel polyampholyte and polyelectrolyte
 date: '2012-01-01'
 
 authors:
-- J.M. Lázaro Martínez
+- jmlazaro
 - A.K. Chattah
 - R.M. Torres Sánchez
 - G.Y. Buldain

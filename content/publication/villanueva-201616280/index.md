@@ -3,14 +3,14 @@ title: Antimicrobial Activity of Starch Hydrogel Incorporated with Copper Nanopa
 date: '2016-01-01'
 
 authors:
-- M.E. Villanueva
+- mvillanueva
 - A.M.D.R. Diez
 - J.A. González
-- C.J. Pérez
+- jperez
 - M. Orrego
 - L. Piehl
 - S. Teves
-- G.J. Copello
+- gcopello
 publication_types:
 - '2'
 abstract: In order to obtain an antimicrobial gel, a starch-based hydrogel reinforced

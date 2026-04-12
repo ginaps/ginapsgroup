@@ -4,11 +4,11 @@ title: Dual antibacterial effect of immobilized quaternary ammonium and aliphati
 date: '2015-01-01'
 
 authors:
-- M.E. Villanueva
+- mvillanueva
 - A. Salinas
 - J.A. González
 - S. Teves
-- G.J. Copello
+- gcopello
 publication_types:
 - '2'
 abstract: A coating comprising quaternary ammonium salts (QAS) and aliphatic moieties

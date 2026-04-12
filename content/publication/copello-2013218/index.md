@@ -6,10 +6,10 @@ date: '2013-01-01'
 
 publishDate: '2021-04-21T19:26:32.711290Z'
 authors:
-- G.J. Copello
+- gcopello
 - M.P. Pesenti
 - M. Raineri
-- A.M. Mebert
+- andre
 - L.L. Piehl
 - E.R. de Celis
 - L.E. Diaz

@@ -5,11 +5,11 @@ date: '2017-01-01'
 
 publishDate: '2021-04-21T19:26:32.037742Z'
 authors:
-- G.J. Copello
+- gcopello
 - J.A. González
 - L. Fabian
-- C.J. Pérez
-- M.E. Villanueva
+- jperez
+- mvillanueva
 publication_types:
 - '2'
 abstract: Protein based hydrogels are a very interesting type of biomaterials with

@@ -4,7 +4,7 @@ date: '2012-01-01'
 
 authors:
 - G.S. Alvarez
-- G.J. Copello
+- gcopello
 - M.L. Foglia
 - M.V. Tuttolomondo
 - L.E. Diaz

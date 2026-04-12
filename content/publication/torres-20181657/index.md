@@ -5,10 +5,10 @@ date: '2018-01-01'
 
 authors:
 - D.I. Torres
-- M.E. Villanueva
-- J.M. Lázaro-Martínez
-- G.J. Copello
-- V. Campo Dall’ Orto
+- mvillanueva
+- jmlazaro
+- gcopello
+- V. Campo Dall' Orto
 publication_types:
 - '2'
 abstract: Calcium alginate beads were reinforced with linear polyethylenimine (PEI),

@@ -6,7 +6,7 @@ date: '2016-01-01'
 authors:
 - V. Amarelle
 - F. Rosconi
-- J.M. Lázaro-Martínez
+- jmlazaro
 - G. Buldain
 - F. Noya
 - M.R. O'Brian

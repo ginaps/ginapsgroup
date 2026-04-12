@@ -5,7 +5,7 @@ date: '2014-01-01'
 
 authors:
 - L.V. Lombardo Lupano
-- J.M. Lázaro Martínez
+- jmlazaro
 - L.L. Piehl
 - E. Rubín De Celis
 - R.M. Torres Sánchez

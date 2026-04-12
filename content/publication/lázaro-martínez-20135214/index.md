@@ -4,7 +4,7 @@ title: Insights into the coordination sphere of copper ion in polymers containin
 date: '2013-01-01'
 
 authors:
-- J.M. Lázaro-Martínez
+- jmlazaro
 - G.A. Monti
 - A.K. Chattah
 publication_types:

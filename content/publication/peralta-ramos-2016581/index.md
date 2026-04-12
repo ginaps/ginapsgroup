@@ -3,13 +3,13 @@ title: Chitin hydrogel reinforced with TiO2 nanoparticles as an arsenic sorbent
 date: '2016-01-01'
 
 authors:
-- M.L. Peralta Ramos
+- luz
 - J.A. González
 - S.G. Albornoz
-- C.J. Pérez
-- M.E. Villanueva
+- jperez
+- mvillanueva
 - S.A. Giorgieri
-- G.J. Copello
+- gcopello
 publication_types:
 - '2'
 abstract: In this work chitin hydrogels were reinforced with TiO2 nanoparticles acting

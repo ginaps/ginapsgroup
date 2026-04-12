@@ -4,8 +4,8 @@ title: Solar light efficient photocatalytic activity degradation of emergent con
 date: '2018-01-01'
 
 authors:
-- M.E. Villanueva
-- G.J. Copello
+- mvillanueva
+- gcopello
 - V. Campo Dall'Orto
 publication_types:
 - '2'

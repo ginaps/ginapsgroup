@@ -10,7 +10,7 @@ authors:
 - M.I. Roma
 - F.T. De Fino
 - M.C. Rubio
-- G.J. Copello
+- gcopello
 - P.A. Evelson
 - R.N. Peroni
 publication_types:

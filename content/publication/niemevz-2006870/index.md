@@ -4,7 +4,7 @@ date: '2006-01-01'
 
 authors:
 - F. Niemevz
-- J.M. Lázaro Martínez
+- jmlazaro
 - R. Carballo
 - I. Rezzano
 - G.Y. Buldain

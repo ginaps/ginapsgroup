@@ -4,7 +4,7 @@ title: 'New copper(II) complexes of polyampholyte and polyelectrolyte polymers: 
 date: '2008-01-01'
 
 authors:
-- J.M. Lázaro Martínez
+- jmlazaro
 - A.K. Chattah
 - G.A. Monti
 - M.F. Leal Denis

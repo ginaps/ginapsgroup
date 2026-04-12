@@ -4,7 +4,7 @@ title: NMR characterization of hydrate and aldehyde forms of imidazole-2- carbox
 date: '2010-01-01'
 
 authors:
-- J.M. Lázaro Martínez
+- jmlazaro
 - P.N. Romasanta
 - A.K. Chattah
 - G.Y. Buldain

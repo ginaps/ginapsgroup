@@ -7,7 +7,7 @@ publishDate: '2021-04-21T19:26:33.341701Z'
 authors:
 - M.F. Desimone
 - M.C. De Marzi
-- G.J. Copello
+- gcopello
 - M.M. Fernández
 - E.L. Malchiodi
 - L.E. Diaz

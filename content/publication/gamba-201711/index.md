@@ -7,7 +7,7 @@ date: '2017-01-01'
 authors:
 - M. Gamba
 - M. Olivelli
-- J.M. Lázaro-Martínez
+- jmlazaro
 - G. Gaddi
 - G. Curutchet
 - R.M.T. Sánchez

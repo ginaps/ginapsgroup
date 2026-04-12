@@ -4,11 +4,11 @@ title: Antimicrobial surface functionalization of PVC by a guanidine based antim
 date: '2016-01-01'
 
 authors:
-- M.E. Villanueva
+- mvillanueva
 - J.A. González
 - E. Rodríguez-Castellón
 - S. Teves
-- G.J. Copello
+- gcopello
 publication_types:
 - '2'
 abstract: Antimicrobial polyvinyl chloride (PVC) plastic was obtained by covalent

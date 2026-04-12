@@ -5,9 +5,9 @@ date: '2015-01-01'
 
 authors:
 - J.A. González
-- M.E. Villanueva
+- mvillanueva
 - L.L. Piehl
-- G.J. Copello
+- gcopello
 publication_types:
 - '2'
 abstract: 'This work presents the synthesis of chitin (Chi) and chitin/graphene oxide

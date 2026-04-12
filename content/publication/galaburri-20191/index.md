@@ -3,13 +3,13 @@ title: pH and ion-selective swelling behaviour of keratin and keratose 3D hydrog
 date: '2019-01-01'
 
 authors:
-- G. Galaburri
-- M.L. Peralta Ramos
-- J.M. Lázaro-Martínez
-- R. Fernández de Luis
+- ggalaburri
+- luz
+- jmlazaro
+- roberto
 - M.I. Arriortua
-- M.E. Villanueva
-- G.J. Copello
+- mvillanueva
+- gcopello
 publication_types:
 - '2'
 abstract: The oxidation of keratin hydrogels was optimized aiming to obtain keratose

@@ -6,7 +6,7 @@ date: '2012-01-01'
 
 publishDate: '2021-04-21T19:26:32.787450Z'
 authors:
-- G.J. Copello
+- gcopello
 - L.E. Diaz
 - V. Campo Dall' Orto
 publication_types:

@@ -6,7 +6,7 @@ date: '2006-01-01'
 authors:
 - S.L. Iglesias
 - M.F. Desimone
-- G.J. Copello
+- gcopello
 - J.A. Bertinatto
 - S.A. Giorgieri
 - L.E. Diaz
