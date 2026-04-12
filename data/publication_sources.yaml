@@ -1,0 +1,10 @@
+sources:
+  - slug: gcopello
+    orcid: 0000-0003-2689-8202
+    primary: true
+  - slug: jmlazaro
+    orcid: 0000-0002-7189-6874
+    primary: false
+  - slug: mvillanueva
+    orcid: 0000-0002-9986-660X
+    primary: false

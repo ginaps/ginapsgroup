@@ -2,15 +2,18 @@
 param(
   [Parameter(ParameterSetName = 'Sync')]
   [Parameter(ParameterSetName = 'Validate')]
+  [Parameter(ParameterSetName = 'Orcid')]
   [string]$ContentRoot = 'content/publication',
 
   [Parameter(ParameterSetName = 'Sync')]
   [Parameter(ParameterSetName = 'Validate')]
+  [Parameter(ParameterSetName = 'Orcid')]
   [string]$AuthorRoot = 'content/authors',
 
   [Parameter(ParameterSetName = 'Sync')]
   [Parameter(ParameterSetName = 'Validate')]
   [Parameter(ParameterSetName = 'Import')]
+  [Parameter(ParameterSetName = 'Orcid')]
   [string]$AliasFile = 'data/author_aliases.yaml',
 
   [Parameter(ParameterSetName = 'Sync')]
@@ -28,10 +31,23 @@ param(
   [string]$Doi,
 
   [Parameter(ParameterSetName = 'Sync')]
+  [Parameter(ParameterSetName = 'Orcid')]
   [switch]$WriteChanges,
 
   [Parameter(ParameterSetName = 'Validate')]
-  [switch]$ValidateOnly
+  [switch]$ValidateOnly,
+
+  [Parameter(ParameterSetName = 'Validate')]
+  [switch]$IgnoreUnresolvedAuthors,
+
+  [Parameter(ParameterSetName = 'Orcid', Mandatory = $true)]
+  [switch]$ImportOrcidSources,
+
+  [Parameter(ParameterSetName = 'Orcid')]
+  [string]$PublicationSourceFile = 'data/publication_sources.yaml',
+
+  [Parameter(ParameterSetName = 'Orcid')]
+  [string]$SourceSlug
 )
 
 Set-StrictMode -Version Latest
@@ -96,7 +112,8 @@ function Remove-Diacritics {
 
 function Get-ComparableName {
   param([AllowNull()][string]$Text)
-  $value = Remove-Diacritics $Text
+  $sanitized = if ($null -ne $Text) { $Text -replace '<[^>]+>', '' } else { $Text }
+  $value = Remove-Diacritics $sanitized
   $value = $value.ToLowerInvariant()
   $value = $value -replace "[^a-z0-9' -]", ' '
   $value = $value -replace '\s+', ' '
@@ -253,6 +270,47 @@ function Parse-AliasFile {
   return $entries
 }
 
+function Parse-PublicationSourceFile {
+  param([Parameter(Mandatory = $true)][string]$Path)
+
+  $entries = @()
+  $current = $null
+
+  foreach ($line in (Read-Utf8File $Path) -split "`r?`n") {
+    if ($line -match '^\s*-\s+slug:\s*(.+?)\s*$') {
+      if ($current) {
+        $entries += [PSCustomObject]$current
+      }
+      $current = @{
+        slug = $Matches[1].Trim()
+        orcid = ''
+        primary = 'false'
+      }
+      continue
+    }
+
+    if (-not $current) {
+      continue
+    }
+
+    if ($line -match '^\s*orcid:\s*(.+?)\s*$') {
+      $current.orcid = $Matches[1].Trim()
+      continue
+    }
+
+    if ($line -match '^\s*primary:\s*(.+?)\s*$') {
+      $current.primary = $Matches[1].Trim().ToLowerInvariant()
+      continue
+    }
+  }
+
+  if ($current) {
+    $entries += [PSCustomObject]$current
+  }
+
+  return $entries
+}
+
 function Get-AuthorRegistry {
   param(
     [Parameter(Mandatory = $true)][string]$AliasPath,
@@ -309,6 +367,42 @@ function Get-AuthorRegistry {
   }
 }
 
+function Get-PublicationIdentityIndex {
+  param([Parameter(Mandatory = $true)][string]$Root)
+
+  $doiIndex = @{}
+  $titleIndex = @{}
+
+  foreach ($dir in Get-ChildItem -Path $Root -Directory) {
+    $indexPath = Join-Path $dir.FullName 'index.md'
+    if (-not (Test-Path $indexPath)) {
+      continue
+    }
+
+    $title = ''
+    $doi = ''
+    foreach ($line in Get-Content $indexPath) {
+      if ($line -match '^title:\s*(.+)$') {
+        $title = Normalize-Whitespace ($Matches[1].Trim("'"))
+      } elseif ($line -match '^doi:\s*(.+)$') {
+        $doi = Normalize-Whitespace $Matches[1]
+      }
+    }
+
+    if ($doi) {
+      $doiIndex[$doi.ToLowerInvariant()] = $dir.FullName
+    }
+    if ($title) {
+      $titleIndex[(Get-ComparableName $title)] = $dir.FullName
+    }
+  }
+
+  return [PSCustomObject]@{
+    Doi = $doiIndex
+    Title = $titleIndex
+  }
+}
+
 function Split-BibAuthors {
   param([AllowNull()][string]$AuthorsValue)
 
@@ -337,6 +431,63 @@ function Split-BibAuthors {
 
   $parts += $builder.ToString()
   return @($parts | ForEach-Object { Normalize-Whitespace ($_ -replace '[{}]', '') } | Where-Object { $_ })
+}
+
+function Get-OrcidWorkSummaries {
+  param([Parameter(Mandatory = $true)][string]$Orcid)
+
+  $cleanOrcid = ($Orcid -replace '^https?://orcid.org/', '').Trim()
+  $response = Invoke-RestMethod -Headers @{ Accept = 'application/json' } -Uri ("https://pub.orcid.org/v3.0/{0}/works" -f $cleanOrcid)
+
+  $items = @()
+  foreach ($group in @($response.group)) {
+    $summary = $group.'work-summary'[0]
+    if (-not $summary) {
+      continue
+    }
+
+    $doi = ''
+    foreach ($externalId in @($group.'external-ids'.'external-id')) {
+      if ($externalId.'external-id-type' -eq 'doi') {
+        $doi = Normalize-Whitespace $externalId.'external-id-value'
+        break
+      }
+    }
+
+    $title = ''
+    if ($summary.title.title.value) {
+      $title = Normalize-Whitespace $summary.title.title.value
+    }
+
+    $journal = ''
+    if ($summary.'journal-title'.value) {
+      $journal = Normalize-Whitespace $summary.'journal-title'.value
+    }
+
+    $year = ''
+    if ($summary.'publication-date'.year.value) {
+      $year = Normalize-Whitespace $summary.'publication-date'.year.value
+    }
+
+    $url = ''
+    if ($summary.url.value) {
+      $url = Normalize-Whitespace $summary.url.value
+    } elseif ($doi) {
+      $url = 'https://doi.org/{0}' -f $doi
+    }
+
+    $items += [PSCustomObject]@{
+      Orcid = $cleanOrcid
+      PutCode = $summary.'put-code'
+      Title = $title
+      Doi = $doi
+      Year = $year
+      Journal = $journal
+      Url = $url
+    }
+  }
+
+  return @($items)
 }
 
 function Parse-BibTexRecord {
@@ -401,6 +552,23 @@ function Parse-BibTexRecord {
   return $fields
 }
 
+function Get-DoiBibTex {
+  param([Parameter(Mandatory = $true)][string]$DoiValue)
+
+  $doiUrl = 'https://doi.org/{0}' -f $DoiValue
+  $response = Invoke-WebRequest -Headers @{ Accept = 'application/x-bibtex; charset=utf-8' } -Uri $doiUrl
+  return ($response.Content.Trim() + "`n")
+}
+
+function Get-PublicationTypesForWorkType {
+  param([AllowNull()][string]$WorkType)
+
+  switch ($WorkType) {
+    'book-chapter' { return @('5') }
+    default { return @('2') }
+  }
+}
+
 function Get-BibMetadata {
   param([Parameter(Mandatory = $true)][string]$Path)
   $record = Parse-BibTexRecord (Read-Utf8File $Path)
@@ -420,8 +588,22 @@ function Get-BibMetadata {
     Doi = Normalize-Whitespace $record['doi']
     Url = Normalize-Whitespace $record['url']
     Authors = $authors
+    PublicationTypes = @('2')
     Source = 'bibtex'
   }
+}
+
+function Get-SlugPart {
+  param([AllowNull()][string]$Text)
+
+  $value = Get-ComparableName $Text
+  $value = $value -replace '''', ''
+  $value = $value -replace '[^a-z0-9]+', '-'
+  $value = $value.Trim('-')
+  if (-not $value) {
+    return 'publication'
+  }
+  return $value
 }
 
 function Get-DoiMetadata {
@@ -454,7 +636,7 @@ function Get-DoiMetadata {
   }
 
   $abstract = ''
-  if ($message.abstract) {
+  if ($null -ne $message.PSObject.Properties['abstract'] -and $message.abstract) {
     $abstract = Normalize-Whitespace ($message.abstract -replace '<[^>]+>', ' ')
   }
 
@@ -471,8 +653,107 @@ function Get-DoiMetadata {
     Doi = Normalize-Whitespace $message.DOI
     Url = Normalize-Whitespace $message.URL
     Authors = $authors
+    PublicationTypes = @('2')
     Source = 'doi'
   }
+}
+
+function Get-OrcidWorkMetadata {
+  param(
+    [Parameter(Mandatory = $true)][string]$Orcid,
+    [Parameter(Mandatory = $true)][string]$PutCode
+  )
+
+  $cleanOrcid = ($Orcid -replace '^https?://orcid.org/', '').Trim()
+  $response = Invoke-RestMethod -Headers @{ Accept = 'application/json' } -Uri ("https://pub.orcid.org/v3.0/{0}/work/{1}" -f $cleanOrcid, $PutCode)
+
+  $record = @{}
+  $citationValue = ''
+  if ($response.citation.'citation-value') {
+    $citationValue = Normalize-Whitespace $response.citation.'citation-value'
+    if ($response.citation.'citation-type' -eq 'bibtex') {
+      $record = Parse-BibTexRecord $response.citation.'citation-value'
+    }
+  }
+
+  $authors = @()
+  foreach ($contributor in @($response.contributors.contributor)) {
+    if ($contributor.'credit-name'.value) {
+      $parsed = Parse-AuthorName $contributor.'credit-name'.value
+      if ($parsed) {
+        $authors += $parsed.Display
+      }
+    }
+  }
+  if ($authors.Count -eq 0 -and $record.ContainsKey('author')) {
+    foreach ($author in Split-BibAuthors $record['author']) {
+      $parsed = Parse-AuthorName $author
+      if ($parsed) {
+        $authors += $parsed.Display
+      }
+    }
+  }
+
+  $title = if ($record.ContainsKey('title')) { Normalize-Whitespace $record['title'] } else { Normalize-Whitespace $response.title.title.value }
+  $publication = if ($record.ContainsKey('journal')) { Normalize-Whitespace $record['journal'] } else { Normalize-Whitespace $response.'journal-title'.value }
+  $year = if ($record.ContainsKey('year')) { Normalize-Whitespace $record['year'] } else { Normalize-Whitespace $response.'publication-date'.year.value }
+  $url = Normalize-Whitespace $response.url.value
+  $doi = ''
+  foreach ($externalId in @($response.'external-ids'.'external-id')) {
+    if ($externalId.'external-id-type' -eq 'doi' -and $externalId.'external-id-relationship' -eq 'self') {
+      $doi = Normalize-Whitespace $externalId.'external-id-value'
+      break
+    }
+  }
+
+  return [PSCustomObject]@{
+    Title = $title
+    Abstract = ''
+    Publication = $publication
+    Year = $year
+    Doi = $doi
+    Url = $url
+    Authors = $authors
+    PublicationTypes = (Get-PublicationTypesForWorkType $response.type)
+    CitationValue = $citationValue
+    Source = 'orcid'
+  }
+}
+
+function Get-PublicationDirectoryName {
+  param(
+    [Parameter(Mandatory = $true)]$Metadata,
+    [Parameter(Mandatory = $true)][string]$Root
+  )
+
+  $firstAuthor = 'publication'
+  if ($Metadata.Authors.Count -gt 0) {
+    $parsed = Parse-AuthorName $Metadata.Authors[0]
+    if ($parsed -and $parsed.Family) {
+      $firstAuthor = Get-SlugPart $parsed.Family
+    }
+  }
+
+  $yearPart = if ($Metadata.Year) { $Metadata.Year } else { (Get-Date).ToString('yyyy') }
+  $suffixSource = if ($Metadata.Doi) { $Metadata.Doi } else { $Metadata.Title }
+  $suffixPart = Get-SlugPart $suffixSource
+  if ($suffixPart.Length -gt 24) {
+    $suffixPart = $suffixPart.Substring($suffixPart.Length - 24)
+  }
+
+  $candidate = '{0}-{1}-{2}' -f $firstAuthor, $yearPart, $suffixPart
+  $candidate = $candidate.Trim('-')
+  if (-not (Test-Path (Join-Path $Root $candidate))) {
+    return $candidate
+  }
+
+  $counter = 2
+  do {
+    $next = '{0}-{1}' -f $candidate, $counter
+    $counter++
+  } while (Test-Path (Join-Path $Root $next))
+
+  return $next
 }
 
 function Get-FrontMatterAuthors {
@@ -503,7 +784,7 @@ function Get-FrontMatterAuthors {
 
 function Resolve-Authors {
   param(
-    [Parameter(Mandatory = $true)][string[]]$SourceAuthors,
+    [Parameter(Mandatory = $true)][AllowEmptyCollection()][string[]]$SourceAuthors,
     [Parameter(Mandatory = $true)][hashtable]$SignatureMap
   )
 
@@ -588,7 +869,7 @@ function Find-DuplicatePublications {
 function Set-FrontMatterAuthors {
   param(
     [Parameter(Mandatory = $true)][string]$FilePath,
-    [Parameter(Mandatory = $true)][string[]]$Authors
+    [Parameter(Mandatory = $true)][AllowEmptyCollection()][string[]]$Authors
   )
 
   $content = Read-Utf8File $FilePath
@@ -686,7 +967,7 @@ function Get-PublicationMetadata {
 function Build-PublicationFrontMatter {
   param(
     [Parameter(Mandatory = $true)]$Metadata,
-    [Parameter(Mandatory = $true)][string[]]$Authors
+    [Parameter(Mandatory = $true)][AllowEmptyCollection()][string[]]$Authors
   )
 
   $dateValue = if ($Metadata.Year) { "{0}-01-01" -f $Metadata.Year } else { (Get-Date).ToString('yyyy-01-01') }
@@ -710,7 +991,9 @@ function Build-PublicationFrontMatter {
   if ($Metadata.Doi) {
     $lines += "doi: $($Metadata.Doi)"
   }
-  $lines += "publication_types: ['2']"
+  $publicationTypes = if ($Metadata.PSObject.Properties['PublicationTypes'] -and @($Metadata.PublicationTypes).Count -gt 0) { @($Metadata.PublicationTypes) } else { @('2') }
+  $typeValues = ($publicationTypes | ForEach-Object { "'$_'" }) -join ', '
+  $lines += ("publication_types: [{0}]" -f $typeValues)
   $lines += '---'
   $lines += ''
   return ($lines -join "`n")
@@ -722,7 +1005,8 @@ function Invoke-PublicationSync {
     [Parameter(Mandatory = $true)]$Registry,
     [switch]$Persist,
     [string]$BibPath,
-    [string]$DoiValue
+    [string]$DoiValue,
+    $MetadataOverride
   )
 
   $indexPath = Join-Path $PublicationPath 'index.md'
@@ -730,7 +1014,7 @@ function Invoke-PublicationSync {
     throw "index.md not found in $PublicationPath"
   }
 
-  $metadata = Get-PublicationMetadata -DirectoryPath $PublicationPath -BibPathOverride $BibPath -DoiOverride $DoiValue
+  $metadata = if ($null -ne $MetadataOverride) { $MetadataOverride } else { Get-PublicationMetadata -DirectoryPath $PublicationPath -BibPathOverride $BibPath -DoiOverride $DoiValue }
   $resolved = Resolve-Authors -SourceAuthors $metadata.Authors -SignatureMap $Registry.Signatures
 
   $changed = $false
@@ -773,6 +1057,72 @@ function Get-PublicationDirectories {
   return @(Get-ChildItem -Path $Root -Directory | ForEach-Object { $_.FullName } | Sort-Object)
 }
 
+function Get-OrcidImportCandidates {
+  param(
+    [Parameter(Mandatory = $true)][object[]]$Sources,
+    [Parameter(Mandatory = $true)]$ExistingIndex,
+    [string]$FilterSlug
+  )
+
+  $allCandidates = @()
+  $seenKeys = New-Object 'System.Collections.Generic.HashSet[string]'
+
+  foreach ($source in $Sources) {
+    if ($FilterSlug -and $source.slug -ne $FilterSlug) {
+      continue
+    }
+
+    foreach ($work in (Get-OrcidWorkSummaries $source.orcid)) {
+      $comparisonTitle = Get-ComparableName $work.Title
+      $doiKey = if ($work.Doi) { $work.Doi.ToLowerInvariant() } else { '' }
+      $exists = $false
+
+      if ($doiKey -and $ExistingIndex.Doi.ContainsKey($doiKey)) {
+        $exists = $true
+      } elseif ($comparisonTitle -and $ExistingIndex.Title.ContainsKey($comparisonTitle)) {
+        $exists = $true
+      }
+
+      $identityKeys = @()
+      if ($doiKey) {
+        $identityKeys += ('doi::{0}' -f $doiKey)
+      }
+      if ($comparisonTitle) {
+        $identityKeys += ('title::{0}' -f $comparisonTitle)
+      }
+
+      $seenAlready = $false
+      foreach ($identityKey in $identityKeys) {
+        if ($seenKeys.Contains($identityKey)) {
+          $seenAlready = $true
+          break
+        }
+      }
+
+      if ($exists -or $seenAlready) {
+        continue
+      }
+
+      foreach ($identityKey in $identityKeys) {
+        [void]$seenKeys.Add($identityKey)
+      }
+
+      $allCandidates += [PSCustomObject]@{
+        SourceSlug = $source.slug
+        Orcid = $source.orcid
+        PutCode = $work.PutCode
+        Title = $work.Title
+        Doi = $work.Doi
+        Year = $work.Year
+        Journal = $work.Journal
+        Url = $work.Url
+      }
+    }
+  }
+
+  return @($allCandidates | Sort-Object Year, Title)
+}
+
 $scriptDir = Split-Path -Parent $MyInvocation.MyCommand.Path
 $repoRoot = Resolve-Path (Join-Path $scriptDir '..')
 Push-Location $repoRoot
@@ -781,6 +1131,7 @@ try {
   $mode = switch ($PSCmdlet.ParameterSetName) {
     'Validate' { 'validate' }
     'Import' { 'import' }
+    'Orcid' { 'orcid' }
     default { 'sync' }
   }
 
@@ -801,6 +1152,64 @@ try {
     }
     if ($result.Unresolved.Count -gt 0) {
       Write-Warning ("Unresolved authors: {0}" -f ($result.Unresolved -join '; '))
+    }
+    exit 0
+  }
+
+  if ($mode -eq 'orcid') {
+    $sources = Parse-PublicationSourceFile $PublicationSourceFile
+    $existingIndex = Get-PublicationIdentityIndex -Root $ContentRoot
+    $candidates = Get-OrcidImportCandidates -Sources $sources -ExistingIndex $existingIndex -FilterSlug $SourceSlug
+
+    Write-Host ("Mode: orcid")
+    Write-Host ("Configured sources: {0}" -f @($sources).Count)
+    Write-Host ("Missing ORCID works: {0}" -f @($candidates).Count)
+
+    if (-not $WriteChanges) {
+      foreach ($candidate in $candidates) {
+        Write-Host ("- [{0}] {1} ({2})" -f $candidate.SourceSlug, $candidate.Title, $candidate.Year)
+        if ($candidate.Doi) {
+          Write-Host ("    DOI: {0}" -f $candidate.Doi)
+        }
+      }
+      exit 0
+    }
+
+    $imported = @()
+    foreach ($candidate in $candidates) {
+      $metadata = if ($candidate.Doi) { Get-DoiMetadata $candidate.Doi } else { Get-OrcidWorkMetadata -Orcid $candidate.Orcid -PutCode $candidate.PutCode }
+      $dirName = Get-PublicationDirectoryName -Metadata $metadata -Root $ContentRoot
+      $targetPath = Join-Path $ContentRoot $dirName
+      $result = Invoke-PublicationSync -PublicationPath $targetPath -Registry $registry -Persist -DoiValue $candidate.Doi -MetadataOverride $metadata
+
+      if ($candidate.Doi) {
+        try {
+          $bibContent = Get-DoiBibTex $candidate.Doi
+          Write-Utf8File -Path (Join-Path $targetPath 'cite.bib') -Content $bibContent
+        } catch {
+          Write-Warning ("Could not fetch BibTeX for DOI {0}" -f $candidate.Doi)
+        }
+      } elseif ($metadata.PSObject.Properties['CitationValue'] -and $metadata.CitationValue) {
+        Write-Utf8File -Path (Join-Path $targetPath 'cite.bib') -Content ($metadata.CitationValue + "`n")
+      }
+
+      $existingIndex = Get-PublicationIdentityIndex -Root $ContentRoot
+      $imported += [PSCustomObject]@{
+        Path = $targetPath
+        Title = $metadata.Title
+        Doi = $candidate.Doi
+        SourceSlug = $candidate.SourceSlug
+        Unresolved = $result.Unresolved
+      }
+    }
+
+    Write-Host ("Imported ORCID works: {0}" -f @($imported).Count)
+    foreach ($item in $imported) {
+      $relativePath = Resolve-Path -LiteralPath $item.Path -Relative
+      Write-Host ("- [{0}] {1}" -f $item.SourceSlug, $relativePath)
+      if ($item.Unresolved.Count -gt 0) {
+        Write-Warning ("Unresolved authors: {0}" -f ($item.Unresolved -join '; '))
+      }
     }
     exit 0
   }
@@ -860,7 +1269,8 @@ try {
     }
   }
 
-  if ($mode -eq 'validate' -and (@($unresolvedByPublication).Count -gt 0 -or @($duplicatePublications.ByTitle).Count -gt 0 -or @($duplicatePublications.ByDoi).Count -gt 0)) {
+  $hasBlockingUnresolvedAuthors = (-not $IgnoreUnresolvedAuthors) -and (@($unresolvedByPublication).Count -gt 0)
+  if ($mode -eq 'validate' -and ($hasBlockingUnresolvedAuthors -or @($duplicatePublications.ByTitle).Count -gt 0 -or @($duplicatePublications.ByDoi).Count -gt 0)) {
     exit 1
   }
 } finally {
