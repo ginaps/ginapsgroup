@@ -15,8 +15,6 @@ Como parte de este reconocimiento, realizó una conferencia plenaria en el XXV S
 
 Desde GINaPs celebramos este logro con muchisimo orgullo. Este reconocimiento pone en valor una trayectoria construida con compromiso, excelencia academica y una dedicacion sostenida a la investigacion y a la formacion de recursos humanos.
 
-![Juan Manuel Lazaro Martinez distinguido con el Premio Dr. Eduardo G. Gros](featured.jpg)
-
 Para conocer la publicacion original, pueden visitar el post de Instagram de LazaroLab:
 
 [https://www.instagram.com/lazarolabffyb/p/DP2JWQAEtdG/](https://www.instagram.com/lazarolabffyb/p/DP2JWQAEtdG/)
