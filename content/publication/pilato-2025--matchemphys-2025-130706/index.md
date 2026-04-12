@@ -1,5 +1,5 @@
 ---
-title: Induced porosity in chitin xerogels for use in protein adsorption and purification
+title: 'Induced porosity in chitin xerogels for use in protein adsorption and purification'
 date: '2025-01-01'
 
 authors:
@@ -10,10 +10,10 @@ authors:
 - gcopello
 - wolman
 
-abstract: 
+abstract: ''
 featured: false
 publication: '*Materials Chemistry and Physics*'
-url_source: https://doi.org/10.1016/j.matchemphys.2025.130706
-doi: 10.1016/j.matchemphys.2025.130706
+url_source: 'https://doi.org/10.1016/j.matchemphys.2025.130706'
+doi: '10.1016/j.matchemphys.2025.130706'
 publication_types: ['2']
 ---

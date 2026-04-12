@@ -1,5 +1,5 @@
 ---
-title: Antibody detection employing sol-gel immobilized parasites
+title: 'Antibody detection employing sol-gel immobilized parasites'
 date: '2008-01-01'
 
 authors:
@@ -10,7 +10,7 @@ authors:
 - L.E. Díaz
 publication_types:
 - '2'
-abstract: Immunofluorescence assay (IFA) and immunoperoxidase assay (IPA) are useful
+abstract: 'Immunofluorescence assay (IFA) and immunoperoxidase assay (IPA) are useful'
   diagnostic techniques for specific antibody detection for different diseases. Both
   involve several alternatives for immobilization of cells, such as solvent or heat
   fixation. Non-covalent immobilization implies rigorous storage conditions at - 20 °C
@@ -33,7 +33,7 @@ abstract: Immunofluorescence assay (IFA) and immunoperoxidase assay (IPA) are us
 featured: false
 publication: '*Journal of Immunological Methods*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-43149102060&doi=10.1016%2fj.jim.2008.02.020&partnerID=40&md5=955e93b8a220def6df685623b756dd06
-doi: 10.1016/j.jim.2008.02.020
+doi: '10.1016/j.jim.2008.02.020'
 # Summary. An optional shortened abstract.
 summary: 
 

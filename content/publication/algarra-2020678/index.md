@@ -1,5 +1,5 @@
 ---
-title: Insights into the formation of N doped 3D-graphene quantum dots. Spectroscopic
+title: 'Insights into the formation of N doped 3D-graphene quantum dots. Spectroscopic'
   and computational approach
 
 draft: true
@@ -14,7 +14,7 @@ authors:
 - A. Benítez
 publication_types:
 - '2'
-abstract: In this work, we utilize a top-down approach to synthesize nitrogen doped
+abstract: 'In this work, we utilize a top-down approach to synthesize nitrogen doped'
   graphene quantum dots from a 3D-graphene precursor via an eco-friendly hydrothermal
   method. The nanoparticles obtained showed a 2–3 nm diameter and well dispersion
   behavior in aqueous media. The reaction mechanism of insertion of nitrogen from
@@ -30,7 +30,7 @@ abstract: In this work, we utilize a top-down approach to synthesize nitrogen do
 featured: false
 publication: '*Journal of Colloid and Interface Science*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075940160&doi=10.1016%2fj.jcis.2019.11.044&partnerID=40&md5=e37c464d66da11e0b2e0fc3c529d5e5c
-doi: 10.1016/j.jcis.2019.11.044
+doi: '10.1016/j.jcis.2019.11.044'
 # Summary. An optional shortened abstract.
 summary: 
 

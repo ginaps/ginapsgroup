@@ -1,5 +1,5 @@
 ---
-title: HmuS and HmuQ of Ensifer/Sinorhizobium meliloti degrade heme in vitro and participate
+title: 'HmuS and HmuQ of Ensifer/Sinorhizobium meliloti degrade heme in vitro and participate'
   in heme metabolism in vivo
 date: '2016-01-01'
 
@@ -13,7 +13,7 @@ authors:
 - E. Fabiano
 publication_types:
 - '2'
-abstract: Ensifer meliloti is a nitrogen-fixing symbiont of the alfalfa legume able
+abstract: 'Ensifer meliloti is a nitrogen-fixing symbiont of the alfalfa legume able'
   to use heme as an iron source. The transport mechanism involved in heme acquisition
   in E. meliloti has been identified and characterized, but the fate of heme once
   inside the cell is not known. In silico analysis of E. meliloti 1021 genome revealed
@@ -32,7 +32,7 @@ abstract: Ensifer meliloti is a nitrogen-fixing symbiont of the alfalfa legume a
 featured: false
 publication: '*BioMetals*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84959083085&doi=10.1007%2fs10534-016-9919-3&partnerID=40&md5=0439688c1dd90e36e2203fe40c390461
-doi: 10.1007/s10534-016-9919-3
+doi: '10.1007/s10534-016-9919-3'
 # Summary. An optional shortened abstract.
 summary: 
 

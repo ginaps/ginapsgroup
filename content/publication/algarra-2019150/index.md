@@ -1,5 +1,5 @@
 ---
-title: P-doped carbon nano-powders for fingerprint imaging
+title: 'P-doped carbon nano-powders for fingerprint imaging'
 date: '2019-01-01'
 
 authors:
@@ -15,7 +15,7 @@ authors:
 - J. Jiménez-Jiménez
 publication_types:
 - '2'
-abstract: A simple, fast, and laboratory efficient doped P carbon nanoparticles synthesis
+abstract: 'A simple, fast, and laboratory efficient doped P carbon nanoparticles synthesis'
   is developed for fingerprint imaging, using 1,3-dihydroxyacetone and di-phosphorous
   pentoxide. Fluorescence nanoparticles, with an average size of 230 nm were obtained,
   without additional energy input or external heating. ATR, solid NMR, XPS and fluorescence
@@ -29,6 +29,6 @@ abstract: A simple, fast, and laboratory efficient doped P carbon nanoparticles 
 featured: false
 publication: '*Talanta*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85055097302&doi=10.1016%2fj.talanta.2018.10.033&partnerID=40&md5=cb15c643bff96dbf53bb5a0aa4e88095
-doi: 10.1016/j.talanta.2018.10.033
+doi: '10.1016/j.talanta.2018.10.033'
 ---
 

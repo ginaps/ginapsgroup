@@ -34,7 +34,7 @@ abstract: 'The simultaneous adsorption of both imazalil (IMZ) and thiabendazole 
 featured: false
 publication: '*Environmental Science and Pollution Research*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85057165418&doi=10.1007%2fs11356-018-3638-y&partnerID=40&md5=a5d34ce0c82ff0969d2139adf943eb29
-doi: 10.1007/s11356-018-3638-y
+doi: '10.1007/s11356-018-3638-y'
 # Summary. An optional shortened abstract.
 summary: 
 

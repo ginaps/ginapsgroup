@@ -1,5 +1,5 @@
 ---
-title: Dual antibacterial effect of immobilized quaternary ammonium and aliphatic
+title: 'Dual antibacterial effect of immobilized quaternary ammonium and aliphatic'
   groups on PVC
 date: '2015-01-01'
 
@@ -11,7 +11,7 @@ authors:
 - gcopello
 publication_types:
 - '2'
-abstract: A coating comprising quaternary ammonium salts (QAS) and aliphatic moieties
+abstract: 'A coating comprising quaternary ammonium salts (QAS) and aliphatic moieties'
   was formed on the poly(vinyl chloride) (PVC) surface in order to confer antibacterial
   activity. This was achieved by grafting mercaptopropyltrimethoxysilane onto PVC,
   followed by aminopropyltriethoxysilane. Betaine and dodecenyl succinic anhydride
@@ -29,7 +29,7 @@ abstract: A coating comprising quaternary ammonium salts (QAS) and aliphatic moi
 featured: false
 publication: '*New Journal of Chemistry*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84947967585&doi=10.1039%2fc5nj01766a&partnerID=40&md5=8ac116430523c0e2d2a40cb99da41195
-doi: 10.1039/c5nj01766a
+doi: '10.1039/c5nj01766a'
 # Summary. An optional shortened abstract.
 summary: 
 

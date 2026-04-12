@@ -1,5 +1,5 @@
 ---
-title: Porous, lightweight, metal organic materials: Environment sustainability
+title: 'Porous, lightweight, metal organic materials: Environment sustainability'
 date: '2020-01-01'
 
 authors:
@@ -19,9 +19,9 @@ authors:
 - M.I. Arriortua
 - roberto
 
-abstract: 
+abstract: ''
 featured: false
 publication: '*Advanced Lightweight Multifunctional Materials*'
-url_source: http://www.scopus.com/inward/record.url?eid=2-s2.0-85099216899&partnerID=MN8TOARS
+url_source: 'http://www.scopus.com/inward/record.url?eid=2-s2.0-85099216899&partnerID=MN8TOARS'
 publication_types: ['5']
 ---

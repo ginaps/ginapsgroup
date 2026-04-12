@@ -1,5 +1,5 @@
 ---
-title: Designing Metal-Chelator-like Traps by Encoding Amino Acids in Zirconium-Based Metal-Organic Frameworks
+title: 'Designing Metal-Chelator-like Traps by Encoding Amino Acids in Zirconium-Based Metal-Organic Frameworks'
 date: '2022-01-01'
 
 authors:
@@ -21,10 +21,10 @@ authors:
 - gcopello
 - roberto
 
-abstract: 
+abstract: ''
 featured: false
 publication: '*Chemistry of Materials*'
-url_source: https://doi.org/10.1021/acs.chemmater.2c02431
-doi: 10.1021/acs.chemmater.2c02431
+url_source: 'https://doi.org/10.1021/acs.chemmater.2c02431'
+doi: '10.1021/acs.chemmater.2c02431'
 publication_types: ['2']
 ---

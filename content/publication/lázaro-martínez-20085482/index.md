@@ -12,7 +12,7 @@ authors:
 - V. Campo Dall' Orto
 publication_types:
 - '2'
-abstract: Novel solid copper(II) complexes were obtained from the polyampholyte poly(EGDE-MAA-IM)
+abstract: 'Novel solid copper(II) complexes were obtained from the polyampholyte poly(EGDE-MAA-IM)'
   and the polyelectrolyte poly(EGDE-MAA) polymers with copper salts at different concentration
   levels. The materials were characterized employing solid-state Nuclear Magnetic
   Resonance (NMR), Fourier Transform infrared (FTIR), X-ray powder diffraction (XRPD),
@@ -31,7 +31,7 @@ abstract: Novel solid copper(II) complexes were obtained from the polyampholyte 
 featured: false
 publication: '*Polymer*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-55949088201&doi=10.1016%2fj.polymer.2008.10.011&partnerID=40&md5=5b7790b79e738f0a844725a47afd6cc6
-doi: 10.1016/j.polymer.2008.10.011
+doi: '10.1016/j.polymer.2008.10.011'
 # Summary. An optional shortened abstract.
 summary: 
 

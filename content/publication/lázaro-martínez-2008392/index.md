@@ -1,5 +1,5 @@
 ---
-title: Synthesis, FTIR, solid-state NMR and SEM studies of novel polyampholytes or
+title: 'Synthesis, FTIR, solid-state NMR and SEM studies of novel polyampholytes or'
   polyelectrolytes obtained from EGDE, MAA and imidazoles
 date: '2008-01-01'
 
@@ -10,7 +10,7 @@ authors:
 - G.Y. Buldain
 publication_types:
 - '2'
-abstract: Novel materials with either polyampholyte or polyelectrolyte character and
+abstract: 'Novel materials with either polyampholyte or polyelectrolyte character and'
   coordination properties were obtained by reaction of methacrylic acid (MAA), imidazole
   (IM) or 2-methylimidazole (2MI) and ethylene glycol diglycidyl ether (EGDE) in the
   presence of benzoyl peroxide. This new synthetic strategy gave rise to non-soluble,
@@ -27,7 +27,7 @@ abstract: Novel materials with either polyampholyte or polyelectrolyte character
 featured: false
 publication: '*European Polymer Journal*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-38949205899&doi=10.1016%2fj.eurpolymj.2007.11.022&partnerID=40&md5=b5a775062b462a6166ebdc605bf3e725
-doi: 10.1016/j.eurpolymj.2007.11.022
+doi: '10.1016/j.eurpolymj.2007.11.022'
 # Summary. An optional shortened abstract.
 summary: 
 

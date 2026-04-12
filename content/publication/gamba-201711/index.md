@@ -1,5 +1,5 @@
 ---
-title: Thiabendazole adsorption on montmorillonite, octadecyltrimethylammonium- and
+title: 'Thiabendazole adsorption on montmorillonite, octadecyltrimethylammonium- and'
   Acremonium sp.-loaded products and their copper complexes
 date: '2017-01-01'
 
@@ -13,7 +13,7 @@ authors:
 - R.M.T. Sánchez
 publication_types:
 - '2'
-abstract: This study is a preliminary approach to develop novel montmorillonite (Mt)
+abstract: 'This study is a preliminary approach to develop novel montmorillonite (Mt)'
   based adsorbents for removing inorganic and organic contaminants in a step-like
   process. Biomass (fungi) and surfactant (octadecyltrimethylammonium bromide) modified
   montmorillonites (BMt and OMt, respectively) were obtained. In a prior step, Cu2+
@@ -34,7 +34,7 @@ abstract: This study is a preliminary approach to develop novel montmorillonite 
 featured: false
 publication: '*Chemical Engineering Journal*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85015634096&doi=10.1016%2fj.cej.2017.03.034&partnerID=40&md5=ecab7827af0b572a6ada7f5550e941bd
-doi: 10.1016/j.cej.2017.03.034
+doi: '10.1016/j.cej.2017.03.034'
 # Summary. An optional shortened abstract.
 summary: 
 

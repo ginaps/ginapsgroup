@@ -1,5 +1,5 @@
 ---
-title: Thermo-responsive microgels based on encapsulated carbon quantum dots
+title: 'Thermo-responsive microgels based on encapsulated carbon quantum dots'
 date: '2017-01-01'
 
 authors:
@@ -15,7 +15,7 @@ authors:
 - M. Algarra
 publication_types:
 - '2'
-abstract: In this work carbon quantum dot (CQD) nanoparticles are synthesized from
+abstract: 'In this work carbon quantum dot (CQD) nanoparticles are synthesized from'
   d-lactose using a hydrothermal method and then they are coated with polyethylene
   glycol (CQDs@PEG). These particles exhibit a monodisperse spherical morphology with
   an average particle size of ∼4 nm. Nuclear magnetic resonance (NMR) and Fourier
@@ -34,7 +34,7 @@ abstract: In this work carbon quantum dot (CQD) nanoparticles are synthesized fr
 featured: false
 publication: '*New Journal of Chemistry*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85021993763&doi=10.1039%2fc6nj03893j&partnerID=40&md5=d905457ec57ddea2dd418b9b61d2fab5
-doi: 10.1039/c6nj03893j
+doi: '10.1039/c6nj03893j'
 # Summary. An optional shortened abstract.
 summary: 
 

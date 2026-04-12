@@ -1,5 +1,5 @@
 ---
-title: Sustainable and smart keratin hydrogel with pH-sensitive swelling and enhanced
+title: 'Sustainable and smart keratin hydrogel with pH-sensitive swelling and enhanced'
   mechanical properties
 date: '2017-01-01'
 
@@ -12,7 +12,7 @@ authors:
 - mvillanueva
 publication_types:
 - '2'
-abstract: Protein based hydrogels are a very interesting type of biomaterials with
+abstract: 'Protein based hydrogels are a very interesting type of biomaterials with'
   many probed strengths related to their source and chemical structure. Biocompatibility
   and biodegradability are accompanied by affordability when it comes to low cost
   sources. The main keratin source is agroindustrial waste, such as feathers, horns,
@@ -28,7 +28,7 @@ abstract: Protein based hydrogels are a very interesting type of biomaterials wi
 featured: false
 publication: '*Materials Science and Engineering C*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85018317731&doi=10.1016%2fj.msec.2017.04.120&partnerID=40&md5=d287a56d3894f927dfcfdf692d9ea3bc
-doi: 10.1016/j.msec.2017.04.120
+doi: '10.1016/j.msec.2017.04.120'
 # Summary. An optional shortened abstract.
 summary: 
 

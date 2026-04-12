@@ -1,5 +1,5 @@
 ---
-title: Assessment of graphitized coal ash char concentrates as a potential synthetic
+title: 'Assessment of graphitized coal ash char concentrates as a potential synthetic'
   graphite source
 date: '2020-01-01'
 
@@ -20,7 +20,7 @@ authors:
 - N. Wagner
 publication_types:
 - '2'
-abstract: Coal ash char concentrates from four countries (Portugal, Poland, Romania,
+abstract: 'Coal ash char concentrates from four countries (Portugal, Poland, Romania,'
   and South Africa) were prepared, characterised, and graphitized under the scope
   of the Charphite project (Third ERA-MIN Joint Call (2015) on the Sustainable Supply
   of Raw Materials in Europe). Coal ash chars may be a secondary raw material to produce
@@ -41,7 +41,7 @@ abstract: Coal ash char concentrates from four countries (Portugal, Poland, Roma
 featured: false
 publication: '*Minerals*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85095948174&doi=10.3390%2fmin10110986&partnerID=40&md5=b68e8d4dc6497a8704906c6bae6750ef
-doi: 10.3390/min10110986
+doi: '10.3390/min10110986'
 # Summary. An optional shortened abstract.
 summary: 
 

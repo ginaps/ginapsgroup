@@ -1,5 +1,5 @@
 ---
-title: Fluorescent responsive chlorophyllide-hydrogel for carbon dioxide detection
+title: 'Fluorescent responsive chlorophyllide-hydrogel for carbon dioxide detection'
 date: '2016-01-01'
 
 authors:
@@ -8,7 +8,7 @@ authors:
 - I.N. Rezzano
 publication_types:
 - '2'
-abstract: The chlorophyllide b derivatized polyallylamine (PAAChl) was synthesized.
+abstract: 'The chlorophyllide b derivatized polyallylamine (PAAChl) was synthesized.'
   The resulting fluorescent polymer presented a high emission quantum yield, very
   stable in time. The polymer formed a hydrogel when treated with carbon dioxide that
   was characterized by Raman spectroscopy and solid-state NMR (ss-NMR). The adsorption
@@ -22,7 +22,7 @@ abstract: The chlorophyllide b derivatized polyallylamine (PAAChl) was synthesiz
 featured: false
 publication: '*Sensors and Actuators, B: Chemical*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84990929748&doi=10.1016%2fj.snb.2016.06.130&partnerID=40&md5=e941b03f4631ef33090ba0133250b8e3
-doi: 10.1016/j.snb.2016.06.130
+doi: '10.1016/j.snb.2016.06.130'
 # Summary. An optional shortened abstract.
 summary: 
 

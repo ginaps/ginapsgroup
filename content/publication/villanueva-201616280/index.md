@@ -1,5 +1,5 @@
 ---
-title: Antimicrobial Activity of Starch Hydrogel Incorporated with Copper Nanoparticles
+title: 'Antimicrobial Activity of Starch Hydrogel Incorporated with Copper Nanoparticles'
 date: '2016-01-01'
 
 authors:
@@ -13,7 +13,7 @@ authors:
 - gcopello
 publication_types:
 - '2'
-abstract: In order to obtain an antimicrobial gel, a starch-based hydrogel reinforced
+abstract: 'In order to obtain an antimicrobial gel, a starch-based hydrogel reinforced'
   with silica-coated copper nanoparticles (Cu NPs) was developed. Cu NPs were synthesized
   by use of a copper salt and hydrazine as a reducing agent. In order to enhance Cu
   NP stability over time, they were synthesized in a starch medium followed by a silica
@@ -39,7 +39,7 @@ abstract: In order to obtain an antimicrobial gel, a starch-based hydrogel reinf
 featured: false
 publication: '*ACS Applied Materials and Interfaces*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84976544656&doi=10.1021%2facsami.6b02955&partnerID=40&md5=b0866048ae0ed121a7c62a8d77259c14
-doi: 10.1021/acsami.6b02955
+doi: '10.1021/acsami.6b02955'
 # Summary. An optional shortened abstract.
 summary: 
 

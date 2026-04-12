@@ -1,5 +1,5 @@
 ---
-title: Generation and Stability of the gem-Diol Forms in Imidazole Derivatives Containing
+title: 'Generation and Stability of the gem-Diol Forms in Imidazole Derivatives Containing'
   Carbonyl Groups. Solid-State NMR and Single-Crystal X-ray Diffraction Studies
 date: '2018-01-01'
 
@@ -13,7 +13,7 @@ authors:
 - jmlazaro
 publication_types:
 - '2'
-abstract: The stability of gem-diol forms in imidazolecarboxaldehyde isomers was studied
+abstract: 'The stability of gem-diol forms in imidazolecarboxaldehyde isomers was studied'
   by solid-state nuclear magnetic resonance (ss-NMR) combined with single-crystal
   X-ray diffraction studies. These methodologies also allowed determining the factors
   governing the occurrence of such rare functionalization in carbonyl moieties. Results
@@ -30,7 +30,7 @@ abstract: The stability of gem-diol forms in imidazolecarboxaldehyde isomers was
 featured: false
 publication: '*Journal of Physical Chemistry A*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85040792300&doi=10.1021%2facs.jpca.7b12390&partnerID=40&md5=1aa7f9db597bef35c969f561aa058369
-doi: 10.1021/acs.jpca.7b12390
+doi: '10.1021/acs.jpca.7b12390'
 # Summary. An optional shortened abstract.
 summary: 
 

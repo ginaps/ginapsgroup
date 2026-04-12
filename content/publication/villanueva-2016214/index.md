@@ -1,5 +1,5 @@
 ---
-title: Antimicrobial surface functionalization of PVC by a guanidine based antimicrobial
+title: 'Antimicrobial surface functionalization of PVC by a guanidine based antimicrobial'
   polymer
 date: '2016-01-01'
 
@@ -11,7 +11,7 @@ authors:
 - gcopello
 publication_types:
 - '2'
-abstract: Antimicrobial polyvinyl chloride (PVC) plastic was obtained by covalent
+abstract: 'Antimicrobial polyvinyl chloride (PVC) plastic was obtained by covalent'
   bonding of poly hexamethylenediamine guanidine hydrochloride (PHMG), a guanidine
   based antimicrobial polymer. This was achieved by grafting mercaptopropyltrimethoxysilane
   onto PVC, followed by aminopropyltriethoxysilane. Glutaraldehyde is a bifunctional
@@ -27,7 +27,7 @@ abstract: Antimicrobial polyvinyl chloride (PVC) plastic was obtained by covalen
 featured: false
 publication: '*Materials Science and Engineering C*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84969545620&doi=10.1016%2fj.msec.2016.05.052&partnerID=40&md5=c089f224372baf55e95f66c0a46820e1
-doi: 10.1016/j.msec.2016.05.052
+doi: '10.1016/j.msec.2016.05.052'
 # Summary. An optional shortened abstract.
 summary: 
 

@@ -1,5 +1,5 @@
 ---
-title: Development and characterization of a new polyampholyte-surfactant complex
+title: 'Development and characterization of a new polyampholyte-surfactant complex'
   applied to the solid phase extraction of bisphenol-A
 date: '2009-01-01'
 
@@ -27,7 +27,7 @@ abstract: 'This paper presents a material that has both hydrophilic and hydropho
 featured: false
 publication: '*Talanta*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-70349878934&doi=10.1016%2fj.talanta.2009.07.065&partnerID=40&md5=78b98ec0aee703d706ceb5be3f674b5c
-doi: 10.1016/j.talanta.2009.07.065
+doi: '10.1016/j.talanta.2009.07.065'
 # Summary. An optional shortened abstract.
 summary: 
 

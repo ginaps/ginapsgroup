@@ -1,5 +1,5 @@
 ---
-title: Methods for prevention, diagnosis and treatment achieved with the aid of sol-gel
+title: 'Methods for prevention, diagnosis and treatment achieved with the aid of sol-gel'
   chemistry
 date: '2011-01-01'
 
@@ -14,7 +14,7 @@ authors:
 - L.E. Diaz
 publication_types:
 - '5'
-abstract: The solgel process has several well-known advantages such as high purity
+abstract: 'The solgel process has several well-known advantages such as high purity'
   precursors, homogeneity of the obtained material and especially the possibility
   of making hybrids and composite materials with new chemical and mechanical properties.
   This emerging field of material science has generated considerable and increasing

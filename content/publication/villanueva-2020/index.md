@@ -1,5 +1,5 @@
 ---
-title: Oligomer-stabilized silver nanoparticles for antimicrobial coatings for plastics
+title: 'Oligomer-stabilized silver nanoparticles for antimicrobial coatings for plastics'
 date: '2020-01-01'
 
 authors:
@@ -10,7 +10,7 @@ authors:
 - V. Campo Dall' Orto
 publication_types:
 - '2'
-abstract: The development of composite materials consisting of metal nanoparticles
+abstract: 'The development of composite materials consisting of metal nanoparticles'
   embedded in macromolecular compounds, obtained via in-situ reduction process has
   attracted research interest. Silver nanoparticles (AgNPs) have been synthesized
   by a one-step method at 25 °C, that involves photo-reduction of AgNO3 dissolved
@@ -28,7 +28,7 @@ abstract: The development of composite materials consisting of metal nanoparticl
 featured: false
 publication: '*Nano-Structures and Nano-Objects*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85097378619&doi=10.1016%2fj.nanoso.2020.100610&partnerID=40&md5=94014fc599fb93cfe1a137c4b058b902
-doi: 10.1016/j.nanoso.2020.100610
+doi: '10.1016/j.nanoso.2020.100610'
 # Summary. An optional shortened abstract.
 summary: 
 

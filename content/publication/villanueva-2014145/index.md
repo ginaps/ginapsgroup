@@ -1,5 +1,5 @@
 ---
-title: Point of zero charge as a factor to control biofilm formation of Pseudomonas
+title: 'Point of zero charge as a factor to control biofilm formation of Pseudomonas'
   aeruginosa in sol-gel derivatized aluminum alloy plates
 date: '2014-01-01'
 
@@ -29,7 +29,7 @@ abstract: 'The hospital environment is particularly susceptible to contamination
 featured: false
 publication: '*Surface and Coatings Technology*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84905060315&doi=10.1016%2fj.surfcoat.2014.05.074&partnerID=40&md5=6499976267efdf9062b07c8d5a98f9fc
-doi: 10.1016/j.surfcoat.2014.05.074
+doi: '10.1016/j.surfcoat.2014.05.074'
 # Summary. An optional shortened abstract.
 summary: 
 

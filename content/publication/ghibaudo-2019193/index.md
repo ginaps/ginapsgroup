@@ -1,5 +1,5 @@
 ---
-title: Pectin-decorated magnetite nanoparticles as both iron delivery systems and
+title: 'Pectin-decorated magnetite nanoparticles as both iron delivery systems and'
   protective matrices for probiotic bacteria
 date: '2019-01-01'
 
@@ -11,7 +11,7 @@ authors:
 - A. Gómez-Zavaglia
 publication_types:
 - '2'
-abstract: The goal of this work was to investigate biophysical stability of iron-pectin
+abstract: 'The goal of this work was to investigate biophysical stability of iron-pectin'
   nanoparticles and analyze the feasibility of using them as delivery systems for
   the probiotic strain Lactobacillus plantarum CIDCA 83114. Iron oxide (Fe 3 O 4 )
   nanoparticles were synthesized from 0.25M FeCl 2 /0.5 M FeCl 3 .6H 2 O, and coated
@@ -37,7 +37,7 @@ abstract: The goal of this work was to investigate biophysical stability of iron
 featured: false
 publication: '*Colloids and Surfaces B: Biointerfaces*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85064896052&doi=10.1016%2fj.colsurfb.2019.04.049&partnerID=40&md5=191dfb86e7c7f8a89f220e629930a719
-doi: 10.1016/j.colsurfb.2019.04.049
+doi: '10.1016/j.colsurfb.2019.04.049'
 # Summary. An optional shortened abstract.
 summary: 
 

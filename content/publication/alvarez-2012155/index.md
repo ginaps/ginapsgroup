@@ -11,7 +11,7 @@ authors:
 - M.F. Desimone
 publication_types:
 - '5'
-abstract: Biosensors are devices that involve the selectivity and specificity of biological
+abstract: 'Biosensors are devices that involve the selectivity and specificity of biological'
   systems and the ability of a transducer to convert biological information in a signal
   proportional to the analyte concentration. Usually the biological component of a
   biosensor is a macromolecule or a cell that recognizes a target molecule. The biochemical

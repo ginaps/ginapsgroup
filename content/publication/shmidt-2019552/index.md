@@ -36,7 +36,7 @@ abstract: 'Quinoline is one of the most important heterocyclic systems in life s
 featured: false
 publication: '*Dyes and Pigments*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85055912942&doi=10.1016%2fj.dyepig.2018.10.027&partnerID=40&md5=0c20567b28fb39d1610423b7ac3224a2
-doi: 10.1016/j.dyepig.2018.10.027
+doi: '10.1016/j.dyepig.2018.10.027'
 # Summary. An optional shortened abstract.
 summary: 
 

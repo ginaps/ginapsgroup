@@ -1,5 +1,5 @@
 ---
-title: Chitin hydrogel reinforced with TiO2 nanoparticles as an arsenic sorbent
+title: 'Chitin hydrogel reinforced with TiO2 nanoparticles as an arsenic sorbent'
 date: '2016-01-01'
 
 authors:
@@ -12,7 +12,7 @@ authors:
 - gcopello
 publication_types:
 - '2'
-abstract: In this work chitin hydrogels were reinforced with TiO2 nanoparticles acting
+abstract: 'In this work chitin hydrogels were reinforced with TiO2 nanoparticles acting'
   as fillers. The mechanical and physicochemical characteristics of these hydrogels
   were studied by oscillatory rheology, infrared spectroscopy (FTIR), Scanning Electron
   Microscopy (SEM) and Small Angle X-ray Spectroscopy (SAXS). Adsorption showed to
@@ -29,7 +29,7 @@ abstract: In this work chitin hydrogels were reinforced with TiO2 nanoparticles 
 featured: false
 publication: '*Chemical Engineering Journal*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84945285834&doi=10.1016%2fj.cej.2015.10.035&partnerID=40&md5=a6b6e337c529d9cee6f9bc726403cf30
-doi: 10.1016/j.cej.2015.10.035
+doi: '10.1016/j.cej.2015.10.035'
 # Summary. An optional shortened abstract.
 summary: 
 

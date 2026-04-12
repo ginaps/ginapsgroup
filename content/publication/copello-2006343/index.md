@@ -1,5 +1,5 @@
 ---
-title: Antimicrobial activity on glass materials subject to disinfectant xerogel coating
+title: 'Antimicrobial activity on glass materials subject to disinfectant xerogel coating'
 date: '2006-01-01'
 
 
@@ -12,7 +12,7 @@ authors:
 - L.E. Diaz
 publication_types:
 - '2'
-abstract: The antimicrobial compound dodecyl-di(aminoethyl)-glycine was immobilized
+abstract: 'The antimicrobial compound dodecyl-di(aminoethyl)-glycine was immobilized'
   in a silicon oxide xerogel matrix and used for glass surface coating. Coated glasses
   were tested for surface antimicrobial activity. The utilization of tetraethoxysilane
   (TEOS) as a silicon oxide polymer precursor, using the dip-coating process, allowed
@@ -32,7 +32,7 @@ abstract: The antimicrobial compound dodecyl-di(aminoethyl)-glycine was immobili
 featured: false
 publication: '*Journal of Industrial Microbiology and Biotechnology*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-33645131254&doi=10.1007%2fs10295-005-0066-z&partnerID=40&md5=fade2af52a04bb471087194108066139
-doi: 10.1007/s10295-005-0066-z
+doi: '10.1007/s10295-005-0066-z'
 # Summary. An optional shortened abstract.
 summary: 
 

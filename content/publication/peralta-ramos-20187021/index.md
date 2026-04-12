@@ -1,5 +1,5 @@
 ---
-title: Influence of GO reinforcement on keratin based smart hydrogel and its application
+title: 'Influence of GO reinforcement on keratin based smart hydrogel and its application'
   for emerging pollutants removal
 date: '2018-01-01'
 
@@ -12,7 +12,7 @@ authors:
 - gcopello
 publication_types:
 - '2'
-abstract: In this work, the influence of graphene oxide (GO) reinforcement on keratin
+abstract: 'In this work, the influence of graphene oxide (GO) reinforcement on keratin'
   based smart hydrogel and its application for the emerging pollutant ciprofloxacin
   removal was studied. Firstly, the obtained material was characterized by Infrared
   Spectroscopy, Scanning Electronic Microscopy, Small angle X-ray Scattering and Swelling
@@ -32,7 +32,7 @@ abstract: In this work, the influence of graphene oxide (GO) reinforcement on ke
 featured: false
 publication: '*Journal of Environmental Chemical Engineering*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85056800658&doi=10.1016%2fj.jece.2018.11.011&partnerID=40&md5=189e31f2e83eab4056b3316a612bf9b9
-doi: 10.1016/j.jece.2018.11.011
+doi: '10.1016/j.jece.2018.11.011'
 # Summary. An optional shortened abstract.
 summary: 
 

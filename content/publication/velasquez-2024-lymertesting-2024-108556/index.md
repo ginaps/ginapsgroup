@@ -1,5 +1,5 @@
 ---
-title: Upgrading properties and circularity of the recycled flexible polypropylene by developing composites with an optimal combination of a fumed silica and maleated polypropylene copolymer: Influence of the addition of copolymer, type of fumed silica and the silica/copolymer ratio on packaging properties
+title: 'Upgrading properties and circularity of the recycled flexible polypropylene by developing composites with an optimal combination of a fumed silica and maleated polypropylene copolymer: Influence of the addition of copolymer, type of fumed silica and the silica/copolymer ratio on packaging properties'
 date: '2024-01-01'
 
 authors:
@@ -11,10 +11,10 @@ authors:
 - Abel Guarda
 - María José Galotto
 
-abstract: 
+abstract: ''
 featured: false
 publication: '*Polymer Testing*'
-url_source: https://doi.org/10.1016/j.polymertesting.2024.108556
-doi: 10.1016/j.polymertesting.2024.108556
+url_source: 'https://doi.org/10.1016/j.polymertesting.2024.108556'
+doi: '10.1016/j.polymertesting.2024.108556'
 publication_types: ['2']
 ---

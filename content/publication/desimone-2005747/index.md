@@ -1,5 +1,5 @@
 ---
-title: Efficient preservation in a silicon oxide matrix of Escherichia coli, producer
+title: 'Efficient preservation in a silicon oxide matrix of Escherichia coli, producer'
   of recombinant proteins
 date: '2005-01-01'
 
@@ -36,7 +36,7 @@ abstract: 'The aim of this work was to study the use of silicon oxide matrices f
 featured: false
 publication: '*Applied Microbiology and Biotechnology*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-27544489101&doi=10.1007%2fs00253-005-1912-7&partnerID=40&md5=ad739136d71c180e8410ab3f6e001bf5
-doi: 10.1007/s00253-005-1912-7
+doi: '10.1007/s00253-005-1912-7'
 # Summary. An optional shortened abstract.
 summary: 
 

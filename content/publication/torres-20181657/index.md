@@ -11,7 +11,7 @@ authors:
 - V. Campo Dall' Orto
 publication_types:
 - '2'
-abstract: Calcium alginate beads were reinforced with linear polyethylenimine (PEI),
+abstract: 'Calcium alginate beads were reinforced with linear polyethylenimine (PEI),'
   Cu(II) and synthetic oligomers derived from a diepoxide, methacrylic acid and imidazole,
   to increase the resistance to stirring and vibration for environmental applications.
   The FT-IR and Raman spectra of the beads confirmed the presence of the organic reactants
@@ -29,7 +29,7 @@ abstract: Calcium alginate beads were reinforced with linear polyethylenimine (P
 featured: false
 publication: '*Cellulose*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85041899011&doi=10.1007%2fs10570-018-1684-8&partnerID=40&md5=b93bfc7ce584734abc1a2d56a932bd0f
-doi: 10.1007/s10570-018-1684-8
+doi: '10.1007/s10570-018-1684-8'
 # Summary. An optional shortened abstract.
 summary: 
 

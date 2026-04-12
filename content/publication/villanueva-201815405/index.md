@@ -1,5 +1,5 @@
 ---
-title: Solar light efficient photocatalytic activity degradation of emergent contaminants
+title: 'Solar light efficient photocatalytic activity degradation of emergent contaminants'
   by coated TiO2 nanoparticles
 date: '2018-01-01'
 
@@ -9,7 +9,7 @@ authors:
 - V. Campo Dall'Orto
 publication_types:
 - '2'
-abstract: The photocatalytic degradation of different emergent contaminants in aqueous
+abstract: 'The photocatalytic degradation of different emergent contaminants in aqueous'
   solutions has been studied by using oligomer-coated TiO2 nanoparticles under solar
   light irradiation. The oligomer was synthesized using methacrylic acid, ethylene
   glycol diglycidyl ether and imidazole. The material was characterized by SEM, DLS,
@@ -29,7 +29,7 @@ abstract: The photocatalytic degradation of different emergent contaminants in a
 featured: false
 publication: '*New Journal of Chemistry*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85053732833&doi=10.1039%2fc8nj02332h&partnerID=40&md5=4235939194f858f89eb6c2e9783b70b3
-doi: 10.1039/c8nj02332h
+doi: '10.1039/c8nj02332h'
 # Summary. An optional shortened abstract.
 summary: 
 

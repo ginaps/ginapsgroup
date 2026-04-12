@@ -1,5 +1,5 @@
 ---
-title: Activation of H2O2 and superoxide production using a novel cobalt complex based
+title: 'Activation of H2O2 and superoxide production using a novel cobalt complex based'
   on a polyampholyte
 date: '2013-01-01'
 
@@ -11,7 +11,7 @@ authors:
 - V. Campo Dall'Orto
 publication_types:
 - '2'
-abstract: A new catalyst based on Co(II) and a hydrogel with property of polyampholyte
+abstract: 'A new catalyst based on Co(II) and a hydrogel with property of polyampholyte'
   was characterized by equilibrium studies of Co(II) uptake, solid-state NMR and energy
   dispersive X-ray analysis. The matrix derived from methacrylic acid and 2-methylimidazole
   is easily synthesized in one-spot strategy, and combines coordination properties
@@ -31,7 +31,7 @@ abstract: A new catalyst based on Co(II) and a hydrogel with property of polyamp
 featured: false
 publication: '*Applied Catalysis A: General*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84883181908&doi=10.1016%2fj.apcata.2013.08.002&partnerID=40&md5=757317e9be58a0b3927eb8a9f334e562
-doi: 10.1016/j.apcata.2013.08.002
+doi: '10.1016/j.apcata.2013.08.002'
 # Summary. An optional shortened abstract.
 summary: 
 

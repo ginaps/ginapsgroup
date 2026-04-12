@@ -1,5 +1,5 @@
 ---
-title: Innovative immobilization matrices
+title: 'Innovative immobilization matrices'
 date: '2016-01-01'
 
 authors:
@@ -19,7 +19,7 @@ authors:
 - M.F. Desimone
 publication_types:
 - '2'
-abstract: We present a brief survey of some of the recent work of Professor Luis E.
+abstract: 'We present a brief survey of some of the recent work of Professor Luis E.'
   Díaz, performed together with his students and collaborators at the University of
   Buenos Aires. Dr Luis E. Díaz has been involved in research on biochemical and pharmaceutical
   sciences solving scientific and industry problems for over 40 years until he passed
@@ -31,7 +31,7 @@ abstract: We present a brief survey of some of the recent work of Professor Luis
 featured: false
 publication: '*Current Pharmaceutical Biotechnology*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84961572718&doi=10.2174%2f138920101705160303164657&partnerID=40&md5=08ae6e2bdf67cce5eddc2a38ee358b78
-doi: 10.2174/138920101705160303164657
+doi: '10.2174/138920101705160303164657'
 # Summary. An optional shortened abstract.
 summary: 
 

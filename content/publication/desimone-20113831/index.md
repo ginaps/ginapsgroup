@@ -1,5 +1,5 @@
 ---
-title: In vitro studies and preliminary in vivo evaluation of silicified concentrated
+title: 'In vitro studies and preliminary in vivo evaluation of silicified concentrated'
   collagen hydrogels
 date: '2011-01-01'
 
@@ -18,7 +18,7 @@ authors:
 - T. Coradin
 publication_types:
 - '2'
-abstract: Hybrid and nanocomposite silica-collagen materials derived from concentrated
+abstract: 'Hybrid and nanocomposite silica-collagen materials derived from concentrated'
   collagen hydrogels were evaluated in vitro and in vivo to establish their potentialities
   for biological dressings. Silicification significantly improved the mechanical and
   thermal stability of the collagen network within the hybrid systems. Nanocomposites
@@ -33,7 +33,7 @@ abstract: Hybrid and nanocomposite silica-collagen materials derived from concen
 featured: false
 publication: '*ACS Applied Materials and Interfaces*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84857737264&doi=10.1021%2fam2009844&partnerID=40&md5=58e3a3b617617c70064dc71ec730369b
-doi: 10.1021/am2009844
+doi: '10.1021/am2009844'
 # Summary. An optional shortened abstract.
 summary: 
 

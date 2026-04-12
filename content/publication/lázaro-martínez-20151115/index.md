@@ -1,5 +1,5 @@
 ---
-title: Solid-state studies of the crystalline/amorphous character in linear poly (ethylenimine
+title: 'Solid-state studies of the crystalline/amorphous character in linear poly (ethylenimine'
   hydrochloride) (PEI·HCl) polymers and their copper Complexes
 date: '2015-01-01'
 
@@ -11,7 +11,7 @@ authors:
 - A.K. Chattah
 publication_types:
 - '2'
-abstract: Linear poly(ethylenimine hydrochloride) (PEI·HCl) polymers with different
+abstract: 'Linear poly(ethylenimine hydrochloride) (PEI·HCl) polymers with different'
   molecular weights (22, 87, and 217 kDa) and their copper complexes (Cu-PEI) were
   studied with particular attention to the crystalline/amorphous character of the
   polymeric chains in lyophilized and crystallized samples by using 1D and 2D solid-state
@@ -28,7 +28,7 @@ abstract: Linear poly(ethylenimine hydrochloride) (PEI·HCl) polymers with diffe
 featured: false
 publication: '*Macromolecules*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84923374148&doi=10.1021%2fma5023082&partnerID=40&md5=569c72d553f004410474c4d42f04e51b
-doi: 10.1021/ma5023082
+doi: '10.1021/ma5023082'
 # Summary. An optional shortened abstract.
 summary: 
 

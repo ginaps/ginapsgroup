@@ -12,7 +12,7 @@ authors:
 - V. Campo Dall'Orto
 publication_types:
 - '2'
-abstract: A complex between Cu(II) and a polyampholyte synthesized from methacrylic
+abstract: 'A complex between Cu(II) and a polyampholyte synthesized from methacrylic'
   acid, imidazole and ethyleneglycol diglycidyl ether was used as a heterogeneous
   catalyst for hydrogen peroxide activation and degradation of chlorophenols. The
   material was characterized by XPS and by measurements of the zeta potential. The
@@ -32,7 +32,7 @@ abstract: A complex between Cu(II) and a polyampholyte synthesized from methacry
 featured: false
 publication: '*Journal of Molecular Catalysis A: Chemical*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-79954613300&doi=10.1016%2fj.molcata.2011.02.010&partnerID=40&md5=e043d544c6bce7adc8cedcafdf78853e
-doi: 10.1016/j.molcata.2011.02.010
+doi: '10.1016/j.molcata.2011.02.010'
 # Summary. An optional shortened abstract.
 summary: 
 

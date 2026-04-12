@@ -1,5 +1,5 @@
 ---
-title: Studies on the activation of hydrogen peroxide for color removal in the presence
+title: 'Studies on the activation of hydrogen peroxide for color removal in the presence'
   of a new Cu(II)-polyampholyte heterogeneous catalyst
 date: '2008-01-01'
 
@@ -12,7 +12,7 @@ authors:
 - V. Campo Dall' Orto
 publication_types:
 - '2'
-abstract: In this work we describe the application of a new non-soluble and non-porous
+abstract: 'In this work we describe the application of a new non-soluble and non-porous'
   complex with copper ion based on ethylene glycol diglycidyl ether (EGDE), methacrylic
   acid (MAA) and 2-methylimidazole (2MI) in the decolorization of an azo dye Methyl
   Orange (MO) as a model pollutant at room temperature. The complex with copper ion
@@ -30,7 +30,7 @@ abstract: In this work we describe the application of a new non-soluble and non-
 featured: false
 publication: '*Applied Catalysis B: Environmental*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-47249088203&doi=10.1016%2fj.apcatb.2008.01.030&partnerID=40&md5=b569eb23b6ebb32466612ca99fe9dc0b
-doi: 10.1016/j.apcatb.2008.01.030
+doi: '10.1016/j.apcatb.2008.01.030'
 # Summary. An optional shortened abstract.
 summary: 
 

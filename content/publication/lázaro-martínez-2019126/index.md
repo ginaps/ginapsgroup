@@ -12,7 +12,7 @@ authors:
 - V. Campo Dall' Orto
 publication_types:
 - '2'
-abstract: Polyethylenimine (PEI)-decorated gold nanoparticles (AuNP) were electrodeposited
+abstract: 'Polyethylenimine (PEI)-decorated gold nanoparticles (AuNP) were electrodeposited'
   on conductive surfaces in one-step procedure. Solution-state NMR evidenced that
   chloride from PEI.HCl was partially exchanged by AuCl 4 − prior to AuNP formation.
   XPS studies indicated the presence of Au° together with the interaction between
@@ -31,7 +31,7 @@ abstract: Polyethylenimine (PEI)-decorated gold nanoparticles (AuNP) were electr
 featured: false
 publication: '*Electrochimica Acta*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061322500&doi=10.1016%2fj.electacta.2019.01.154&partnerID=40&md5=2d67a85a5eee66395c98451ad60a669e
-doi: 10.1016/j.electacta.2019.01.154
+doi: '10.1016/j.electacta.2019.01.154'
 # Summary. An optional shortened abstract.
 summary: 
 

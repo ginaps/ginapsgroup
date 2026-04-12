@@ -1,5 +1,5 @@
 ---
-title: Synthesis and characterization of novel polyampholyte and polyelectrolyte polymers
+title: 'Synthesis and characterization of novel polyampholyte and polyelectrolyte polymers'
   containing imidazole, triazole or pyrazole
 date: '2012-01-01'
 
@@ -11,7 +11,7 @@ authors:
 - V. Campo Dall'Orto
 publication_types:
 - '2'
-abstract: Novel soluble and non-soluble polymers based on methacrylic acid, ethylene
+abstract: 'Novel soluble and non-soluble polymers based on methacrylic acid, ethylene'
   glycol diglycidyl ether and pyrazole, triazole or imidazole were obtained by a one-spot
   synthetic strategy. The new materials were characterized by spectroscopic techniques
   (FT-IR, and solution- and solid-state NMR). Evidence on the covalent binding of
@@ -28,7 +28,7 @@ abstract: Novel soluble and non-soluble polymers based on methacrylic acid, ethy
 featured: false
 publication: '*Polymer*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84857635092&doi=10.1016%2fj.polymer.2012.01.031&partnerID=40&md5=9d90edef1dd5ebb1bc9bcad39eba4fa6
-doi: 10.1016/j.polymer.2012.01.031
+doi: '10.1016/j.polymer.2012.01.031'
 # Summary. An optional shortened abstract.
 summary: 
 

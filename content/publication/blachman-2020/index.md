@@ -1,5 +1,5 @@
 ---
-title: Targeted anti-inflammatory peptide delivery in injured endothelial cells using
+title: 'Targeted anti-inflammatory peptide delivery in injured endothelial cells using'
   dermatan sulfate/chitosan nanomaterials
 date: '2020-01-01'
 
@@ -15,7 +15,7 @@ authors:
 - G.C. Calabrese
 publication_types:
 - '2'
-abstract: This work describes a novel delivery system for targeting egg-derived anti-inflammatory
+abstract: 'This work describes a novel delivery system for targeting egg-derived anti-inflammatory'
   tripeptide Ile-Arg-Trp (IRW) to endothelial cells. The nanomedicine is synthesized
   by a simple and reproducible ionotropic gelification method that results in the
   efficient loading of the positively charged IRW within the dermatan sulfate/ chitosan
@@ -31,7 +31,7 @@ abstract: This work describes a novel delivery system for targeting egg-derived 
 featured: false
 publication: '*Carbohydrate Polymers*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85076862258&doi=10.1016%2fj.carbpol.2019.115610&partnerID=40&md5=4c114908fe009b8b35cdc8c203c20762
-doi: 10.1016/j.carbpol.2019.115610
+doi: '10.1016/j.carbpol.2019.115610'
 # Summary. An optional shortened abstract.
 summary: 
 

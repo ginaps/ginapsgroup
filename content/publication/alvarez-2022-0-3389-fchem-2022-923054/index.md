@@ -1,5 +1,5 @@
 ---
-title: Editorial: Design of Functional Nanostructured Polymer Materials: Synthesis, Characterization and Applications
+title: 'Editorial: Design of Functional Nanostructured Polymer Materials: Synthesis, Characterization and Applications'
 date: '2022-01-01'
 
 authors:
@@ -9,10 +9,10 @@ authors:
 - Antonia Infantes Molina
 - jmlazaro
 
-abstract: 
+abstract: ''
 featured: false
 publication: '*Frontiers in Chemistry*'
-url_source: https://doi.org/10.3389/fchem.2022.923054
-doi: 10.3389/fchem.2022.923054
+url_source: 'https://doi.org/10.3389/fchem.2022.923054'
+doi: '10.3389/fchem.2022.923054'
 publication_types: ['2']
 ---

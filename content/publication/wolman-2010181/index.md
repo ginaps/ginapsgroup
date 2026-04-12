@@ -1,5 +1,5 @@
 ---
-title: Egg white lysozyme purification with a chitin-silica-based affinity chromatographic
+title: 'Egg white lysozyme purification with a chitin-silica-based affinity chromatographic'
   matrix
 date: '2010-01-01'
 
@@ -14,7 +14,7 @@ authors:
 - O. Cascone
 publication_types:
 - '2'
-abstract: A composite biosorbent retaining non-covalently bound chitin in between
+abstract: 'A composite biosorbent retaining non-covalently bound chitin in between'
   layers of a silicon oxide matrix was assessed for lysozyme purification from undiluted
   egg white. The matrix can be shaped with big size and high density, thus allowing
   its efficient separation from the egg white after the adsorption step. The lysozyme-depleted
@@ -32,7 +32,7 @@ abstract: A composite biosorbent retaining non-covalently bound chitin in betwee
 featured: false
 publication: '*European Food Research and Technology*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-77952423953&doi=10.1007%2fs00217-010-1263-1&partnerID=40&md5=1f0057d80a22ed50f90d41b908b3c0c9
-doi: 10.1007/s00217-010-1263-1
+doi: '10.1007/s00217-010-1263-1'
 # Summary. An optional shortened abstract.
 summary: 
 

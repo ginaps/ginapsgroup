@@ -1,5 +1,5 @@
 ---
-title: Influence of silicification on the structural and biological properties of
+title: 'Influence of silicification on the structural and biological properties of'
   buffer-mediated collagen hydrogels
 date: '2012-01-01'
 
@@ -13,7 +13,7 @@ authors:
 - T. Coradin
 publication_types:
 - '2'
-abstract: A buffer-mediated gelation route for collagen hydrogels that allows the
+abstract: 'A buffer-mediated gelation route for collagen hydrogels that allows the'
   formation of homogeneous composite and hybrid materials with various silica sources
   (i.e., colloidal silica and soluble silicates) at high concentration (up to 25 ×
   10 -3 M) is described. Most significant improvement in rheological properties and
@@ -32,7 +32,7 @@ abstract: A buffer-mediated gelation route for collagen hydrogels that allows th
 featured: false
 publication: '*Advanced Engineering Materials*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84858043054&doi=10.1002%2fadem.201180063&partnerID=40&md5=186adc0572b51059b4ae98bde0709736
-doi: 10.1002/adem.201180063
+doi: '10.1002/adem.201180063'
 # Summary. An optional shortened abstract.
 summary: 
 

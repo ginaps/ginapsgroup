@@ -1,5 +1,5 @@
 ---
-title: Insights into the coordination sphere of copper ion in polymers containing
+title: 'Insights into the coordination sphere of copper ion in polymers containing'
   carboxylic acid and azole groups
 date: '2013-01-01'
 
@@ -9,7 +9,7 @@ authors:
 - A.K. Chattah
 publication_types:
 - '2'
-abstract: In this work, we describe the Cu2+ ion uptake from recently developed hydrogel
+abstract: 'In this work, we describe the Cu2+ ion uptake from recently developed hydrogel'
   with polyampholyte and polyelectrolyte behavior at different concentrations of the
   metal ion. Solid-state NMR and EPR were used as complementary techniques to understand
   the coordination role of carboxylic acid and azole groups (imidazole, triazole and
@@ -25,7 +25,7 @@ abstract: In this work, we describe the Cu2+ ion uptake from recently developed 
 featured: false
 publication: '*Polymer*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84881610602&doi=10.1016%2fj.polymer.2013.07.036&partnerID=40&md5=5a976bee97c40c2a59f0e6d9e4c29f2a
-doi: 10.1016/j.polymer.2013.07.036
+doi: '10.1016/j.polymer.2013.07.036'
 # Summary. An optional shortened abstract.
 summary: 
 

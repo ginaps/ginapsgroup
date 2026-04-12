@@ -18,7 +18,7 @@ authors:
 - M.A. Moretton
 publication_types:
 - '2'
-abstract: Paclitaxel (PTX) is one of the most effective antineoplastic drugs employed
+abstract: 'Paclitaxel (PTX) is one of the most effective antineoplastic drugs employed'
   for breast and ovarian cancer therapy. However, the neurotoxicity associated with
   PTX administration represents one of its main drawbacks reducing patient life quality.
   Recently, curcumin (CUR) has been explored as a neuroprotective agent due to its
@@ -39,7 +39,7 @@ abstract: Paclitaxel (PTX) is one of the most effective antineoplastic drugs emp
 featured: false
 publication: '*Journal of Drug Delivery Science and Technology*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85099631731&doi=10.1016%2fj.jddst.2021.102343&partnerID=40&md5=4a1b3d2cfe034e7941a19026709dc2d4
-doi: 10.1016/j.jddst.2021.102343
+doi: '10.1016/j.jddst.2021.102343'
 # Summary. An optional shortened abstract.
 summary: 
 

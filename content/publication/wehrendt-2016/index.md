@@ -1,5 +1,5 @@
 ---
-title: P120-catenin regulates early trafficking stages of the n-cadherin precursor
+title: 'P120-catenin regulates early trafficking stages of the n-cadherin precursor'
   complex
 date: '2016-01-01'
 
@@ -12,7 +12,7 @@ authors:
 - C.O. Arregui
 publication_types:
 - '2'
-abstract: It is well established that binding of p120 catenin to the cytoplasmic domain
+abstract: 'It is well established that binding of p120 catenin to the cytoplasmic domain'
   of surface cadherin prevents cadherin endocytosis and degradation, contributing
   to cell-cell adhesion. In the present work we show that p120 catenin bound to the
   N-cadherin precursor, contributes to its anterograde movement from the endoplasmic
@@ -34,7 +34,7 @@ abstract: It is well established that binding of p120 catenin to the cytoplasmic
 featured: false
 publication: '*PLoS ONE*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84973644408&doi=10.1371%2fjournal.pone.0156758&partnerID=40&md5=14f12951492e67475664ec8c2400a963
-doi: 10.1371/journal.pone.0156758
+doi: '10.1371/journal.pone.0156758'
 # Summary. An optional shortened abstract.
 summary: 
 

@@ -1,5 +1,5 @@
 ---
-title: Enhanced chitin gel with magnetic nanofiller for lysozyme purification
+title: 'Enhanced chitin gel with magnetic nanofiller for lysozyme purification'
 date: '2020-01-01'
 
 authors:
@@ -10,7 +10,7 @@ authors:
 - gcopello
 publication_types:
 - '2'
-abstract: In this study, we have investigated the impact of superparamagnetic magnetite
+abstract: 'In this study, we have investigated the impact of superparamagnetic magnetite'
   nanoparticle (Fe3O4) inclusion on the chitin polysaccharide structure, together
   with its surface chemistry influence on the adsorption of lysozyme (LYZ). Magnetic
   nanoparticles (MNPs) as fillers not only endow the chitin host structure with their
@@ -29,7 +29,7 @@ abstract: In this study, we have investigated the impact of superparamagnetic ma
 featured: false
 publication: '*Journal of Industrial and Engineering Chemistry*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85084480721&doi=10.1016%2fj.jiec.2020.03.026&partnerID=40&md5=fe362676b2efbb514fa80a47567ad474
-doi: 10.1016/j.jiec.2020.03.026
+doi: '10.1016/j.jiec.2020.03.026'
 # Summary. An optional shortened abstract.
 summary: 
 

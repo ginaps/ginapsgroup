@@ -11,7 +11,7 @@ authors:
 - V. Campo Dall' Orto
 publication_types:
 - '2'
-abstract: A one step-synthesized polyampholyte, bearing carboxylate and 2-methylimidazole
+abstract: 'A one step-synthesized polyampholyte, bearing carboxylate and 2-methylimidazole'
   (2MI) groups, was tested as adsorbent for the removal of Pb(II) and Cd(II) from
   aqueous solutions. This material combines the benefits of synthetic polymers, such
   as high adsorption capacity and chemical stability, and the advantages of biosorbents
@@ -29,7 +29,7 @@ abstract: A one step-synthesized polyampholyte, bearing carboxylate and 2-methyl
 featured: false
 publication: '*Journal of Hazardous Materials*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84859849262&doi=10.1016%2fj.jhazmat.2012.03.045&partnerID=40&md5=dd70ee2b294a0518aebfb4166c231b37
-doi: 10.1016/j.jhazmat.2012.03.045
+doi: '10.1016/j.jhazmat.2012.03.045'
 # Summary. An optional shortened abstract.
 summary: 
 

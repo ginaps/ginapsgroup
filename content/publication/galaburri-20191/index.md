@@ -1,5 +1,5 @@
 ---
-title: pH and ion-selective swelling behaviour of keratin and keratose 3D hydrogels
+title: 'pH and ion-selective swelling behaviour of keratin and keratose 3D hydrogels'
 date: '2019-01-01'
 
 authors:
@@ -12,7 +12,7 @@ authors:
 - gcopello
 publication_types:
 - '2'
-abstract: The oxidation of keratin hydrogels was optimized aiming to obtain keratose
+abstract: 'The oxidation of keratin hydrogels was optimized aiming to obtain keratose'
   hydrogels while maintaining the original 3D structure and pH-responsive behaviour.
   In addition, we present a comparative study of their dual-stimuli responsive behaviour
   regarding the pH-responsiveness and their previously non-described ion selective
@@ -28,7 +28,7 @@ abstract: The oxidation of keratin hydrogels was optimized aiming to obtain kera
 featured: false
 publication: '*European Polymer Journal*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85067999663&doi=10.1016%2fj.eurpolymj.2019.05.043&partnerID=40&md5=8eac8ee7597a353c0860f976f40b1036
-doi: 10.1016/j.eurpolymj.2019.05.043
+doi: '10.1016/j.eurpolymj.2019.05.043'
 # Summary. An optional shortened abstract.
 summary: 
 

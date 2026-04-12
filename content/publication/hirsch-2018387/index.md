@@ -1,5 +1,5 @@
 ---
-title: Sulfanilic acid-modified chitosan mini-spheres and their application for lysozyme
+title: 'Sulfanilic acid-modified chitosan mini-spheres and their application for lysozyme'
   purification from egg white
 date: '2018-01-01'
 
@@ -15,7 +15,7 @@ authors:
 - wolman
 publication_types:
 - '2'
-abstract: A cation exchange matrix with zwitterionic and multimodal properties was
+abstract: 'A cation exchange matrix with zwitterionic and multimodal properties was'
   synthesized by a simple reaction sequence coupling sulfanilic acid to a chitosan
   based support. The novel chromatographic matrix was physico-chemically characterized
   by ss-NMR and ζ potential, and its chromatographic performance was evaluated for
@@ -31,7 +31,7 @@ abstract: A cation exchange matrix with zwitterionic and multimodal properties w
 featured: false
 publication: '*Biotechnology Progress*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045723018&doi=10.1002%2fbtpr.2588&partnerID=40&md5=3905b52567d98d4f54770e18a4c82a02
-doi: 10.1002/btpr.2588
+doi: '10.1002/btpr.2588'
 # Summary. An optional shortened abstract.
 summary: 
 

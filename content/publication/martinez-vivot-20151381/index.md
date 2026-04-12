@@ -13,7 +13,7 @@ authors:
 - C.P. Setton-Avruj
 publication_types:
 - '2'
-abstract: Previous studies by our group demonstrated the key role of iron in Schwann
+abstract: 'Previous studies by our group demonstrated the key role of iron in Schwann'
   cell maturation through an increase in cAMP, PKA activation and CREB phosphorylation.
   These studies opened the door to further research on non-transferrin-bound iron
   uptake, which revealed the presence of DMT1 mRNA all along SC progeny, hinting at
@@ -30,7 +30,7 @@ abstract: Previous studies by our group demonstrated the key role of iron in Sch
 featured: false
 publication: '*Metallomics*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84944048593&doi=10.1039%2fc5mt00156k&partnerID=40&md5=f2b9ca6c496afa04cc236da24fce0f59
-doi: 10.1039/c5mt00156k
+doi: '10.1039/c5mt00156k'
 # Summary. An optional shortened abstract.
 summary: 
 

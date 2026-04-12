@@ -964,6 +964,17 @@ function Get-PublicationMetadata {
   throw "No metadata found for $DirectoryPath"
 }
 
+function ConvertTo-YamlSingleQuoted {
+  param([AllowNull()][string]$Value)
+
+  $normalized = Normalize-Whitespace $Value
+  if ($null -eq $normalized) {
+    $normalized = ''
+  }
+
+  return "'" + ($normalized -replace "'", "''") + "'"
+}
+
 function Build-PublicationFrontMatter {
   param(
     [Parameter(Mandatory = $true)]$Metadata,
@@ -973,8 +984,8 @@ function Build-PublicationFrontMatter {
   $dateValue = if ($Metadata.Year) { "{0}-01-01" -f $Metadata.Year } else { (Get-Date).ToString('yyyy-01-01') }
   $lines = @(
     '---'
-    "title: $($Metadata.Title)"
-    "date: '$dateValue'"
+    ("title: {0}" -f (ConvertTo-YamlSingleQuoted $Metadata.Title))
+    ("date: {0}" -f (ConvertTo-YamlSingleQuoted $dateValue))
     ''
     'authors:'
   )
@@ -982,14 +993,14 @@ function Build-PublicationFrontMatter {
     $lines += "- $author"
   }
   $lines += ''
-  $lines += "abstract: $($Metadata.Abstract)"
+  $lines += ("abstract: {0}" -f (ConvertTo-YamlSingleQuoted $Metadata.Abstract))
   $lines += 'featured: false'
-  $lines += "publication: '*$($Metadata.Publication)*'"
+  $lines += ("publication: {0}" -f (ConvertTo-YamlSingleQuoted ("*{0}*" -f $Metadata.Publication)))
   if ($Metadata.Url) {
-    $lines += "url_source: $($Metadata.Url)"
+    $lines += ("url_source: {0}" -f (ConvertTo-YamlSingleQuoted $Metadata.Url))
   }
   if ($Metadata.Doi) {
-    $lines += "doi: $($Metadata.Doi)"
+    $lines += ("doi: {0}" -f (ConvertTo-YamlSingleQuoted $Metadata.Doi))
   }
   $publicationTypes = if ($Metadata.PSObject.Properties['PublicationTypes'] -and @($Metadata.PublicationTypes).Count -gt 0) { @($Metadata.PublicationTypes) } else { @('2') }
   $typeValues = ($publicationTypes | ForEach-Object { "'$_'" }) -join ', '

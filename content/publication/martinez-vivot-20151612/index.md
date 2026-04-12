@@ -18,7 +18,7 @@ abstract: ''
 featured: false
 publication: '*Metallomics*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84948772684&doi=10.1039%2fc5mt90048d&partnerID=40&md5=1201605e953fa31888c5ab96fd4b3e06
-doi: 10.1039/c5mt90048d
+doi: '10.1039/c5mt90048d'
 # Summary. An optional shortened abstract.
 summary: 
 

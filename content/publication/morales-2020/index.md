@@ -1,5 +1,5 @@
 ---
-title: Heterogeneous acid catalysts prepared by immobilization of H3PW12O40 on silica
+title: 'Heterogeneous acid catalysts prepared by immobilization of H3PW12O40 on silica'
   through impregnation and inclusion, applied to the synthesis of 3H-1,5-benzodiazepines
 date: '2020-01-01'
 
@@ -12,7 +12,7 @@ authors:
 - E. Rodríguez-Castellón
 publication_types:
 - '2'
-abstract: Solid acid catalysts were successfully prepared using mesoporous silica
+abstract: 'Solid acid catalysts were successfully prepared using mesoporous silica'
   (MESOSI) as support and tungstophosphoric acid (KTPA) as active phase, which was
   incorporated by impregnation (MESOSI#KTPA) and inclusion (MESOSI@KTPA). TEM (transmission
   electron microscopy) images of MESOSI samples revealed the presence of mesopores
@@ -30,7 +30,7 @@ abstract: Solid acid catalysts were successfully prepared using mesoporous silic
 featured: false
 publication: '*Molecular Catalysis*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85079692859&doi=10.1016%2fj.mcat.2020.110842&partnerID=40&md5=0a7f99c0600fe6383191abc600532c4b
-doi: 10.1016/j.mcat.2020.110842
+doi: '10.1016/j.mcat.2020.110842'
 # Summary. An optional shortened abstract.
 summary: 
 

@@ -1,5 +1,5 @@
 ---
-title: Production of recombinant proteins by sol-gel immobilized Escherichia coli
+title: 'Production of recombinant proteins by sol-gel immobilized Escherichia coli'
 date: '2006-01-01'
 
 publishDate: '2021-04-21T19:26:33.236752Z'
@@ -13,7 +13,7 @@ authors:
 - L.E. Diaz
 publication_types:
 - '2'
-abstract: The aim of this work was to study the functionality and quantitative level
+abstract: 'The aim of this work was to study the functionality and quantitative level'
   of recombinant protein produced from bacteria immobilized and preserved in sol-gel
   matrices. Matrices prepared from two precursors, silicon dioxide and tetraethoxysilane,
   were studied. In previous works we analyzed the number of viable cells and level
@@ -33,7 +33,7 @@ abstract: The aim of this work was to study the functionality and quantitative l
 featured: false
 publication: '*Enzyme and Microbial Technology*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-33749677676&doi=10.1016%2fj.enzmictec.2005.11.052&partnerID=40&md5=ddbce8dd6e503c2d58c8fee3538de7f4
-doi: 10.1016/j.enzmictec.2005.11.052
+doi: '10.1016/j.enzmictec.2005.11.052'
 # Summary. An optional shortened abstract.
 summary: 
 

@@ -34,7 +34,7 @@ abstract: 'An antimicrobial coating was evaluated in this work for its antimicro
 featured: false
 publication: '*Journal of Industrial Microbiology and Biotechnology*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-50249125311&doi=10.1007%2fs10295-008-0380-3&partnerID=40&md5=80a6d7f6ce45d09d02ff06332b351408
-doi: 10.1007/s10295-008-0380-3
+doi: '10.1007/s10295-008-0380-3'
 # Summary. An optional shortened abstract.
 summary: 
 

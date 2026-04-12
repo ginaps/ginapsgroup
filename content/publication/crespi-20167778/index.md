@@ -13,7 +13,7 @@ authors:
 - jmlazaro
 publication_types:
 - '2'
-abstract: The gem-diol moieties of organic compounds are rarely isolated or even studied
+abstract: 'The gem-diol moieties of organic compounds are rarely isolated or even studied'
   in the solid state. Here, liquid- and solid-state NMR, together with single-crystal
   X-ray diffraction studies, were used to show different strategies to favor the gem-diol
   or carbonyl moieties and to isolate hemiacetal structures in formylpyridine and
@@ -28,7 +28,7 @@ abstract: The gem-diol moieties of organic compounds are rarely isolated or even
 featured: false
 publication: '*Journal of Physical Chemistry A*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84990245910&doi=10.1021%2facs.jpca.6b07898&partnerID=40&md5=7a32893556dbab1c605b03c66ded7d7c
-doi: 10.1021/acs.jpca.6b07898
+doi: '10.1021/acs.jpca.6b07898'
 # Summary. An optional shortened abstract.
 summary: 
 

@@ -1,5 +1,5 @@
 ---
-title: Enhanced electrochemical response of carbon quantum dot modified electrodes
+title: 'Enhanced electrochemical response of carbon quantum dot modified electrodes'
 date: '2018-01-01'
 
 authors:
@@ -12,7 +12,7 @@ authors:
 - J. Jiménez-Jiménez
 - E. Rodríguez-Castellón
 - M. del Valle
-abstract: A glassy carbon electrode (GCE) was surface-modified with carbon quantum
+abstract: 'A glassy carbon electrode (GCE) was surface-modified with carbon quantum'
   dots (CQDs) and applied for the effective enhancement of the electrochemical signal
   for dopamine and uric acid determination. CQDs were prepared from graphite by a
   green modification of the Hummers method. They were characterized by FTIR-ATR, XPS,
@@ -25,7 +25,7 @@ abstract: A glassy carbon electrode (GCE) was surface-modified with carbon quant
 featured: false
 publication: '*Talanta*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85032856402&doi=10.1016%2fj.talanta.2017.09.082&partnerID=40&md5=c531a2b3a9c5444e957a52806910585d
-doi: 10.1016/j.talanta.2017.09.082
+doi: '10.1016/j.talanta.2017.09.082'
 publication_types: ["2"]
 
 # Summary. An optional shortened abstract.

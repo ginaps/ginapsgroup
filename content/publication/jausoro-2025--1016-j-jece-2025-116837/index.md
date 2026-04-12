@@ -1,5 +1,5 @@
 ---
-title: Okara hydrogel reinforced with P-functionalized carbon quantum dots for soil water retention and phosphorous release
+title: 'Okara hydrogel reinforced with P-functionalized carbon quantum dots for soil water retention and phosphorous release'
 date: '2025-01-01'
 
 authors:
@@ -9,10 +9,10 @@ authors:
 - gcopello
 - mvillanueva
 
-abstract: 
+abstract: ''
 featured: false
 publication: '*Journal of Environmental Chemical Engineering*'
-url_source: https://doi.org/10.1016/j.jece.2025.116837
-doi: 10.1016/j.jece.2025.116837
+url_source: 'https://doi.org/10.1016/j.jece.2025.116837'
+doi: '10.1016/j.jece.2025.116837'
 publication_types: ['2']
 ---

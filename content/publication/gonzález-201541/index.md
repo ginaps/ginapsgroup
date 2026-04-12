@@ -32,7 +32,7 @@ abstract: 'This work presents the synthesis of chitin (Chi) and chitin/graphene 
 featured: false
 publication: '*Chemical Engineering Journal*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84930933617&doi=10.1016%2fj.cej.2015.05.112&partnerID=40&md5=a025f3470842ac039e3371b0a32df3a6
-doi: 10.1016/j.cej.2015.05.112
+doi: '10.1016/j.cej.2015.05.112'
 # Summary. An optional shortened abstract.
 summary: 
 

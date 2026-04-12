@@ -1,5 +1,5 @@
 ---
-title: Chitin nanowhiskers as alternative antimicrobial controlled release carriers
+title: 'Chitin nanowhiskers as alternative antimicrobial controlled release carriers'
 date: '2015-01-01'
 
 authors:
@@ -9,7 +9,7 @@ authors:
 - gcopello
 publication_types:
 - '2'
-abstract: Antimicrobial finishings protect users from pathogenic and odor-generating
+abstract: 'Antimicrobial finishings protect users from pathogenic and odor-generating'
   microorganisms, which are of medical and hygiene concerns. Controlled release is
   a useful approach to obtain antimicrobial finishings in several materials because
   it provides a gradual and persistent antibiotic release from the surface into the
@@ -27,7 +27,7 @@ abstract: Antimicrobial finishings protect users from pathogenic and odor-genera
 featured: false
 publication: '*New Journal of Chemistry*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84918794213&doi=10.1039%2fc4nj01522c&partnerID=40&md5=e100dda34fc6a7f77e774377c20bf1c9
-doi: 10.1039/c4nj01522c
+doi: '10.1039/c4nj01522c'
 # Summary. An optional shortened abstract.
 summary: 
 

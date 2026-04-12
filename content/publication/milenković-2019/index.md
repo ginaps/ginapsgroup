@@ -15,7 +15,7 @@ authors:
 - K. Radotić
 publication_types:
 - '2'
-abstract: Reports about the influence of cerium-oxide nanoparticles (nCeO2) on plants
+abstract: 'Reports about the influence of cerium-oxide nanoparticles (nCeO2) on plants'
   are contradictory due to their positive and negative effects on plants. Surface
   modification may affect the interaction of nCeO2 with the environment, and hence
   its availability to plants. In this study, the uncoated and glucose-, levan-, and
@@ -36,7 +36,7 @@ abstract: Reports about the influence of cerium-oxide nanoparticles (nCeO2) on p
 featured: false
 publication: '*Plants*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074654761&doi=10.3390%2fplants8110478&partnerID=40&md5=53573997dad37406c7cd6b14bfafca01
-doi: 10.3390/plants8110478
+doi: '10.3390/plants8110478'
 # Summary. An optional shortened abstract.
 summary: 
 

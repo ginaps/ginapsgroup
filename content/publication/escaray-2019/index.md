@@ -1,5 +1,5 @@
 ---
-title: Characterization of the copper transporters from lotus spp. and their involvement
+title: 'Characterization of the copper transporters from lotus spp. and their involvement'
   under flooding conditions
 date: '2019-01-01'
 
@@ -13,7 +13,7 @@ authors:
 - A. Perea-García
 publication_types:
 - '2'
-abstract: Forage legumes are an important livestock nutritional resource, which includes
+abstract: 'Forage legumes are an important livestock nutritional resource, which includes'
   essential metals, such as copper. Particularly, the high prevalence of hypocuprosis
   causes important economic losses to Argentinian cattle agrosystems. Copper deficiency
   in cattle is partially due to its low content in forage produced by natural grassland,
@@ -35,7 +35,7 @@ abstract: Forage legumes are an important livestock nutritional resource, which 
 featured: false
 publication: '*International Journal of Molecular Sciences*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068857616&doi=10.3390%2fijms20133136&partnerID=40&md5=665511d903e50392eead68c92326aa27
-doi: 10.3390/ijms20133136
+doi: '10.3390/ijms20133136'
 # Summary. An optional shortened abstract.
 summary: 
 

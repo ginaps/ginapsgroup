@@ -13,7 +13,7 @@ authors:
 - C. Freire
 publication_types:
 - '2'
-abstract: Coal fly ash (CFA) from different sources (CFA 5, 10, 13) and different
+abstract: 'Coal fly ash (CFA) from different sources (CFA 5, 10, 13) and different'
   size fractions (&gt; or &lt; 75 μm) were characterized and used as inorganic supports
   for sulfonic acid functionalization by two methodologies including one-pot organosilylation
   (CFA_CSPTMS) and two-step benzyl alcohol condensation followed by sulfonation (CFA_BnSO3H).
@@ -30,7 +30,7 @@ abstract: Coal fly ash (CFA) from different sources (CFA 5, 10, 13) and differen
 featured: false
 publication: '*Catalysis Today*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85069931766&doi=10.1016%2fj.cattod.2019.07.038&partnerID=40&md5=c8e0ef219293d8a677d4d4c64a587b92
-doi: 10.1016/j.cattod.2019.07.038
+doi: '10.1016/j.cattod.2019.07.038'
 # Summary. An optional shortened abstract.
 summary: 
 

@@ -1,5 +1,5 @@
 ---
-title: Synthesis and sorption properties of a polyampholyte
+title: 'Synthesis and sorption properties of a polyampholyte'
 date: '2008-01-01'
 
 authors:
@@ -28,7 +28,7 @@ abstract: 'A novel material that combines mechanical resistance with ampholyte c
 featured: false
 publication: '*Reactive and Functional Polymers*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-36849053536&doi=10.1016%2fj.reactfunctpolym.2007.09.011&partnerID=40&md5=98689055a1f3ea0c809ab0dd132aa1b6
-doi: 10.1016/j.reactfunctpolym.2007.09.011
+doi: '10.1016/j.reactfunctpolym.2007.09.011'
 # Summary. An optional shortened abstract.
 summary: 
 

@@ -1,5 +1,5 @@
 ---
-title: Lactoferrin purification and whey protein isolate recovery from cheese whey
+title: 'Lactoferrin purification and whey protein isolate recovery from cheese whey'
   using chitosan mini-spheres
 date: '2020-01-01'
 
@@ -15,7 +15,7 @@ authors:
 - wolman
 publication_types:
 - '2'
-abstract: Direct protein purification from raw materials by chromatographic media
+abstract: 'Direct protein purification from raw materials by chromatographic media'
   represents an enormous challenge, especially when particulate solids and high charge
   solute are present. In this sense, protein purification from cheese whey is an excellent
   opportunity to test new chromatographic matrices that can be applied to direct protein
@@ -32,7 +32,7 @@ abstract: Direct protein purification from raw materials by chromatographic medi
 featured: false
 publication: '*International Dairy Journal*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85088375613&doi=10.1016%2fj.idairyj.2020.104764&partnerID=40&md5=f6669f56e124931fba520c57e62b5eda
-doi: 10.1016/j.idairyj.2020.104764
+doi: '10.1016/j.idairyj.2020.104764'
 # Summary. An optional shortened abstract.
 summary: 
 

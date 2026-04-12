@@ -1,5 +1,5 @@
 ---
-title: The chemistry and applications of Gem-Diols
+title: 'The chemistry and applications of Gem-Diols'
 date: '2020-01-01'
 
 
@@ -10,7 +10,7 @@ authors:
 - jmlazaro
 publication_types:
 - '5'
-abstract: Geminal diols or gem-diols are the product of the addition of water to a
+abstract: 'Geminal diols or gem-diols are the product of the addition of water to a'
   carbonyl group of either an aldehyde or a ketone. These compounds are rarely stable
   and seldom found in the liquid or solid state since the moisture balance is largely
   dependent on the structure. However, the family of organic chemical compounds with

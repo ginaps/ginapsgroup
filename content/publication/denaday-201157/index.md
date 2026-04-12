@@ -1,5 +1,5 @@
 ---
-title: Development and characterization of a polyampholyte-based reactor immobilizing
+title: 'Development and characterization of a polyampholyte-based reactor immobilizing'
   soybean seed coat peroxidase for analytical applications in a flow system
 date: '2011-01-01'
 
@@ -13,7 +13,7 @@ authors:
 - V. Campo Dall' Orto
 publication_types:
 - '2'
-abstract: The aim of this work was the development of a reusable enzymatic reactor
+abstract: 'The aim of this work was the development of a reusable enzymatic reactor'
   based on soybean peroxidase for analytical purposes in a flow system. The innovation
   consisted in the application of a polyampholyte as a support for the immobilization
   of the enzyme extracted from soybean seed coat, without previous purification. A
@@ -33,7 +33,7 @@ abstract: The aim of this work was the development of a reusable enzymatic react
 featured: false
 publication: '*Biochemical Engineering Journal*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-80054843128&doi=10.1016%2fj.bej.2011.08.014&partnerID=40&md5=8f3ad6779825c87b38d835f812807e90
-doi: 10.1016/j.bej.2011.08.014
+doi: '10.1016/j.bej.2011.08.014'
 # Summary. An optional shortened abstract.
 summary: 
 

@@ -1,5 +1,5 @@
 ---
-title: Single step synthesis of a polyhydroxy ether and its optimization to adsorption
+title: 'Single step synthesis of a polyhydroxy ether and its optimization to adsorption'
   of a textile dye
 date: '2020-01-01'
 
@@ -30,7 +30,7 @@ abstract: 'An ion exchange resin was designed by combining different ratios of e
 featured: false
 publication: '*Journal of Environmental Chemical Engineering*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85077181005&doi=10.1016%2fj.jece.2019.103416&partnerID=40&md5=9952b4865de778635f7a18f7fcbedb90
-doi: 10.1016/j.jece.2019.103416
+doi: '10.1016/j.jece.2019.103416'
 # Summary. An optional shortened abstract.
 summary: 
 

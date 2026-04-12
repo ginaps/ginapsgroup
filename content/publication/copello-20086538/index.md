@@ -1,5 +1,5 @@
 ---
-title: Immobilized chitosan as biosorbent for the removal of Cd(II), Cr(III) and Cr(VI)
+title: 'Immobilized chitosan as biosorbent for the removal of Cd(II), Cr(III) and Cr(VI)'
   from aqueous solutions
 date: '2008-01-01'
 
@@ -11,7 +11,7 @@ authors:
 - L.E. Díaz
 publication_types:
 - '2'
-abstract: The generation of layer-by-layer silicate-chitosan composite biosorbent
+abstract: 'The generation of layer-by-layer silicate-chitosan composite biosorbent'
   was studied. The films were evaluated on its stability regarding the polymer leakage
   and its capability in the removal of Cd(II), Cr(III) and Cr(VI) from an aqueous
   solution. SEM, EDAX and ATR-IR techniques were applied for material characterization.
@@ -27,7 +27,7 @@ abstract: The generation of layer-by-layer silicate-chitosan composite biosorben
 featured: false
 publication: '*Bioresource Technology*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-43849087994&doi=10.1016%2fj.biortech.2007.11.055&partnerID=40&md5=a9f83b00870a5667b7ee3a4f343d20a9
-doi: 10.1016/j.biortech.2007.11.055
+doi: '10.1016/j.biortech.2007.11.055'
 # Summary. An optional shortened abstract.
 summary: 
 

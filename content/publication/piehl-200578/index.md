@@ -1,5 +1,5 @@
 ---
-title: Plasmatic antioxidant capacity due to ascorbate using TEMPO scavenging and
+title: 'Plasmatic antioxidant capacity due to ascorbate using TEMPO scavenging and'
   electron spin resonance
 date: '2005-01-01'
 
@@ -35,7 +35,7 @@ abstract: 'Background: Ascorbate is the most effective water-soluble antioxidant
 featured: false
 publication: '*Clinica Chimica Acta*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-23644439951&doi=10.1016%2fj.cccn.2005.03.035&partnerID=40&md5=279a51f7dcde740617e1d7d7cf5c7ec7
-doi: 10.1016/j.cccn.2005.03.035
+doi: '10.1016/j.cccn.2005.03.035'
 # Summary. An optional shortened abstract.
 summary: 
 

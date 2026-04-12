@@ -1,5 +1,5 @@
 ---
-title: HPLC-UV platform for trace analysis of three isomeric mononitrophenols in water
+title: 'HPLC-UV platform for trace analysis of three isomeric mononitrophenols in water'
   with chitin based solid phase extraction
 
 publishDate: '2017-04-21T19:26:32.108960Z'
@@ -33,7 +33,7 @@ abstract: "A method is described for simultaneous determination of trace levels 
 featured: false
 publication: '*Analytical Methods*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85025165396&doi=10.1039%2fc7ay01000a&partnerID=40&md5=6c3e68601b41c4a06edf8b14dfbde1d9
-doi: 10.1039/c7ay01000a# Summary. An optional shortened abstract.
+doi: '10.1039/c7ay01000a# Summary. An optional shortened abstract.'
 summary: 
 
 tags:

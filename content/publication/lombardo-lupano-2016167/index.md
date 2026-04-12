@@ -1,5 +1,5 @@
 ---
-title: Synthesis of Water-Soluble Oligomers from Imidazole, Ethyleneglycol Diglycidyl
+title: 'Synthesis of Water-Soluble Oligomers from Imidazole, Ethyleneglycol Diglycidyl'
   Ether, and Methacrylic Acid. An Insight into the Chemical Structure, Aggregation
   Behavior and Formation of Hollow Spheres
 date: '2016-01-01'
@@ -12,7 +12,7 @@ authors:
 - V. Campo Dall' Orto
 publication_types:
 - '2'
-abstract: The synthesis of non-soluble polyampholytes was modified to obtain water-soluble
+abstract: 'The synthesis of non-soluble polyampholytes was modified to obtain water-soluble'
   oligomers, by a sequential reaction at 60 °C of imidazole (IM), ethyleneglycol diglycidyl
   ether (EGDE) and methacrylic acid (MAA). The hydrogel Poly(EGDE-IM) with disubstituted
   imidazole (IM+) residues, enhanced its solubility in water by functionalization
@@ -26,7 +26,7 @@ abstract: The synthesis of non-soluble polyampholytes was modified to obtain wat
 featured: false
 publication: '*Macromolecular Materials and Engineering*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84958638493&doi=10.1002%2fmame.201500276&partnerID=40&md5=b4f1a9832cb8092e14da80f8148f9ea9
-doi: 10.1002/mame.201500276
+doi: '10.1002/mame.201500276'
 # Summary. An optional shortened abstract.
 summary: 
 

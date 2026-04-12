@@ -15,7 +15,7 @@ authors:
 - L.E. Diaz
 publication_types:
 - '2'
-abstract: A low-cost biosorbent hybrid material ready for application was obtained
+abstract: 'A low-cost biosorbent hybrid material ready for application was obtained'
   in this work. Yerba mate (Ilex paraguariensis) milling residual dust was used as
   a polyphenol source by ethanolic extraction. Polyphenols were immobilized within
   a SiO2 matrix to form an interpenetrated polymer after glutaraldehyde cross-linking.
@@ -34,7 +34,7 @@ abstract: A low-cost biosorbent hybrid material ready for application was obtain
 featured: false
 publication: '*Colloids and Surfaces B: Biointerfaces*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84866504234&doi=10.1016%2fj.colsurfb.2012.08.015&partnerID=40&md5=b88922e050821ef0e97743b2775e4c54
-doi: 10.1016/j.colsurfb.2012.08.015
+doi: '10.1016/j.colsurfb.2012.08.015'
 # Summary. An optional shortened abstract.
 summary: 
 

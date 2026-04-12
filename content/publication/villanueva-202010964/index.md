@@ -1,5 +1,5 @@
 ---
-title: Dual adsorbent-photocatalytic keratin-TiO2nanocomposite for trimethoprim removal
+title: 'Dual adsorbent-photocatalytic keratin-TiO2nanocomposite for trimethoprim removal'
   from wastewater
 date: '2020-01-01'
 
@@ -12,7 +12,7 @@ authors:
 - gcopello
 publication_types:
 - '2'
-abstract: Trimethoprim is an emerging pollutant that has been found in ground water
+abstract: 'Trimethoprim is an emerging pollutant that has been found in ground water'
   in alarming concentrations. Thus, the development of economical and efficient advanced
   water treatment technologies is crucially needed. In this paper, a keratin hydrogel
   with immersed TiO2 nanoparticles (nTiO2) was developed. The material was characterized
@@ -32,7 +32,7 @@ abstract: Trimethoprim is an emerging pollutant that has been found in ground wa
 featured: false
 publication: '*New Journal of Chemistry*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85087899963&doi=10.1039%2fd0nj02784g&partnerID=40&md5=3451cd744d090d143bc12b26869b5f3f
-doi: 10.1039/d0nj02784g
+doi: '10.1039/d0nj02784g'
 # Summary. An optional shortened abstract.
 summary: 
 

@@ -12,7 +12,7 @@ authors:
 - gcopello
 publication_types:
 - '2'
-abstract: The aim of this study was to investigate phosphorus removal in water by
+abstract: 'The aim of this study was to investigate phosphorus removal in water by'
   using a polyampholyte obtained by the reaction of methacrylic acid, ethylene glycol
   diglycidyl ether and imidazole by a one step synthesis, mixed with diatomaceous
   earth. The material was characterized before and after phosphorus exposure using
@@ -32,7 +32,7 @@ abstract: The aim of this study was to investigate phosphorus removal in water b
 featured: false
 publication: '*New Journal of Chemistry*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85026251219&doi=10.1039%2fc6nj04031d&partnerID=40&md5=34e877d66c0000db98c902c9c6c13a6d
-doi: 10.1039/c6nj04031d
+doi: '10.1039/c6nj04031d'
 # Summary. An optional shortened abstract.
 summary: 
 

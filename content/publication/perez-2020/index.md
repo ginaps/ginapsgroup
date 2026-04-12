@@ -1,5 +1,5 @@
 ---
-title: Low cost and regenerable composites based on chitin/bentonite for the adsorption
+title: 'Low cost and regenerable composites based on chitin/bentonite for the adsorption'
   potential emerging pollutants
 date: '2020-01-01'
 
@@ -12,7 +12,7 @@ authors:
 - gcopello
 publication_types:
 - '2'
-abstract: Composites based on bentonite and chitin were prepared and its application
+abstract: 'Composites based on bentonite and chitin were prepared and its application'
   for trimethoprim (TMP) adsorption from aqueous solution was investigated. Composites
   were characterized by ATR-FTIR, XRD, DSC and TGA. Characterization data revealed
   the intercalation of the chitin macromolecules into the bentonite interlayer. Several
@@ -27,7 +27,7 @@ abstract: Composites based on bentonite and chitin were prepared and its applica
 featured: false
 publication: '*Applied Clay Science*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85085768816&doi=10.1016%2fj.clay.2020.105703&partnerID=40&md5=46ebf28693ee001a33c8235e019bb4c2
-doi: 10.1016/j.clay.2020.105703
+doi: '10.1016/j.clay.2020.105703'
 # Summary. An optional shortened abstract.
 summary: 
 

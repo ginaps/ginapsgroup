@@ -11,7 +11,7 @@ authors:
 - L.E. Diaz
 publication_types:
 - '2'
-abstract: In this work, an all the way green analytical procedure based on a silicon
+abstract: 'In this work, an all the way green analytical procedure based on a silicon'
   oxide film-solid phase extraction system is proposed for lead traces determination.
   From the synthesis of a solid phase extraction (SPE) system and throughout the metal
   preconcentration and determination only aqueous media were employed. Characterisation
@@ -34,7 +34,7 @@ abstract: In this work, an all the way green analytical procedure based on a sil
 featured: false
 publication: '*International Journal of Environmental Analytical Chemistry*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-79960356271&doi=10.1080%2f03067311003628612&partnerID=40&md5=f85f880144e6e80538473f9a685a134f
-doi: 10.1080/03067311003628612
+doi: '10.1080/03067311003628612'
 # Summary. An optional shortened abstract.
 summary: 
 

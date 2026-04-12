@@ -1,5 +1,5 @@
 ---
-title: Induction of ABCG2/BCRP restricts the distribution of zidovudine to the fetal
+title: 'Induction of ABCG2/BCRP restricts the distribution of zidovudine to the fetal'
   brain in rats
 date: '2017-01-01'
 
@@ -15,7 +15,7 @@ authors:
 - R.N. Peroni
 publication_types:
 - '2'
-abstract: Safety concerns for fetus development of zidovudine (AZT) administration
+abstract: 'Safety concerns for fetus development of zidovudine (AZT) administration'
   as prophylaxis of vertical transmission of HIV persist. We evaluated the participation
   of the ATP-binding cassette efflux transporter ABCG2 in the penetration of AZT into
   the fetal brain and the relevance for drug safety. Oral daily doses of AZT (60 mg/kg
@@ -39,7 +39,7 @@ abstract: Safety concerns for fetus development of zidovudine (AZT) administrati
 featured: false
 publication: '*Toxicology and Applied Pharmacology*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85025100513&doi=10.1016%2fj.taap.2017.07.005&partnerID=40&md5=be258e143b8bc2ac731bf58bb3bbd52d
-doi: 10.1016/j.taap.2017.07.005
+doi: '10.1016/j.taap.2017.07.005'
 # Summary. An optional shortened abstract.
 summary: 
 

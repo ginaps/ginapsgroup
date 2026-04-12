@@ -1,5 +1,5 @@
 ---
-title: Synthesis, characterization, and catalytic properties of cationic hydrogels
+title: 'Synthesis, characterization, and catalytic properties of cationic hydrogels'
   containing copper(II) and cobalt(II) ions
 date: '2014-01-01'
 
@@ -12,7 +12,7 @@ authors:
 - V. Campo Dall Orto
 publication_types:
 - '2'
-abstract: Here, we report the synthesis and characterization of a hydrogel based on
+abstract: 'Here, we report the synthesis and characterization of a hydrogel based on'
   ethylene glycol diglycidyl ether (EGDE) and 1,8-diamino-3,6-dioxaoctane (DA). Chemically
   stable Co(II) and Cu(II) coordination complexes were prepared with this nonsoluble
   polyelectrolyte, poly(EGDE-DA), and studied by ss-NMR, FT-IR, thermogravimetry,
@@ -33,7 +33,7 @@ abstract: Here, we report the synthesis and characterization of a hydrogel based
 featured: false
 publication: '*Langmuir*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84898964882&doi=10.1021%2fla404799t&partnerID=40&md5=506af8a5bd748c732d56187e15552558
-doi: 10.1021/la404799t
+doi: '10.1021/la404799t'
 # Summary. An optional shortened abstract.
 summary: 
 

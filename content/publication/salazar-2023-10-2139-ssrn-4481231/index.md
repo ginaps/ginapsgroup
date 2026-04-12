@@ -1,5 +1,5 @@
 ---
-title: Metal-Organic Framework Functionalized Chitosan/Pectin Membranes for Water Remediation: Multifunctional Combination of Adsorption, Oxidative Photocatalysis and Antimicrobial Properties
+title: 'Metal-Organic Framework Functionalized Chitosan/Pectin Membranes for Water Remediation: Multifunctional Combination of Adsorption, Oxidative Photocatalysis and Antimicrobial Properties'
 date: '2023-01-01'
 
 authors:
@@ -20,10 +20,10 @@ authors:
 - Pedro M. Martins
 - roberto
 
-abstract: 
+abstract: ''
 featured: false
 publication: '**'
-url_source: https://doi.org/10.2139/ssrn.4481231
-doi: 10.2139/ssrn.4481231
+url_source: 'https://doi.org/10.2139/ssrn.4481231'
+doi: '10.2139/ssrn.4481231'
 publication_types: ['2']
 ---

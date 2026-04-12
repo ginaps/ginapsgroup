@@ -1,5 +1,5 @@
 ---
-title: Fingerprint imaging using N-doped carbon dots
+title: 'Fingerprint imaging using N-doped carbon dots'
 date: '2019-01-01'
 
 authors:
@@ -14,7 +14,7 @@ authors:
 - T.J. Bandosz
 publication_types:
 - '2'
-abstract: Carbon Dots (CDs) were obtained using a hydrothermal method and used for
+abstract: 'Carbon Dots (CDs) were obtained using a hydrothermal method and used for'
   the detection of fingerprints through fluorescent imaging. Synthesized CDs exhibited
   a brightness emission at 495 nm, which was related to their structural and chemical
   properties. The results of detailed surface characterizations by XPS, ss-NMR and
@@ -28,7 +28,7 @@ abstract: Carbon Dots (CDs) were obtained using a hydrothermal method and used f
 featured: false
 publication: '*Carbon*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060027083&doi=10.1016%2fj.carbon.2018.12.102&partnerID=40&md5=f3b406e4af94886a2fef512bf95a6327
-doi: 10.1016/j.carbon.2018.12.102
+doi: '10.1016/j.carbon.2018.12.102'
 # Summary. An optional shortened abstract.
 summary: 
 

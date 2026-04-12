@@ -1,5 +1,5 @@
 ---
-title: A new look at the halogenation of porphyrins
+title: 'A new look at the halogenation of porphyrins'
 date: '2017-01-01'
 
 authors:
@@ -8,7 +8,7 @@ authors:
 - G.Y. Buldain
 publication_types:
 - '2'
-abstract: The present study describes the selective halogenation at the β-or meso-position
+abstract: 'The present study describes the selective halogenation at the β-or meso-position'
   of the porphyrin macrocycle. The reactions of deuteroporphyrin IX dimethyl ester,
   mesoporphyrin III dimethyl ester and their Cu(II) and Ni(II) complexes with N-bromosuccinimide
   or phenylselenyl chloride were investigated. It could be observed that when the
@@ -27,7 +27,7 @@ abstract: The present study describes the selective halogenation at the β-or me
 featured: false
 publication: '*Current Organic Chemistry*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85041942871&doi=10.2174%2f1385272820666160922154159&partnerID=40&md5=df7539e7d5cdc97a1bd5ee7b15fac52b
-doi: 10.2174/1385272820666160922154159
+doi: '10.2174/1385272820666160922154159'
 # Summary. An optional shortened abstract.
 summary: 
 

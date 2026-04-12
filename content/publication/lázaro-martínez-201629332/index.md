@@ -1,5 +1,5 @@
 ---
-title: New Insights about the Selectivity in the Activation of Hydrogen Peroxide by
+title: 'New Insights about the Selectivity in the Activation of Hydrogen Peroxide by'
   Cobalt or Copper Hydrogel Heterogeneous Catalysts in the Generation of Reactive
   Oxygen Species
 date: '2016-01-01'
@@ -12,7 +12,7 @@ authors:
 - V. Campo Dall Orto
 publication_types:
 - '2'
-abstract: We report the performance of Co(II) and Cu(II) coordination complexes on
+abstract: 'We report the performance of Co(II) and Cu(II) coordination complexes on'
   H2O2 activation. The heterogeneous catalysts containing aliphatic amine, N-heterocycle,
   and/or carboxylic acid ligands in hydrogel materials coordinated with Co(II) or
   Cu(II) were used in this study. These complexes were characterized by solid-state
@@ -33,7 +33,7 @@ abstract: We report the performance of Co(II) and Cu(II) coordination complexes 
 featured: false
 publication: '*Journal of Physical Chemistry C*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85027024090&doi=10.1021%2facs.jpcc.6b10957&partnerID=40&md5=bf34df976207a6902345b979760ced3a
-doi: 10.1021/acs.jpcc.6b10957
+doi: '10.1021/acs.jpcc.6b10957'
 # Summary. An optional shortened abstract.
 summary: 
 

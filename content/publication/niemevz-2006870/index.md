@@ -1,5 +1,5 @@
 ---
-title: Synthesis and electrochemical properties of a novel mono-meso-ferrocenyl porphyrin
+title: 'Synthesis and electrochemical properties of a novel mono-meso-ferrocenyl porphyrin'
 date: '2006-01-01'
 
 authors:
@@ -10,7 +10,7 @@ authors:
 - G.Y. Buldain
 publication_types:
 - '2'
-abstract: A synthetic route to mono-meso-ferrocenyl porphyrins using a MacDonald-type
+abstract: 'A synthetic route to mono-meso-ferrocenyl porphyrins using a MacDonald-type'
   2+2 condensation is described. In this method, the substituted diformyldipyrrylmethane
   4 is treated with the dicarboxydipyrrylmethane 6. The 5-ferrocenyldipyrrylmethane
   was obtained by condensation of benzyl 3-methyl-4-ethylpyrrol-2-carboxylate with
@@ -25,7 +25,7 @@ abstract: A synthetic route to mono-meso-ferrocenyl porphyrins using a MacDonald
 featured: false
 publication: '*Synthesis*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-33644897120&doi=10.1055%2fs-2006-926330&partnerID=40&md5=778a446b90250d9062badc14d0ad3f3e
-doi: 10.1055/s-2006-926330
+doi: '10.1055/s-2006-926330'
 # Summary. An optional shortened abstract.
 summary: 
 

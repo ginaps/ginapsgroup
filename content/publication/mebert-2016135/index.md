@@ -1,5 +1,5 @@
 ---
-title: Surface chemistry of nanobiomaterials with antimicrobial activity
+title: 'Surface chemistry of nanobiomaterials with antimicrobial activity'
 date: '2016-01-01'
 
 
@@ -13,7 +13,7 @@ authors:
 - M.F. Desimone
 publication_types:
 - '5'
-abstract: Biofilms are common in nature and are often associated with undesirable
+abstract: 'Biofilms are common in nature and are often associated with undesirable'
   effects such as the deterioration of concrete, metal corrosion, fouling of oil and
   gas pipelines and ships hulls, dental plaques causing tooth decay, and microbial
   colonization of indwelling or percutaneous medical devices, such as catheters, artificial
@@ -34,7 +34,7 @@ abstract: Biofilms are common in nature and are often associated with undesirabl
 featured: false
 publication: '*Surface Chemistry of Nanobiomaterials: Applications of Nanobiomaterials*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85058809904&doi=10.1016%2fB978-0-323-42861-3.00005-4&partnerID=40&md5=a05c21aac4f909609a8f3d253bd4973e
-doi: 10.1016/B978-0-323-42861-3.00005-4
+doi: '10.1016/B978-0-323-42861-3.00005-4'
 # Summary. An optional shortened abstract.
 summary: 
 

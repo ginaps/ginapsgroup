@@ -1,5 +1,5 @@
 ---
-title: NMR characterization of hydrate and aldehyde forms of imidazole-2- carboxaldehyde
+title: 'NMR characterization of hydrate and aldehyde forms of imidazole-2- carboxaldehyde'
   and derivatives
 date: '2010-01-01'
 
@@ -10,7 +10,7 @@ authors:
 - G.Y. Buldain
 publication_types:
 - '2'
-abstract: The existence and stability of the aldehyde-hydrate form of imidazole-2-carboxaldehyde
+abstract: 'The existence and stability of the aldehyde-hydrate form of imidazole-2-carboxaldehyde'
   (4) were studied using FTIR together with solution- and solid-state NMR experiments.
   The results allowed us to conclude that the hydrate form was stable and precipitated
   at pH = 8.0 and that the aldehyde form was isolated at pH = 6.5 and 9.5. Moreover,
@@ -24,7 +24,7 @@ abstract: The existence and stability of the aldehyde-hydrate form of imidazole-
 featured: false
 publication: '*Journal of Organic Chemistry*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-77952522875&doi=10.1021%2fjo902588s&partnerID=40&md5=34b6a6780e27a0457f68b708075ecca7
-doi: 10.1021/jo902588s
+doi: '10.1021/jo902588s'
 # Summary. An optional shortened abstract.
 summary: 
 

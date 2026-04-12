@@ -12,7 +12,7 @@ authors:
 - gcopello
 publication_types:
 - '2'
-abstract: In this work, we present two novel nanostructured hybrid materials based
+abstract: 'In this work, we present two novel nanostructured hybrid materials based'
   on a chitin matrix loaded with increasing amounts of graphene oxide and reduced
   graphene oxide nanosheets (nGO and rGO, respectively). Both kinds of material (Chi:nGO
   and Chi:rGO) were studied using different spectroscopic and rheological techniques
@@ -32,7 +32,7 @@ abstract: In this work, we present two novel nanostructured hybrid materials bas
 featured: false
 publication: '*RSC Advances*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84938295013&doi=10.1039%2fc5ra13563j&partnerID=40&md5=ab083e81dd8514752278235e2cc0b4af
-doi: 10.1039/c5ra13563j
+doi: '10.1039/c5ra13563j'
 # Summary. An optional shortened abstract.
 summary: 
 

@@ -26,7 +26,7 @@ abstract: 'Chitin hybrid materials reinforced with graphene oxide nanosheets (nG
 featured: false
 publication: '*RSC Advances*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84898005134&doi=10.1039%2fc3ra47986b&partnerID=40&md5=c7024a21202e95f3f9f05c3b7195b5ed
-doi: 10.1039/c3ra47986b
+doi: '10.1039/c3ra47986b'
 # Summary. An optional shortened abstract.
 summary: 
 

@@ -17,7 +17,7 @@ authors:
 - P. Bosch
 publication_types:
 - '2'
-abstract: The development of efficient transfection protocols for livestock cells
+abstract: 'The development of efficient transfection protocols for livestock cells'
   is crucial for implementation of cell-based transgenic methods to produce genetically
   modified animals. We synthetized fully deacylated linear 22, 87 and 217 kDa polyethylenimine
   (PEI) nanoparticles and compared their transfection efficiency and cytotoxicity
@@ -37,7 +37,7 @@ abstract: The development of efficient transfection protocols for livestock cell
 featured: false
 publication: '*Cytotechnology*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85015631345&doi=10.1007%2fs10616-017-0075-6&partnerID=40&md5=e8ead8834768c972e61048cb35110d27
-doi: 10.1007/s10616-017-0075-6
+doi: '10.1007/s10616-017-0075-6'
 # Summary. An optional shortened abstract.
 summary: 
 

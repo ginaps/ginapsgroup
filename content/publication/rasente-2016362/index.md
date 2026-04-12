@@ -1,5 +1,5 @@
 ---
-title: Dermatan sulfate/chitosan polyelectrolyte complex with potential application
+title: 'Dermatan sulfate/chitosan polyelectrolyte complex with potential application'
   in the treatment and diagnosis of vascular disease
 date: '2016-01-01'
 
@@ -13,7 +13,7 @@ authors:
 - G.C. Calabrese
 publication_types:
 - '2'
-abstract: Cardiovascular disease is the largest single cause of morbid-mortality in
+abstract: 'Cardiovascular disease is the largest single cause of morbid-mortality in'
   the world. However, there is still no pharmaceutical treatment that directly targets
   the blood vessel wall instead of just controlling the risk factors. Here, we produced
   polyelectrolyte complexes (PECs) by a simple and reproducible polyelectrolyte complexation
@@ -31,7 +31,7 @@ abstract: Cardiovascular disease is the largest single cause of morbid-mortality
 featured: false
 publication: '*Carbohydrate Polymers*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84988566284&doi=10.1016%2fj.carbpol.2016.02.046&partnerID=40&md5=b9736db6eb1006b3264a945ef301504b
-doi: 10.1016/j.carbpol.2016.02.046
+doi: '10.1016/j.carbpol.2016.02.046'
 # Summary. An optional shortened abstract.
 summary: 
 

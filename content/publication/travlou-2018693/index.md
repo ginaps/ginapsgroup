@@ -1,5 +1,5 @@
 ---
-title: Carbon quantum dot surface-chemistry-dependent ag release governs the high
+title: 'Carbon quantum dot surface-chemistry-dependent ag release governs the high'
   antibacterial activity of Ag-metal-organic framework composites
 date: '2018-01-01'
 
@@ -14,7 +14,7 @@ authors:
 - T.J. Bandosz
 publication_types:
 - '2'
-abstract: Nanocomposites and hybrid materials of Ag-1,3,5- benzenetricarboxylic acid
+abstract: 'Nanocomposites and hybrid materials of Ag-1,3,5- benzenetricarboxylic acid'
   metal-organic frameworks (MOFs) with Sand N-carbon quantum dots (CQDs) were synthesized
   and evaluated for their antibacterial activity against representative Gram-positive
   (Bacillus subtilis) and Gram-negative (Escherichia coli) bacterial strains using
@@ -36,7 +36,7 @@ abstract: Nanocomposites and hybrid materials of Ag-1,3,5- benzenetricarboxylic 
 featured: false
 publication: '*ACS Applied Bio Materials*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85067553125&doi=10.1021%2facsabm.8b00166&partnerID=40&md5=8479b57b50baeb5497f48687c9bfd09a
-doi: 10.1021/acsabm.8b00166
+doi: '10.1021/acsabm.8b00166'
 # Summary. An optional shortened abstract.
 summary: 
 

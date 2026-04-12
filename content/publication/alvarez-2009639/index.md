@@ -1,5 +1,5 @@
 ---
-title: Effect of various parameters on viability and growth of bacteria immobilized
+title: 'Effect of various parameters on viability and growth of bacteria immobilized'
   in sol-gel-derived silica matrices
 
 publishDate: '2009-04-21T19:26:33.081591Z'
@@ -11,7 +11,7 @@ authors:
 - L.E. Diaz
 publication_types:
 - '2'
-abstract: Immobilized bacteria are being extensively used for metabolite production,
+abstract: 'Immobilized bacteria are being extensively used for metabolite production,'
   biocatalysts, and biosensor construction. However, long-term viability and metabolic
   activity of entrapped bacteria is affected by several conditions such as their physiological
   state, the presence of high-osmolarity environments, porous structure and shrinkage
@@ -33,7 +33,7 @@ abstract: Immobilized bacteria are being extensively used for metabolite product
 featured: false
 publication: '*Applied Microbiology and Biotechnology*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-61449261797&doi=10.1007%2fs00253-008-1783-9&partnerID=40&md5=8ea9069503da23245f73eb5412534180
-doi: 10.1007/s00253-008-1783-9
+doi: '10.1007/s00253-008-1783-9'
 # Summary. An optional shortened abstract.
 summary: 
 

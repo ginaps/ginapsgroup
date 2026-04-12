@@ -1,5 +1,5 @@
 ---
-title: Removal of dyes from water using chitosan hydrogel/SiO2 and chitin hydrogel/SiO2
+title: 'Removal of dyes from water using chitosan hydrogel/SiO2 and chitin hydrogel/SiO2'
   hybrid materials obtained by the sol-gel method
 date: '2011-01-01'
 
@@ -13,7 +13,7 @@ authors:
 - L.E. Diaz
 publication_types:
 - '2'
-abstract: This work describes the synthesis of chitosan hydrogel/SiO2 and chitin hydrogel/SiO2
+abstract: 'This work describes the synthesis of chitosan hydrogel/SiO2 and chitin hydrogel/SiO2'
   hybrid mesoporous materials obtained by the sol-gel method for their use as biosorbents.
   Their adsorption capabilities against four dyes (Remazol Black B, Erythrosine B,
   Neutral Red and Gentian Violet) were compared in order to evaluate chitin as a plausible
@@ -34,7 +34,7 @@ abstract: This work describes the synthesis of chitosan hydrogel/SiO2 and chitin
 featured: false
 publication: '*Journal of Hazardous Materials*'
 url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-79551548471&doi=10.1016%2fj.jhazmat.2010.11.097&partnerID=40&md5=f2a74a0379b54e775ed42bd0f98025dc
-doi: 10.1016/j.jhazmat.2010.11.097
+doi: '10.1016/j.jhazmat.2010.11.097'
 # Summary. An optional shortened abstract.
 summary: 
 
