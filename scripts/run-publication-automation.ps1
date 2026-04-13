@@ -11,6 +11,7 @@ $ErrorActionPreference = 'Stop'
 
 $scriptDir = Split-Path -Parent $MyInvocation.MyCommand.Path
 $syncScript = Join-Path $scriptDir 'sync-publications.ps1'
+$preferredShell = if (Get-Command pwsh -ErrorAction SilentlyContinue) { 'pwsh' } elseif (Get-Command powershell -ErrorAction SilentlyContinue) { 'powershell' } else { throw 'No PowerShell executable found in PATH.' }
 
 if (-not (Test-Path $syncScript)) {
   throw "sync-publications.ps1 not found in $scriptDir"
@@ -23,7 +24,7 @@ if (-not $SkipImport) {
   }
 
   Write-Host 'Step 1/3: importing new publications from ORCID sources'
-  & powershell @importArgs
+  & $preferredShell @importArgs
   if ($LASTEXITCODE -ne 0) {
     exit $LASTEXITCODE
   }
@@ -31,7 +32,7 @@ if (-not $SkipImport) {
 
 if (-not $SkipSync) {
   Write-Host 'Step 2/3: syncing authors across all publications'
-  & powershell -NoProfile -ExecutionPolicy Bypass -File $syncScript -WriteChanges
+  & $preferredShell -NoProfile -ExecutionPolicy Bypass -File $syncScript -WriteChanges
   if ($LASTEXITCODE -ne 0) {
     exit $LASTEXITCODE
   }
@@ -43,5 +44,5 @@ if (-not $FailOnUnresolvedAuthors) {
 }
 
 Write-Host 'Step 3/3: validating duplicates and publication consistency'
-& powershell @validateArgs
+& $preferredShell @validateArgs
 exit $LASTEXITCODE

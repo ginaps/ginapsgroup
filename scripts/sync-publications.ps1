@@ -556,7 +556,15 @@ function Get-DoiBibTex {
   param([Parameter(Mandatory = $true)][string]$DoiValue)
 
   $doiUrl = 'https://doi.org/{0}' -f $DoiValue
-  $response = Invoke-WebRequest -Headers @{ Accept = 'application/x-bibtex; charset=utf-8' } -Uri $doiUrl
+  $invokeArgs = @{
+    Headers = @{ Accept = 'application/x-bibtex; charset=utf-8' }
+    Uri = $doiUrl
+  }
+  if ($PSVersionTable.PSVersion.Major -lt 6) {
+    $invokeArgs.UseBasicParsing = $true
+  }
+
+  $response = Invoke-WebRequest @invokeArgs
   return ($response.Content.Trim() + "`n")
 }
 
