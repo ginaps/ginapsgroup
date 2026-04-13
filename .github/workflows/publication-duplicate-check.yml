@@ -1,0 +1,23 @@
+name: Publication Duplicate Check
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 9 1 * *'
+
+permissions:
+  contents: read
+
+jobs:
+  check-duplicates:
+    runs-on: windows-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Run publication duplicate check
+        shell: pwsh
+        run: pwsh -NoProfile -ExecutionPolicy Bypass -File ./scripts/find-publication-duplicates.ps1
