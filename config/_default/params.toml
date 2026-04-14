@@ -41,7 +41,7 @@ site_type = "Organization"
 
 # Local business type (optional)
 # If you entered "LocalBusiness" above, choose the type of business from https://schema.org/LocalBusiness#subtypes
-local_business_type = ""
+#local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
@@ -121,7 +121,7 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
-sharing_image = "contact.jpg"
+sharing_image = "portada.png"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = "GINaPsgroup"
